@@ -376,7 +376,11 @@ def start_dashboard(port: int = 8000, open_browser: bool = False):
             print("\n[SERVER] Server shutting down cleanly.")
 
 if __name__ == "__main__":
-    port = 8000
-    if len(sys.argv) > 1 and sys.argv[1].isdigit():
+    env_port = os.environ.get("PORT")
+    if env_port and env_port.isdigit():
+        port = int(env_port)
+    elif len(sys.argv) > 1 and sys.argv[1].isdigit():
         port = int(sys.argv[1])
+    else:
+        port = 8000
     start_dashboard(port=port)
