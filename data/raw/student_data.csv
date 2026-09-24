@@ -1,0 +1,2501 @@
+student_id,hours_studied,attendance_rate,previous_score,sleep_hours,tutoring_sessions,parental_education,internet_access,extracurricular_activities,peer_study_group,stress_level,final_score,performance_tier
+STU_10000,18.2,71.7,57.8,6.2,0,High School,Yes,No,Yes,6,88.2,Distinction
+STU_10001,14.1,83.9,91.3,6.3,0,Master's,Yes,No,No,8,100.0,Distinction
+STU_10002,19.2,88.7,84.8,7.1,0,High School,Yes,Yes,No,2,100.0,Distinction
+STU_10003,24.9,85.8,72.0,7.9,0,High School,Yes,Yes,No,3,100.0,Distinction
+STU_10004,13.5,83.2,74.2,8.0,1,High School,Yes,No,No,7,94.9,Distinction
+STU_10005,13.5,68.2,69.0,6.1,0,Doctorate,Yes,No,Yes,2,89.7,Distinction
+STU_10006,25.3,72.2,78.8,6.0,2,High School,Yes,Yes,No,5,97.9,Distinction
+STU_10007,20.0,78.0,63.9,6.1,0,Bachelor's,Yes,Yes,No,9,79.8,Merit
+STU_10008,11.9,79.4,83.9,7.1,2,Master's,Yes,Yes,No,7,100.0,Distinction
+STU_10009,18.5,64.5,69.0,6.9,1,Bachelor's,Yes,Yes,Yes,3,100.0,Distinction
+STU_10010,12.0,91.1,67.0,6.1,5,Some College,Yes,No,No,2,99.9,Distinction
+STU_10011,12.0,45.0,72.3,7.5,5,Master's,Yes,Yes,No,10,84.8,Merit
+STU_10012,16.6,94.6,64.9,9.9,3,Master's,Yes,Yes,Yes,9,95.0,Distinction
+STU_10013,2.6,61.2,75.9,6.6,2,Some College,Yes,Yes,No,9,65.9,Pass
+STU_10014,3.8,71.5,65.6,6.7,1,Bachelor's,Yes,No,Yes,9,70.5,Merit
+STU_10015,11.3,82.2,77.6,7.9,2,Doctorate,Yes,No,Yes,10,89.6,Distinction
+STU_10016,8.4,71.1,86.6,6.5,4,Doctorate,Yes,No,No,3,100.0,Distinction
+STU_10017,17.0,79.4,63.4,8.0,0,Some College,Yes,No,No,1,90.4,Distinction
+STU_10018,9.1,86.9,70.4,6.3,1,Master's,Yes,No,Yes,9,89.5,Distinction
+STU_10019,5.8,78.7,77.5,9.4,0,Some College,Yes,No,Yes,7,89.8,Distinction
+STU_10020,24.5,96.4,66.8,7.6,1,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_10021,13.5,59.1,77.6,6.5,1,High School,Yes,Yes,Yes,6,88.6,Distinction
+STU_10022,15.4,63.2,78.7,6.5,1,High School,Yes,No,Yes,9,75.5,Merit
+STU_10023,5.7,72.9,85.0,6.6,1,Bachelor's,Yes,Yes,No,8,84.6,Merit
+STU_10024,11.5,75.2,64.7,8.8,4,Some College,Yes,No,Yes,6,94.5,Distinction
+STU_10025,15.7,79.0,60.7,5.7,1,High School,Yes,Yes,No,6,88.2,Distinction
+STU_10026,7.5,98.7,68.3,6.4,3,Some College,No,No,Yes,8,87.2,Distinction
+STU_10027,17.4,72.8,60.4,6.5,0,Some College,Yes,Yes,No,9,73.4,Merit
+STU_10028,11.1,52.7,78.8,7.2,1,Doctorate,Yes,Yes,Yes,8,85.8,Distinction
+STU_10029,13.1,78.3,58.1,6.9,1,Master's,Yes,No,No,1,85.4,Distinction
+STU_10030,11.1,70.3,99.0,5.4,0,Some College,Yes,Yes,No,2,85.7,Distinction
+STU_10031,27.0,93.5,87.6,6.7,1,Master's,No,No,No,6,100.0,Distinction
+STU_10032,14.9,75.6,72.2,7.1,1,Some College,Yes,Yes,No,8,92.0,Distinction
+STU_10033,8.1,64.6,82.4,6.4,1,Bachelor's,Yes,No,No,4,85.5,Distinction
+STU_10034,20.3,61.9,52.4,8.0,2,Doctorate,No,No,Yes,4,87.1,Distinction
+STU_10035,7.1,80.0,99.0,8.3,1,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_10036,16.4,76.1,64.9,7.1,0,Bachelor's,Yes,No,Yes,10,88.1,Distinction
+STU_10037,2.3,77.7,70.6,7.5,2,Some College,No,Yes,No,1,80.5,Merit
+STU_10038,6.4,66.0,49.7,4.6,0,Some College,Yes,Yes,Yes,10,44.3,At-Risk
+STU_10039,16.3,83.1,77.8,6.7,0,Bachelor's,No,No,Yes,9,88.9,Distinction
+STU_10040,19.8,93.0,58.7,8.4,0,Doctorate,Yes,No,Yes,7,99.8,Distinction
+STU_10041,16.1,50.5,73.2,6.7,0,Some College,Yes,Yes,No,9,73.0,Merit
+STU_10042,14.2,62.8,65.5,6.3,0,Master's,No,Yes,No,2,81.6,Merit
+STU_10043,13.0,74.1,59.1,9.9,0,Master's,Yes,No,Yes,10,67.7,Pass
+STU_10044,5.4,92.1,62.3,9.4,0,Some College,Yes,Yes,No,5,82.7,Merit
+STU_10045,10.3,94.5,74.7,7.8,2,Some College,Yes,No,No,2,100.0,Distinction
+STU_10046,12.0,66.5,56.6,8.6,0,Bachelor's,Yes,No,No,10,72.3,Merit
+STU_10047,21.9,95.6,63.0,4.5,1,Some College,No,Yes,No,7,81.1,Merit
+STU_10048,17.2,95.6,80.0,6.3,3,High School,Yes,Yes,No,9,100.0,Distinction
+STU_10049,3.5,86.8,99.0,6.6,2,Doctorate,Yes,Yes,No,3,100.0,Distinction
+STU_10050,17.1,78.2,77.7,6.9,0,Bachelor's,Yes,No,Yes,1,100.0,Distinction
+STU_10051,12.5,77.3,61.0,6.6,4,Some College,No,No,No,4,94.1,Distinction
+STU_10052,10.6,76.1,67.6,4.1,0,Bachelor's,Yes,No,Yes,4,77.1,Merit
+STU_10053,19.0,63.9,72.4,7.7,0,High School,Yes,Yes,No,6,85.3,Distinction
+STU_10054,21.7,67.5,67.8,7.9,5,Some College,Yes,No,No,5,98.5,Distinction
+STU_10055,21.1,68.7,82.8,9.1,3,Master's,Yes,Yes,Yes,5,100.0,Distinction
+STU_10056,9.5,68.2,74.6,6.3,1,Master's,Yes,No,No,9,83.2,Merit
+STU_10057,13.0,55.7,82.9,6.2,2,Some College,Yes,Yes,No,1,88.8,Distinction
+STU_10058,17.2,94.9,68.2,4.0,2,Some College,Yes,No,Yes,8,81.0,Merit
+STU_10059,21.3,74.6,87.9,6.8,0,Bachelor's,Yes,No,No,8,94.5,Distinction
+STU_10060,11.9,61.9,70.0,8.3,0,Some College,Yes,Yes,No,8,80.6,Merit
+STU_10061,13.8,48.8,60.3,6.5,1,High School,No,No,Yes,3,67.8,Pass
+STU_10062,7.8,88.4,98.1,9.8,3,Some College,Yes,Yes,No,10,86.0,Distinction
+STU_10063,7.2,68.7,50.1,6.9,0,Bachelor's,Yes,Yes,Yes,8,71.4,Merit
+STU_10064,20.3,78.5,63.1,7.4,2,High School,Yes,Yes,No,2,95.5,Distinction
+STU_10065,23.8,62.3,64.5,5.6,0,High School,No,No,Yes,8,65.7,Pass
+STU_10066,14.5,84.1,99.0,7.5,1,High School,Yes,No,No,8,100.0,Distinction
+STU_10067,21.5,80.4,93.7,4.8,2,Some College,Yes,No,Yes,3,95.4,Distinction
+STU_10068,17.4,45.0,89.9,8.0,2,Some College,Yes,No,Yes,4,93.5,Distinction
+STU_10069,10.8,88.1,68.0,8.1,0,Some College,Yes,Yes,No,9,86.2,Distinction
+STU_10070,17.3,90.4,99.0,8.8,1,Some College,Yes,Yes,No,9,99.0,Distinction
+STU_10071,25.0,76.2,76.4,6.0,1,Master's,Yes,Yes,No,10,88.6,Distinction
+STU_10072,14.8,70.4,83.7,7.4,0,High School,Yes,No,No,9,81.0,Merit
+STU_10073,25.2,89.3,74.2,7.9,0,Some College,Yes,No,No,10,95.0,Distinction
+STU_10074,2.0,81.4,71.4,7.7,2,Master's,Yes,Yes,No,6,89.8,Distinction
+STU_10075,20.3,77.2,69.0,6.2,1,Bachelor's,Yes,No,No,1,100.0,Distinction
+STU_10076,15.6,71.6,69.5,4.3,0,Bachelor's,Yes,No,No,8,64.2,Pass
+STU_10077,13.1,79.2,79.3,7.6,1,Some College,Yes,Yes,No,9,90.1,Distinction
+STU_10078,15.6,93.6,76.4,7.0,3,High School,Yes,Yes,Yes,8,100.0,Distinction
+STU_10079,2.1,83.4,71.6,6.5,0,Bachelor's,No,No,No,1,67.6,Pass
+STU_10080,13.6,60.1,90.1,8.1,2,Bachelor's,Yes,Yes,No,6,100.0,Distinction
+STU_10081,17.3,76.6,38.0,7.1,0,High School,Yes,No,No,9,72.1,Merit
+STU_10082,24.6,79.1,78.1,5.6,0,Some College,Yes,Yes,Yes,9,89.5,Distinction
+STU_10083,11.6,77.6,80.6,4.9,0,Master's,Yes,Yes,No,7,84.4,Merit
+STU_10084,9.7,73.7,85.8,5.8,1,High School,Yes,Yes,Yes,7,89.2,Distinction
+STU_10085,11.7,75.7,71.2,10.0,3,Some College,Yes,No,No,4,82.8,Merit
+STU_10086,21.0,49.2,74.5,8.1,0,Some College,Yes,Yes,No,7,81.4,Merit
+STU_10087,17.1,80.1,83.8,7.4,2,Bachelor's,Yes,No,Yes,10,100.0,Distinction
+STU_10088,11.6,66.5,89.9,7.0,1,Bachelor's,Yes,Yes,No,5,96.4,Distinction
+STU_10089,18.3,56.8,68.4,6.9,0,Bachelor's,Yes,Yes,No,10,68.8,Pass
+STU_10090,15.6,88.4,75.2,8.6,1,Some College,Yes,No,No,5,100.0,Distinction
+STU_10091,21.3,89.6,92.1,6.6,2,High School,Yes,Yes,Yes,1,100.0,Distinction
+STU_10092,10.4,73.0,46.5,7.9,3,Some College,Yes,No,No,2,83.4,Merit
+STU_10093,12.9,95.2,63.7,6.8,3,Bachelor's,Yes,Yes,No,9,94.0,Distinction
+STU_10094,12.5,92.2,89.6,9.5,0,Bachelor's,Yes,No,No,2,97.2,Distinction
+STU_10095,5.5,83.1,85.1,8.1,2,Doctorate,Yes,No,Yes,10,85.3,Distinction
+STU_10096,16.9,68.1,78.3,8.7,0,Some College,Yes,No,Yes,2,84.9,Merit
+STU_10097,16.7,78.2,66.6,6.5,2,Bachelor's,Yes,Yes,No,9,87.6,Distinction
+STU_10098,15.0,69.4,61.4,8.5,4,Some College,Yes,No,No,3,95.9,Distinction
+STU_10099,13.5,85.7,64.9,6.8,0,High School,Yes,Yes,No,2,91.0,Distinction
+STU_10100,5.8,68.1,90.6,7.3,1,Some College,Yes,Yes,Yes,7,89.3,Distinction
+STU_10101,12.3,71.8,64.5,9.2,2,Some College,Yes,Yes,No,9,71.5,Merit
+STU_10102,12.8,82.7,73.2,5.9,2,Master's,Yes,Yes,No,6,99.7,Distinction
+STU_10103,9.8,93.9,63.0,7.4,0,Some College,Yes,No,No,7,88.9,Distinction
+STU_10104,14.0,61.9,82.1,7.7,5,Doctorate,Yes,No,Yes,3,100.0,Distinction
+STU_10105,17.6,56.4,65.5,7.8,2,Some College,Yes,Yes,No,3,86.3,Distinction
+STU_10106,27.3,74.5,70.8,6.7,0,High School,Yes,No,No,8,84.7,Merit
+STU_10107,16.1,81.9,51.8,9.7,0,High School,Yes,Yes,No,7,78.3,Merit
+STU_10108,16.7,84.8,52.6,5.6,2,High School,Yes,No,Yes,5,88.5,Distinction
+STU_10109,14.5,71.3,72.1,9.0,0,Some College,Yes,No,No,6,78.2,Merit
+STU_10110,2.5,90.5,56.1,8.7,0,High School,Yes,No,No,9,60.3,Pass
+STU_10111,14.8,71.2,97.3,9.5,1,Some College,Yes,Yes,Yes,3,95.5,Distinction
+STU_10112,15.4,61.5,47.3,5.3,2,Doctorate,Yes,No,No,3,78.1,Merit
+STU_10113,31.0,63.6,62.4,6.2,2,Bachelor's,Yes,Yes,Yes,6,90.0,Distinction
+STU_10114,13.7,79.6,72.2,9.0,1,Bachelor's,Yes,No,No,8,92.1,Distinction
+STU_10115,17.0,76.5,67.6,4.9,2,High School,Yes,Yes,No,5,91.2,Distinction
+STU_10116,14.8,88.9,58.8,5.3,5,Some College,Yes,No,Yes,1,95.2,Distinction
+STU_10117,7.4,58.9,60.5,6.6,0,Some College,Yes,Yes,Yes,3,74.0,Merit
+STU_10118,22.4,67.7,60.1,7.4,2,Master's,No,No,No,8,85.6,Distinction
+STU_10119,19.9,79.0,68.6,9.1,4,High School,Yes,No,Yes,4,100.0,Distinction
+STU_10120,20.1,89.4,95.4,7.0,2,Some College,Yes,No,No,9,100.0,Distinction
+STU_10121,9.1,85.5,72.9,6.5,2,Bachelor's,Yes,No,Yes,6,99.8,Distinction
+STU_10122,24.1,92.8,86.2,7.6,0,Some College,Yes,No,No,10,93.0,Distinction
+STU_10123,5.9,64.7,78.1,7.8,1,Master's,Yes,No,Yes,4,92.7,Distinction
+STU_10124,18.8,92.5,85.4,7.7,1,High School,Yes,Yes,Yes,4,100.0,Distinction
+STU_10125,29.2,77.3,38.4,7.0,2,Some College,Yes,No,Yes,10,81.8,Merit
+STU_10126,8.6,79.6,68.3,4.9,5,Bachelor's,No,Yes,No,5,90.1,Distinction
+STU_10127,11.3,66.5,87.7,6.1,0,Some College,Yes,No,No,7,84.0,Merit
+STU_10128,15.6,96.1,65.1,8.9,0,Some College,Yes,No,Yes,7,92.0,Distinction
+STU_10129,11.7,67.4,93.1,7.4,0,High School,Yes,Yes,No,10,77.6,Merit
+STU_10130,4.9,73.8,89.8,6.8,2,Bachelor's,Yes,No,No,7,90.1,Distinction
+STU_10131,15.4,72.0,66.4,8.5,0,Doctorate,Yes,No,Yes,5,91.0,Distinction
+STU_10132,8.1,83.1,66.0,5.8,2,Bachelor's,Yes,Yes,No,9,81.1,Merit
+STU_10133,18.1,60.6,59.8,6.9,0,Master's,Yes,Yes,No,2,87.0,Distinction
+STU_10134,9.0,92.1,64.4,7.4,1,Some College,No,Yes,Yes,8,86.7,Distinction
+STU_10135,25.1,76.3,57.2,6.7,0,High School,Yes,No,Yes,10,77.6,Merit
+STU_10136,9.9,96.6,77.1,7.3,3,High School,Yes,Yes,No,8,99.3,Distinction
+STU_10137,12.9,79.8,54.5,7.0,1,Bachelor's,Yes,No,No,3,88.9,Distinction
+STU_10138,20.3,84.4,79.2,5.5,4,Some College,Yes,Yes,Yes,5,100.0,Distinction
+STU_10139,7.0,68.8,79.5,7.4,1,Bachelor's,Yes,Yes,No,8,76.6,Merit
+STU_10140,16.5,91.3,52.1,5.6,0,Bachelor's,Yes,No,No,10,70.3,Merit
+STU_10141,23.5,96.3,90.6,7.4,0,Doctorate,Yes,Yes,Yes,9,100.0,Distinction
+STU_10142,4.6,45.0,78.2,8.8,5,Some College,Yes,No,Yes,7,82.0,Merit
+STU_10143,16.2,82.0,81.0,6.9,2,Some College,Yes,Yes,Yes,4,100.0,Distinction
+STU_10144,16.7,75.6,62.9,5.8,0,Some College,Yes,Yes,No,4,89.0,Distinction
+STU_10145,20.1,68.6,79.5,7.0,2,Some College,Yes,Yes,No,3,96.9,Distinction
+STU_10146,7.0,74.7,85.5,6.2,1,Master's,Yes,No,No,8,81.2,Merit
+STU_10147,6.4,76.0,70.8,7.9,0,High School,Yes,Yes,No,6,85.8,Distinction
+STU_10148,18.4,72.7,96.0,7.0,0,Doctorate,Yes,Yes,Yes,10,83.2,Merit
+STU_10149,16.9,88.9,72.5,9.3,3,Doctorate,Yes,Yes,No,6,100.0,Distinction
+STU_10150,16.6,80.4,85.7,8.6,0,Bachelor's,Yes,Yes,Yes,10,92.1,Distinction
+STU_10151,17.3,93.9,75.5,7.0,0,Some College,Yes,No,Yes,10,92.3,Distinction
+STU_10152,10.6,76.9,79.0,8.1,0,High School,Yes,No,No,9,82.0,Merit
+STU_10153,16.5,85.7,51.9,6.7,0,Some College,Yes,Yes,Yes,3,87.1,Distinction
+STU_10154,16.9,62.1,76.5,7.2,1,High School,Yes,Yes,No,4,90.7,Distinction
+STU_10155,10.4,72.7,63.2,6.8,0,Some College,Yes,No,No,3,82.1,Merit
+STU_10156,27.1,60.1,61.8,8.1,0,High School,Yes,Yes,No,3,85.2,Distinction
+STU_10157,18.1,78.1,92.9,8.9,4,Bachelor's,Yes,Yes,Yes,1,100.0,Distinction
+STU_10158,7.3,84.7,69.4,8.2,0,Some College,Yes,Yes,Yes,10,77.2,Merit
+STU_10159,19.3,74.7,60.0,8.3,1,High School,Yes,Yes,Yes,6,91.2,Distinction
+STU_10160,8.7,60.0,67.7,8.3,1,Some College,No,Yes,No,9,68.1,Pass
+STU_10161,20.1,73.9,56.4,7.9,1,Doctorate,Yes,Yes,No,5,99.2,Distinction
+STU_10162,22.5,79.3,89.2,5.8,3,Bachelor's,Yes,Yes,No,10,98.7,Distinction
+STU_10163,9.7,62.3,63.7,9.2,0,Some College,Yes,Yes,No,2,71.1,Merit
+STU_10164,21.3,77.4,78.4,9.4,3,Bachelor's,Yes,No,No,10,88.7,Distinction
+STU_10165,17.7,60.5,88.3,6.9,2,Bachelor's,Yes,No,No,4,95.3,Distinction
+STU_10166,20.3,75.5,66.0,6.8,2,Master's,No,No,Yes,6,100.0,Distinction
+STU_10167,27.3,79.3,78.4,7.9,0,High School,Yes,No,No,7,98.2,Distinction
+STU_10168,13.4,66.8,59.6,7.9,0,Master's,Yes,Yes,No,7,83.1,Merit
+STU_10169,10.1,86.6,99.0,7.0,1,Some College,Yes,Yes,Yes,4,100.0,Distinction
+STU_10170,9.2,45.0,83.2,5.7,3,Master's,Yes,No,No,10,70.8,Merit
+STU_10171,9.7,79.9,69.7,7.6,1,Some College,Yes,Yes,No,10,77.2,Merit
+STU_10172,14.5,74.6,62.7,7.9,0,Master's,Yes,Yes,No,5,90.6,Distinction
+STU_10173,17.2,85.6,70.6,8.1,0,Doctorate,Yes,Yes,No,4,100.0,Distinction
+STU_10174,16.8,86.5,67.9,7.6,2,High School,Yes,Yes,Yes,10,88.2,Distinction
+STU_10175,20.4,84.7,95.4,6.9,2,Doctorate,Yes,No,Yes,6,100.0,Distinction
+STU_10176,15.1,89.4,57.3,8.4,0,High School,Yes,No,Yes,7,87.0,Distinction
+STU_10177,24.4,57.0,73.6,7.3,0,High School,Yes,No,No,2,85.6,Distinction
+STU_10178,13.3,68.6,71.8,6.6,1,Some College,Yes,No,No,10,76.2,Merit
+STU_10179,32.7,69.2,70.6,7.0,1,Doctorate,Yes,Yes,Yes,3,100.0,Distinction
+STU_10180,19.1,93.8,70.7,5.1,2,Some College,Yes,No,No,8,88.2,Distinction
+STU_10181,9.4,84.4,70.6,7.0,3,Bachelor's,Yes,Yes,Yes,7,97.4,Distinction
+STU_10182,8.0,56.9,82.5,8.0,2,Bachelor's,Yes,No,Yes,1,88.2,Distinction
+STU_10183,18.1,83.5,79.3,7.6,0,Doctorate,Yes,Yes,Yes,4,100.0,Distinction
+STU_10184,13.5,79.7,77.0,9.0,2,Bachelor's,Yes,No,Yes,5,100.0,Distinction
+STU_10185,19.6,76.7,38.0,6.9,5,High School,Yes,No,Yes,3,96.9,Distinction
+STU_10186,18.1,56.5,75.6,7.8,3,Some College,Yes,Yes,Yes,4,94.3,Distinction
+STU_10187,14.5,63.5,52.1,8.2,3,High School,Yes,Yes,Yes,10,72.9,Merit
+STU_10188,9.5,93.6,79.8,10.0,0,Bachelor's,Yes,Yes,Yes,10,78.1,Merit
+STU_10189,5.2,97.5,89.7,7.4,2,High School,Yes,Yes,Yes,10,86.3,Distinction
+STU_10190,12.1,75.9,60.9,5.9,3,Some College,Yes,Yes,No,7,87.2,Distinction
+STU_10191,20.6,82.8,68.9,8.2,2,Master's,Yes,No,Yes,8,100.0,Distinction
+STU_10192,16.4,80.0,64.8,9.4,0,Some College,Yes,Yes,No,9,86.6,Distinction
+STU_10193,6.9,72.6,86.8,6.8,4,Bachelor's,Yes,Yes,Yes,2,100.0,Distinction
+STU_10194,16.1,75.0,73.1,8.2,1,Some College,No,No,Yes,4,88.6,Distinction
+STU_10195,17.5,60.2,92.7,8.7,0,High School,Yes,Yes,Yes,1,91.1,Distinction
+STU_10196,9.3,91.5,77.0,8.4,0,Some College,Yes,Yes,No,3,95.9,Distinction
+STU_10197,16.0,55.0,74.9,7.4,2,Some College,Yes,No,No,8,83.9,Merit
+STU_10198,15.4,96.9,72.8,6.4,1,Master's,Yes,No,No,7,100.0,Distinction
+STU_10199,7.6,45.0,81.8,7.1,0,Some College,Yes,Yes,No,8,78.9,Merit
+STU_10200,17.3,94.9,51.1,7.8,2,Some College,Yes,Yes,Yes,6,98.9,Distinction
+STU_10201,18.6,69.1,73.0,8.3,2,Bachelor's,No,Yes,No,5,97.5,Distinction
+STU_10202,22.0,48.3,71.2,7.6,2,Bachelor's,No,Yes,Yes,10,77.3,Merit
+STU_10203,21.8,89.9,80.7,6.7,0,Bachelor's,Yes,Yes,Yes,9,99.0,Distinction
+STU_10204,6.0,80.0,69.7,7.9,2,Master's,Yes,No,Yes,5,94.7,Distinction
+STU_10205,8.9,80.4,59.5,8.2,0,Bachelor's,No,No,Yes,9,73.0,Merit
+STU_10206,18.3,83.7,72.1,7.7,0,Some College,Yes,Yes,Yes,4,100.0,Distinction
+STU_10207,18.3,77.9,59.0,6.2,1,Bachelor's,Yes,No,No,5,94.9,Distinction
+STU_10208,18.3,60.2,48.9,7.0,3,Some College,Yes,Yes,Yes,1,87.9,Distinction
+STU_10209,36.0,73.3,80.7,8.3,1,Some College,Yes,Yes,No,6,96.3,Distinction
+STU_10210,18.7,76.8,78.9,5.5,0,Some College,Yes,No,Yes,3,92.4,Distinction
+STU_10211,22.4,52.7,77.6,4.7,1,High School,Yes,No,No,10,58.7,Pass
+STU_10212,21.2,84.6,87.6,9.0,1,High School,Yes,Yes,Yes,2,100.0,Distinction
+STU_10213,19.2,73.3,64.0,7.8,4,High School,Yes,Yes,No,6,96.8,Distinction
+STU_10214,13.0,45.0,54.8,7.9,4,High School,Yes,No,No,1,77.8,Merit
+STU_10215,19.9,79.7,71.2,5.9,0,Master's,Yes,Yes,Yes,9,91.0,Distinction
+STU_10216,10.0,73.8,67.8,8.1,0,Master's,Yes,Yes,Yes,5,93.4,Distinction
+STU_10217,13.5,60.7,61.9,7.5,0,Bachelor's,Yes,Yes,Yes,7,81.1,Merit
+STU_10218,11.8,67.8,71.0,5.3,2,Master's,Yes,No,Yes,10,68.4,Pass
+STU_10219,15.5,56.2,64.7,8.9,0,High School,Yes,Yes,Yes,9,68.5,Pass
+STU_10220,30.0,65.6,50.0,7.4,0,Master's,No,No,No,9,70.5,Merit
+STU_10221,2.9,52.3,66.7,6.7,1,Some College,Yes,Yes,No,7,66.0,Pass
+STU_10222,19.5,73.2,58.4,6.7,0,High School,Yes,Yes,No,4,91.5,Distinction
+STU_10223,4.5,69.7,74.8,4.8,0,High School,Yes,No,Yes,4,64.3,Pass
+STU_10224,11.9,56.5,64.1,7.9,1,Some College,No,Yes,No,7,71.1,Merit
+STU_10225,22.1,92.8,85.3,7.5,0,High School,Yes,Yes,Yes,8,100.0,Distinction
+STU_10226,15.4,66.0,91.2,7.0,1,Some College,Yes,Yes,Yes,7,100.0,Distinction
+STU_10227,8.0,94.8,80.2,8.7,5,High School,Yes,Yes,Yes,10,93.0,Distinction
+STU_10228,10.4,69.5,53.4,5.5,0,High School,Yes,No,Yes,4,68.1,Pass
+STU_10229,19.4,90.2,90.1,6.5,1,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_10230,10.3,88.7,90.9,6.2,4,Doctorate,Yes,No,No,8,100.0,Distinction
+STU_10231,16.4,91.5,72.2,6.9,3,High School,Yes,No,No,9,90.0,Distinction
+STU_10232,15.3,85.2,87.9,7.3,1,High School,Yes,Yes,No,7,100.0,Distinction
+STU_10233,10.8,72.8,65.4,7.7,2,Bachelor's,Yes,Yes,No,3,90.0,Distinction
+STU_10234,28.9,88.5,49.6,6.8,0,Master's,Yes,Yes,No,10,78.5,Merit
+STU_10235,19.1,92.5,62.9,6.1,2,Some College,Yes,Yes,No,1,100.0,Distinction
+STU_10236,2.0,77.7,92.8,9.2,5,Master's,Yes,No,Yes,5,100.0,Distinction
+STU_10237,16.2,76.1,54.1,10.0,1,Some College,Yes,Yes,Yes,6,84.5,Merit
+STU_10238,10.7,61.8,72.0,7.4,1,High School,Yes,No,No,9,78.9,Merit
+STU_10239,20.5,90.4,72.4,6.3,0,Some College,Yes,Yes,Yes,5,100.0,Distinction
+STU_10240,9.8,45.0,65.8,9.0,2,Bachelor's,Yes,Yes,No,1,71.4,Merit
+STU_10241,14.3,74.3,66.7,5.5,1,Some College,Yes,Yes,Yes,4,83.7,Merit
+STU_10242,18.3,63.6,72.9,6.8,2,Bachelor's,Yes,Yes,No,2,92.4,Distinction
+STU_10243,20.6,81.7,65.3,6.4,0,High School,Yes,No,No,4,87.6,Distinction
+STU_10244,7.2,72.9,54.9,5.8,1,Bachelor's,Yes,No,Yes,7,74.5,Merit
+STU_10245,12.8,62.9,74.6,6.9,1,Some College,No,Yes,No,9,71.2,Merit
+STU_10246,11.9,74.6,84.9,6.2,0,Some College,Yes,No,No,3,89.8,Distinction
+STU_10247,10.8,73.6,82.4,7.2,0,Bachelor's,Yes,No,No,3,94.6,Distinction
+STU_10248,26.5,86.7,62.3,7.2,0,Bachelor's,No,No,Yes,4,100.0,Distinction
+STU_10249,17.6,84.4,57.0,6.5,2,High School,Yes,No,No,7,91.1,Distinction
+STU_10250,6.8,92.7,68.6,6.8,2,Master's,Yes,No,Yes,6,95.7,Distinction
+STU_10251,21.0,70.3,90.8,6.9,3,Bachelor's,Yes,Yes,No,5,100.0,Distinction
+STU_10252,28.8,79.5,79.7,8.2,0,High School,Yes,Yes,No,4,100.0,Distinction
+STU_10253,21.7,82.3,80.4,7.0,3,Doctorate,No,Yes,No,8,100.0,Distinction
+STU_10254,5.1,61.8,82.7,8.2,2,Bachelor's,Yes,No,Yes,4,87.6,Distinction
+STU_10255,11.9,94.9,77.0,7.9,1,Some College,Yes,No,No,3,100.0,Distinction
+STU_10256,23.2,80.1,73.4,7.9,0,High School,Yes,No,No,7,100.0,Distinction
+STU_10257,10.4,88.4,79.9,8.9,0,Some College,Yes,No,Yes,2,100.0,Distinction
+STU_10258,17.9,81.0,65.4,5.9,4,High School,Yes,Yes,No,4,99.0,Distinction
+STU_10259,20.0,45.0,55.0,6.6,0,Some College,Yes,No,No,8,67.7,Pass
+STU_10260,9.0,92.2,80.7,9.3,0,Some College,Yes,No,No,4,91.0,Distinction
+STU_10261,14.6,68.7,86.9,6.9,0,Bachelor's,Yes,No,No,10,76.5,Merit
+STU_10262,2.0,93.8,58.6,4.0,3,High School,Yes,No,Yes,7,63.0,Pass
+STU_10263,8.3,79.9,81.9,7.0,0,Bachelor's,Yes,Yes,Yes,2,100.0,Distinction
+STU_10264,13.4,91.4,92.2,7.4,0,Some College,Yes,Yes,Yes,5,100.0,Distinction
+STU_10265,6.9,98.4,72.0,4.1,1,Some College,Yes,No,Yes,4,75.4,Merit
+STU_10266,25.6,70.8,62.2,8.8,1,Bachelor's,Yes,Yes,Yes,9,80.8,Merit
+STU_10267,5.7,78.5,73.5,6.3,1,Bachelor's,Yes,Yes,Yes,7,88.2,Distinction
+STU_10268,12.1,81.0,65.4,7.6,1,Some College,Yes,Yes,Yes,9,89.1,Distinction
+STU_10269,15.8,80.6,64.6,6.9,3,Some College,Yes,Yes,No,10,86.1,Distinction
+STU_10270,24.4,59.0,77.2,5.7,3,Some College,Yes,No,No,7,88.2,Distinction
+STU_10271,5.7,83.3,52.8,5.9,2,Bachelor's,Yes,No,No,2,83.5,Merit
+STU_10272,22.6,79.6,54.7,6.1,0,Some College,Yes,No,Yes,2,91.3,Distinction
+STU_10273,15.1,82.6,72.2,8.5,2,Bachelor's,Yes,Yes,Yes,2,100.0,Distinction
+STU_10274,8.6,93.1,71.7,7.0,0,Bachelor's,Yes,No,Yes,5,100.0,Distinction
+STU_10275,18.0,76.9,76.1,6.6,0,High School,No,No,No,1,88.8,Distinction
+STU_10276,16.3,67.9,94.5,6.1,4,Some College,Yes,No,No,7,100.0,Distinction
+STU_10277,11.1,99.1,73.3,8.6,3,High School,Yes,No,No,2,97.3,Distinction
+STU_10278,15.5,48.3,79.2,9.0,1,Some College,Yes,No,No,4,85.8,Distinction
+STU_10279,12.5,90.3,60.3,8.6,3,Some College,Yes,Yes,No,9,90.7,Distinction
+STU_10280,15.7,82.2,81.2,7.8,5,Some College,No,Yes,No,8,99.1,Distinction
+STU_10281,19.3,92.4,65.7,7.5,2,Bachelor's,Yes,No,Yes,10,96.9,Distinction
+STU_10282,25.3,91.3,72.9,5.7,2,High School,Yes,No,No,2,97.2,Distinction
+STU_10283,7.0,63.6,70.7,6.9,2,Master's,No,No,No,4,80.4,Merit
+STU_10284,28.9,83.8,84.4,6.4,0,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_10285,2.3,72.1,56.3,5.0,0,Some College,Yes,No,No,2,51.0,Pass
+STU_10286,14.0,50.5,44.6,8.5,2,Bachelor's,Yes,Yes,Yes,2,78.9,Merit
+STU_10287,18.8,64.5,69.4,6.4,0,Bachelor's,Yes,Yes,Yes,5,86.7,Distinction
+STU_10288,16.8,82.2,77.6,8.6,0,Some College,Yes,Yes,Yes,4,99.4,Distinction
+STU_10289,11.0,89.4,73.8,8.3,0,Bachelor's,Yes,No,Yes,8,93.3,Distinction
+STU_10290,13.6,84.5,86.8,7.9,1,Master's,Yes,Yes,No,4,100.0,Distinction
+STU_10291,11.8,67.7,77.2,7.9,4,Bachelor's,Yes,No,Yes,8,92.7,Distinction
+STU_10292,11.2,59.7,65.2,6.5,2,High School,Yes,Yes,No,5,80.9,Merit
+STU_10293,20.5,65.4,44.1,9.4,1,Bachelor's,Yes,No,No,1,75.7,Merit
+STU_10294,17.3,88.3,69.2,7.3,4,Bachelor's,Yes,No,Yes,9,98.0,Distinction
+STU_10295,10.5,96.0,84.3,7.6,3,Bachelor's,Yes,No,Yes,8,100.0,Distinction
+STU_10296,20.8,93.3,67.3,6.4,1,Bachelor's,Yes,Yes,No,1,99.8,Distinction
+STU_10297,17.0,89.6,72.3,6.1,3,Doctorate,Yes,Yes,Yes,3,100.0,Distinction
+STU_10298,20.3,79.2,77.1,7.8,1,Some College,Yes,No,No,3,99.8,Distinction
+STU_10299,19.1,97.4,59.8,7.5,0,High School,Yes,Yes,No,5,100.0,Distinction
+STU_10300,9.6,57.2,79.5,6.3,0,Some College,Yes,Yes,No,7,73.8,Merit
+STU_10301,11.4,84.5,91.6,5.5,2,High School,Yes,Yes,Yes,1,100.0,Distinction
+STU_10302,19.9,89.0,69.9,5.7,1,Some College,Yes,No,No,1,91.2,Distinction
+STU_10303,19.0,58.1,58.5,8.6,2,Bachelor's,Yes,Yes,Yes,10,76.4,Merit
+STU_10304,14.9,78.8,71.2,6.5,2,Some College,Yes,Yes,Yes,6,100.0,Distinction
+STU_10305,15.8,75.4,45.3,6.8,0,Bachelor's,Yes,No,No,5,87.5,Distinction
+STU_10306,23.3,77.0,76.0,8.9,0,Bachelor's,Yes,Yes,No,3,99.7,Distinction
+STU_10307,11.2,63.2,77.4,5.9,1,Some College,Yes,Yes,Yes,3,84.7,Merit
+STU_10308,18.6,94.7,92.1,6.3,0,Master's,Yes,Yes,No,4,100.0,Distinction
+STU_10309,13.7,77.8,69.7,6.3,2,High School,No,No,Yes,10,77.7,Merit
+STU_10310,13.6,68.3,76.9,9.1,1,Master's,No,Yes,Yes,2,88.7,Distinction
+STU_10311,22.1,72.7,61.7,9.6,1,Bachelor's,Yes,No,No,9,75.0,Merit
+STU_10312,20.4,79.1,67.7,8.1,0,Some College,Yes,No,Yes,4,99.3,Distinction
+STU_10313,20.3,88.8,53.7,8.1,2,Some College,Yes,Yes,Yes,10,81.4,Merit
+STU_10314,23.5,88.4,69.7,6.5,3,Some College,Yes,No,Yes,3,100.0,Distinction
+STU_10315,15.1,90.7,68.3,9.5,5,Bachelor's,No,Yes,Yes,10,93.1,Distinction
+STU_10316,19.4,97.6,75.6,7.5,3,Master's,No,Yes,Yes,7,100.0,Distinction
+STU_10317,13.0,86.6,64.5,8.2,1,Some College,Yes,No,No,9,85.3,Distinction
+STU_10318,17.1,95.2,73.0,7.1,0,Bachelor's,Yes,No,No,2,99.0,Distinction
+STU_10319,14.2,74.6,68.0,6.9,2,High School,Yes,Yes,No,6,97.7,Distinction
+STU_10320,15.6,76.0,68.0,9.2,4,Some College,Yes,Yes,No,5,97.2,Distinction
+STU_10321,18.9,78.7,73.0,7.8,0,Doctorate,Yes,Yes,No,1,100.0,Distinction
+STU_10322,9.7,86.8,72.5,8.9,0,High School,No,Yes,No,7,83.8,Merit
+STU_10323,28.6,65.2,81.1,7.5,0,Master's,Yes,No,No,1,97.6,Distinction
+STU_10324,8.5,88.3,70.6,6.2,2,Bachelor's,Yes,No,Yes,10,76.7,Merit
+STU_10325,7.1,73.1,67.8,6.5,1,Doctorate,Yes,Yes,Yes,9,74.7,Merit
+STU_10326,22.5,75.0,69.8,7.3,0,High School,Yes,Yes,No,4,96.5,Distinction
+STU_10327,20.1,71.3,63.4,6.4,3,High School,Yes,Yes,Yes,8,85.0,Distinction
+STU_10328,19.1,69.4,67.7,5.9,1,High School,Yes,Yes,No,1,80.3,Merit
+STU_10329,19.1,75.1,96.4,8.6,0,Bachelor's,Yes,Yes,No,5,100.0,Distinction
+STU_10330,14.9,82.0,61.0,6.5,0,Bachelor's,Yes,Yes,Yes,3,94.4,Distinction
+STU_10331,9.2,45.0,68.7,7.4,0,High School,Yes,Yes,No,4,73.4,Merit
+STU_10332,15.5,80.2,67.4,7.6,1,Bachelor's,Yes,Yes,Yes,4,100.0,Distinction
+STU_10333,10.6,92.6,69.0,6.5,0,Some College,Yes,No,No,8,83.6,Merit
+STU_10334,21.3,69.9,68.0,8.9,1,High School,Yes,Yes,No,10,74.5,Merit
+STU_10335,14.0,91.9,75.4,5.9,2,Some College,Yes,No,No,10,82.8,Merit
+STU_10336,9.6,85.5,51.5,7.5,2,High School,Yes,No,Yes,3,92.1,Distinction
+STU_10337,12.9,92.6,84.4,7.5,0,Some College,Yes,No,Yes,1,100.0,Distinction
+STU_10338,17.7,67.2,79.6,7.1,1,Some College,Yes,No,No,5,94.7,Distinction
+STU_10339,11.3,79.9,57.1,5.6,3,Master's,Yes,No,No,2,94.8,Distinction
+STU_10340,9.7,56.5,44.8,8.2,0,Bachelor's,Yes,No,Yes,6,72.9,Merit
+STU_10341,16.6,71.2,60.3,8.1,0,Some College,Yes,Yes,Yes,4,91.4,Distinction
+STU_10342,16.6,90.1,69.1,6.4,1,Bachelor's,Yes,No,Yes,9,87.9,Distinction
+STU_10343,11.7,53.9,99.0,8.0,2,Bachelor's,Yes,No,No,7,89.9,Distinction
+STU_10344,11.9,81.9,78.5,7.6,0,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_10345,16.5,61.7,50.3,5.7,2,Bachelor's,Yes,No,Yes,7,78.1,Merit
+STU_10346,5.6,52.8,63.7,6.2,2,Bachelor's,No,Yes,Yes,10,59.5,Pass
+STU_10347,5.9,89.0,71.4,8.6,4,Bachelor's,Yes,Yes,No,8,98.4,Distinction
+STU_10348,10.3,84.8,75.0,7.6,0,Bachelor's,Yes,Yes,No,3,95.6,Distinction
+STU_10349,13.6,56.5,56.2,6.5,2,Bachelor's,Yes,No,No,3,78.9,Merit
+STU_10350,17.0,62.7,70.4,6.2,0,Some College,Yes,No,No,2,85.4,Distinction
+STU_10351,24.6,83.1,63.4,6.6,1,Master's,Yes,No,Yes,1,100.0,Distinction
+STU_10352,20.6,88.3,58.8,6.7,1,High School,Yes,No,Yes,3,95.0,Distinction
+STU_10353,14.0,64.2,75.1,6.2,1,Master's,Yes,Yes,No,10,72.4,Merit
+STU_10354,14.9,87.5,81.3,5.1,3,Some College,Yes,No,No,7,97.5,Distinction
+STU_10355,8.5,83.9,82.1,8.6,0,High School,Yes,Yes,No,9,82.9,Merit
+STU_10356,14.9,76.2,78.9,8.4,1,Bachelor's,No,No,No,9,88.8,Distinction
+STU_10357,13.1,91.6,66.0,5.7,0,Some College,Yes,Yes,No,6,91.5,Distinction
+STU_10358,17.1,65.6,80.6,7.4,2,Bachelor's,No,Yes,No,6,97.8,Distinction
+STU_10359,9.6,74.3,75.7,6.1,0,Some College,Yes,No,Yes,5,79.9,Merit
+STU_10360,18.4,72.3,73.6,6.9,3,Bachelor's,Yes,No,No,2,89.9,Distinction
+STU_10361,25.0,79.1,64.7,6.8,3,Some College,Yes,Yes,No,7,100.0,Distinction
+STU_10362,14.3,73.6,66.0,6.7,3,High School,Yes,No,No,1,93.9,Distinction
+STU_10363,17.6,58.0,72.9,9.6,0,Some College,Yes,Yes,No,6,76.7,Merit
+STU_10364,19.5,81.2,99.0,6.7,2,Bachelor's,Yes,Yes,No,4,100.0,Distinction
+STU_10365,12.4,95.8,75.6,6.2,0,Bachelor's,Yes,No,Yes,3,99.9,Distinction
+STU_10366,16.5,82.5,64.7,6.3,3,Bachelor's,Yes,Yes,Yes,1,100.0,Distinction
+STU_10367,15.1,85.1,62.0,8.5,2,Doctorate,Yes,No,No,6,98.5,Distinction
+STU_10368,15.6,79.8,66.1,5.2,1,Bachelor's,Yes,Yes,No,7,84.1,Merit
+STU_10369,10.0,93.8,98.1,6.3,2,Master's,Yes,Yes,Yes,1,100.0,Distinction
+STU_10370,15.2,94.6,67.2,8.9,0,High School,Yes,Yes,No,1,95.9,Distinction
+STU_10371,18.2,79.6,82.9,7.5,1,High School,Yes,Yes,No,7,100.0,Distinction
+STU_10372,24.4,77.7,67.5,7.4,0,Some College,Yes,Yes,No,6,97.6,Distinction
+STU_10373,21.2,82.6,75.1,9.8,5,High School,No,No,No,7,92.6,Distinction
+STU_10374,29.0,60.8,81.5,7.5,3,Some College,Yes,No,Yes,8,100.0,Distinction
+STU_10375,10.0,66.2,65.1,6.4,2,Some College,Yes,No,No,8,75.4,Merit
+STU_10376,20.7,91.4,64.3,6.9,4,Bachelor's,Yes,No,No,9,100.0,Distinction
+STU_10377,16.2,82.5,91.9,5.8,0,Bachelor's,Yes,Yes,Yes,9,100.0,Distinction
+STU_10378,29.2,70.7,83.8,8.7,3,Doctorate,Yes,Yes,No,7,100.0,Distinction
+STU_10379,9.7,79.5,81.5,7.9,0,Master's,Yes,Yes,Yes,9,94.1,Distinction
+STU_10380,9.5,62.6,81.4,8.5,2,High School,No,Yes,Yes,6,88.6,Distinction
+STU_10381,11.1,77.3,77.5,8.7,2,Some College,Yes,No,Yes,9,94.1,Distinction
+STU_10382,2.0,63.2,96.2,6.7,0,Some College,Yes,Yes,No,2,79.3,Merit
+STU_10383,11.6,79.9,72.5,6.1,1,High School,Yes,Yes,No,2,87.3,Distinction
+STU_10384,10.1,78.0,78.9,7.1,0,Some College,Yes,Yes,No,6,94.9,Distinction
+STU_10385,16.0,90.2,54.6,6.2,5,Bachelor's,Yes,Yes,No,3,100.0,Distinction
+STU_10386,17.2,90.4,62.1,7.4,0,High School,Yes,Yes,Yes,2,96.3,Distinction
+STU_10387,27.2,92.4,57.6,8.6,1,Bachelor's,Yes,No,Yes,8,96.9,Distinction
+STU_10388,21.2,72.2,87.3,7.0,2,Bachelor's,Yes,Yes,Yes,7,100.0,Distinction
+STU_10389,11.3,86.5,41.4,7.4,0,High School,Yes,No,No,8,79.0,Merit
+STU_10390,9.2,82.6,67.2,7.1,1,Some College,Yes,Yes,No,6,95.3,Distinction
+STU_10391,18.2,80.2,38.0,8.2,2,Master's,Yes,No,No,9,79.4,Merit
+STU_10392,6.4,65.4,62.0,6.4,0,Some College,Yes,No,No,9,63.2,Pass
+STU_10393,26.9,75.5,66.1,4.6,2,Some College,Yes,No,Yes,2,88.7,Distinction
+STU_10394,22.7,87.2,88.6,7.8,0,Some College,Yes,Yes,No,10,97.4,Distinction
+STU_10395,12.0,98.2,76.8,8.4,0,High School,No,Yes,Yes,5,100.0,Distinction
+STU_10396,3.9,78.1,62.0,7.7,1,High School,Yes,No,No,9,74.1,Merit
+STU_10397,23.8,90.9,84.8,6.4,1,Bachelor's,Yes,Yes,Yes,3,100.0,Distinction
+STU_10398,14.3,84.1,72.2,5.8,4,High School,Yes,Yes,Yes,5,100.0,Distinction
+STU_10399,23.0,83.9,72.5,7.8,3,Some College,Yes,Yes,No,8,100.0,Distinction
+STU_10400,4.6,70.3,57.6,7.4,1,High School,Yes,No,Yes,2,78.6,Merit
+STU_10401,11.1,70.5,60.1,7.0,1,Bachelor's,Yes,Yes,Yes,6,86.0,Distinction
+STU_10402,15.0,77.2,62.1,9.4,0,High School,Yes,No,No,4,81.8,Merit
+STU_10403,15.3,81.0,72.6,6.1,0,Some College,Yes,No,Yes,6,89.8,Distinction
+STU_10404,12.1,65.1,72.9,9.3,1,Bachelor's,Yes,Yes,Yes,3,82.6,Merit
+STU_10405,19.0,69.3,90.5,7.2,3,Some College,Yes,Yes,Yes,6,100.0,Distinction
+STU_10406,8.1,97.8,76.6,5.0,0,Some College,Yes,Yes,No,7,87.9,Distinction
+STU_10407,14.1,93.8,39.5,7.0,0,Some College,Yes,Yes,Yes,10,76.0,Merit
+STU_10408,15.8,49.3,75.2,8.4,1,Bachelor's,No,Yes,Yes,3,77.9,Merit
+STU_10409,18.3,60.7,54.6,6.8,0,Doctorate,Yes,Yes,No,5,87.0,Distinction
+STU_10410,19.6,67.0,60.4,5.4,2,Some College,Yes,No,No,8,76.0,Merit
+STU_10411,7.7,84.5,62.3,7.0,1,High School,Yes,No,No,2,92.6,Distinction
+STU_10412,5.0,74.0,64.0,6.2,1,High School,No,Yes,Yes,7,68.8,Pass
+STU_10413,23.3,65.3,55.5,7.8,0,Bachelor's,No,No,Yes,1,79.8,Merit
+STU_10414,17.2,67.6,74.4,8.1,3,Bachelor's,Yes,No,No,7,100.0,Distinction
+STU_10415,10.1,69.6,55.1,5.9,0,Bachelor's,Yes,Yes,No,1,79.6,Merit
+STU_10416,25.1,86.3,76.3,6.4,3,Bachelor's,Yes,Yes,No,4,100.0,Distinction
+STU_10417,15.8,77.7,98.8,8.1,1,Master's,No,No,Yes,4,100.0,Distinction
+STU_10418,22.7,50.3,56.0,6.2,3,Master's,Yes,No,Yes,5,81.8,Merit
+STU_10419,15.4,78.2,68.6,5.9,2,Bachelor's,Yes,No,No,2,98.4,Distinction
+STU_10420,28.4,80.0,41.7,5.8,0,Some College,No,Yes,No,6,76.7,Merit
+STU_10421,26.4,99.2,68.4,7.6,3,Some College,Yes,No,Yes,6,100.0,Distinction
+STU_10422,13.4,85.3,79.7,7.6,2,Some College,Yes,No,Yes,8,100.0,Distinction
+STU_10423,21.3,71.6,80.6,6.4,0,Some College,Yes,Yes,No,10,81.6,Merit
+STU_10424,19.2,88.8,72.9,7.2,0,Bachelor's,Yes,No,Yes,1,100.0,Distinction
+STU_10425,23.9,74.2,82.7,9.0,2,High School,Yes,Yes,No,4,97.0,Distinction
+STU_10426,8.7,80.4,99.0,6.0,2,Bachelor's,Yes,Yes,No,2,100.0,Distinction
+STU_10427,19.5,82.9,92.5,4.9,2,Some College,Yes,Yes,Yes,8,100.0,Distinction
+STU_10428,21.9,81.1,65.7,7.7,2,Bachelor's,Yes,No,Yes,4,100.0,Distinction
+STU_10429,3.6,81.9,54.6,7.1,2,High School,Yes,No,Yes,8,84.4,Merit
+STU_10430,7.3,54.1,67.1,6.3,2,Some College,No,No,No,2,70.6,Merit
+STU_10431,2.0,69.8,60.6,8.0,1,High School,Yes,No,No,4,72.0,Merit
+STU_10432,13.2,82.6,77.4,8.2,0,Master's,Yes,Yes,No,9,95.7,Distinction
+STU_10433,19.7,54.6,57.8,4.6,3,Some College,Yes,No,No,5,70.6,Merit
+STU_10434,24.8,45.0,71.1,6.4,0,High School,Yes,No,No,6,84.2,Merit
+STU_10435,15.5,66.7,82.1,10.0,1,High School,No,No,No,10,61.4,Pass
+STU_10436,25.6,91.8,70.8,7.9,2,Bachelor's,Yes,Yes,No,9,100.0,Distinction
+STU_10437,6.0,74.3,60.6,8.0,1,High School,Yes,No,Yes,9,67.5,Pass
+STU_10438,3.9,62.9,86.1,8.6,0,Doctorate,Yes,Yes,No,7,77.5,Merit
+STU_10439,14.6,93.2,49.5,7.2,0,Some College,Yes,No,No,2,90.3,Distinction
+STU_10440,17.5,54.3,68.1,8.2,2,Some College,Yes,No,No,7,84.2,Merit
+STU_10441,14.8,87.5,71.5,8.1,4,Bachelor's,No,No,No,9,89.6,Distinction
+STU_10442,2.0,74.9,72.2,7.8,1,Some College,Yes,Yes,Yes,2,82.2,Merit
+STU_10443,14.4,50.4,74.2,6.8,1,Bachelor's,Yes,Yes,Yes,7,90.8,Distinction
+STU_10444,6.5,80.7,79.3,7.4,0,Some College,Yes,Yes,No,7,89.8,Distinction
+STU_10445,19.4,74.3,71.6,6.5,0,Doctorate,No,No,Yes,3,93.8,Distinction
+STU_10446,17.4,75.1,67.6,7.2,0,Bachelor's,Yes,No,No,6,93.8,Distinction
+STU_10447,8.9,82.6,67.1,5.8,0,Master's,Yes,No,No,8,81.7,Merit
+STU_10448,11.7,77.5,64.7,6.3,1,High School,No,Yes,No,10,70.0,Merit
+STU_10449,8.1,86.8,81.5,6.9,0,Some College,Yes,Yes,No,8,93.5,Distinction
+STU_10450,14.6,74.5,64.2,6.1,0,Bachelor's,Yes,Yes,No,3,85.2,Distinction
+STU_10451,21.2,96.9,82.2,6.6,2,Bachelor's,Yes,Yes,No,6,100.0,Distinction
+STU_10452,8.6,73.0,72.2,7.0,3,High School,Yes,No,No,2,93.1,Distinction
+STU_10453,18.3,88.7,65.7,7.7,4,Some College,Yes,No,Yes,2,100.0,Distinction
+STU_10454,11.6,87.8,79.4,8.3,2,Some College,No,No,No,8,84.0,Merit
+STU_10455,9.8,73.9,63.3,6.6,0,Bachelor's,Yes,Yes,Yes,10,76.8,Merit
+STU_10456,14.3,65.8,79.7,8.8,2,Some College,Yes,Yes,No,5,97.2,Distinction
+STU_10457,8.3,91.3,74.6,8.3,0,Some College,Yes,Yes,Yes,5,93.2,Distinction
+STU_10458,11.4,88.6,64.8,7.8,2,High School,Yes,No,Yes,4,93.1,Distinction
+STU_10459,7.2,76.0,78.3,7.4,2,Some College,Yes,No,No,10,85.4,Distinction
+STU_10460,27.8,90.8,78.6,7.6,2,High School,Yes,Yes,No,4,100.0,Distinction
+STU_10461,15.2,87.2,85.9,8.6,4,Doctorate,Yes,Yes,Yes,8,100.0,Distinction
+STU_10462,10.5,71.7,83.6,8.7,2,High School,Yes,No,Yes,3,91.5,Distinction
+STU_10463,16.4,78.1,77.9,8.8,2,Master's,Yes,No,No,3,100.0,Distinction
+STU_10464,14.3,79.2,58.5,7.2,0,Some College,Yes,Yes,No,8,87.7,Distinction
+STU_10465,13.6,66.6,99.0,7.9,4,Some College,Yes,No,Yes,3,100.0,Distinction
+STU_10466,19.0,79.8,55.2,8.8,0,High School,Yes,Yes,No,2,86.6,Distinction
+STU_10467,19.9,92.2,83.4,6.5,3,Bachelor's,No,No,Yes,5,100.0,Distinction
+STU_10468,11.6,87.6,77.2,6.8,0,Bachelor's,Yes,Yes,Yes,3,100.0,Distinction
+STU_10469,11.3,99.6,57.9,7.2,0,Some College,Yes,Yes,No,6,98.7,Distinction
+STU_10470,13.2,85.0,70.5,8.3,3,High School,Yes,Yes,Yes,7,94.9,Distinction
+STU_10471,2.0,97.4,71.1,8.3,0,Master's,Yes,Yes,Yes,3,88.2,Distinction
+STU_10472,5.2,73.1,87.7,6.9,3,Doctorate,Yes,Yes,No,9,87.2,Distinction
+STU_10473,23.9,91.9,63.4,5.4,0,Some College,Yes,No,No,10,77.4,Merit
+STU_10474,25.7,96.7,68.9,7.5,3,Bachelor's,Yes,Yes,Yes,1,100.0,Distinction
+STU_10475,13.4,64.3,44.0,6.1,2,Some College,Yes,No,Yes,7,76.7,Merit
+STU_10476,18.7,84.9,92.8,5.4,2,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_10477,17.0,45.2,59.2,5.7,1,High School,Yes,Yes,Yes,7,67.2,Pass
+STU_10478,35.0,85.8,75.9,7.6,0,Some College,Yes,No,No,9,97.9,Distinction
+STU_10479,22.3,87.7,70.8,8.8,3,Bachelor's,Yes,No,No,9,100.0,Distinction
+STU_10480,14.2,65.7,70.8,7.2,0,High School,Yes,Yes,Yes,1,86.5,Distinction
+STU_10481,8.8,67.1,81.7,7.5,1,Bachelor's,Yes,Yes,No,10,75.6,Merit
+STU_10482,4.6,78.4,92.1,8.6,2,Master's,Yes,No,No,4,99.7,Distinction
+STU_10483,16.3,86.2,75.0,5.3,1,High School,Yes,Yes,Yes,7,94.2,Distinction
+STU_10484,10.1,61.9,79.9,7.8,0,High School,Yes,No,No,10,65.9,Pass
+STU_10485,5.8,74.2,75.9,7.2,0,Bachelor's,No,Yes,Yes,6,85.8,Distinction
+STU_10486,10.8,64.5,84.2,7.9,0,Some College,No,Yes,No,9,74.2,Merit
+STU_10487,8.0,96.7,66.4,6.6,3,High School,Yes,Yes,No,7,92.9,Distinction
+STU_10488,26.0,80.2,84.9,6.2,0,Some College,Yes,No,No,3,97.5,Distinction
+STU_10489,20.7,67.7,85.3,7.4,5,Some College,Yes,Yes,Yes,7,100.0,Distinction
+STU_10490,14.9,89.3,85.0,9.2,0,Master's,Yes,Yes,No,10,87.6,Distinction
+STU_10491,24.6,74.8,64.1,8.2,0,Bachelor's,Yes,No,Yes,5,90.5,Distinction
+STU_10492,15.5,93.5,70.0,6.6,1,Some College,Yes,No,No,2,100.0,Distinction
+STU_10493,9.4,62.0,74.9,5.6,0,Some College,Yes,Yes,No,10,63.5,Pass
+STU_10494,24.9,83.3,55.5,5.2,2,Master's,No,No,No,3,90.2,Distinction
+STU_10495,18.5,87.3,91.1,8.8,3,High School,No,No,No,6,100.0,Distinction
+STU_10496,8.3,89.8,71.9,6.1,0,High School,Yes,Yes,Yes,6,88.4,Distinction
+STU_10497,13.8,83.5,75.4,6.8,2,Doctorate,Yes,Yes,Yes,7,100.0,Distinction
+STU_10498,9.3,72.2,65.1,8.8,1,Master's,Yes,No,Yes,6,84.9,Merit
+STU_10499,6.0,83.7,56.1,5.3,0,High School,Yes,Yes,No,9,58.6,Pass
+STU_10500,21.0,60.6,64.8,9.0,0,High School,Yes,Yes,Yes,5,84.7,Merit
+STU_10501,27.4,80.8,74.6,6.9,3,Some College,Yes,No,No,5,100.0,Distinction
+STU_10502,5.9,77.4,80.1,5.8,0,High School,Yes,Yes,No,8,77.2,Merit
+STU_10503,18.7,63.6,73.9,6.9,3,Bachelor's,Yes,No,Yes,8,95.3,Distinction
+STU_10504,10.8,96.8,76.2,6.3,1,High School,Yes,Yes,No,1,96.8,Distinction
+STU_10505,11.8,51.0,68.0,7.7,0,High School,No,Yes,No,3,76.6,Merit
+STU_10506,11.1,85.8,78.0,6.4,1,Some College,Yes,Yes,Yes,6,99.3,Distinction
+STU_10507,9.4,95.0,89.8,4.9,3,Master's,Yes,Yes,No,6,96.3,Distinction
+STU_10508,15.3,75.2,80.5,6.9,2,Some College,Yes,No,Yes,1,100.0,Distinction
+STU_10509,9.6,77.3,81.7,5.6,1,Some College,Yes,No,Yes,2,92.9,Distinction
+STU_10510,16.8,80.7,75.5,7.4,3,Doctorate,No,Yes,No,10,88.4,Distinction
+STU_10511,14.7,90.5,54.0,5.8,0,Some College,Yes,No,No,7,82.2,Merit
+STU_10512,13.4,96.1,59.5,6.6,3,Some College,Yes,Yes,Yes,1,99.4,Distinction
+STU_10513,9.1,61.8,77.5,7.4,3,Some College,Yes,Yes,No,10,80.6,Merit
+STU_10514,11.3,98.9,71.9,6.9,2,High School,No,Yes,Yes,5,91.4,Distinction
+STU_10515,19.9,87.7,77.3,7.5,3,Some College,Yes,Yes,No,1,100.0,Distinction
+STU_10516,18.3,87.7,92.1,8.0,1,Some College,Yes,No,No,6,100.0,Distinction
+STU_10517,8.6,75.3,80.7,5.8,2,Some College,Yes,Yes,Yes,7,86.8,Distinction
+STU_10518,15.6,79.6,87.1,7.1,1,High School,Yes,Yes,No,8,99.4,Distinction
+STU_10519,19.9,87.7,73.1,4.0,1,Some College,Yes,Yes,Yes,3,78.8,Merit
+STU_10520,4.1,56.2,62.3,7.5,1,Some College,Yes,No,Yes,3,75.5,Merit
+STU_10521,18.5,79.8,71.3,6.8,0,High School,Yes,No,No,1,98.1,Distinction
+STU_10522,10.7,86.7,62.3,6.0,1,High School,Yes,No,Yes,3,87.6,Distinction
+STU_10523,18.7,78.7,90.7,7.6,0,Master's,Yes,Yes,No,5,100.0,Distinction
+STU_10524,10.0,93.5,81.5,8.6,0,Some College,Yes,No,No,6,100.0,Distinction
+STU_10525,3.3,50.5,78.2,6.6,0,High School,Yes,Yes,Yes,3,68.4,Pass
+STU_10526,4.4,69.0,86.8,6.1,3,Bachelor's,Yes,Yes,Yes,4,93.4,Distinction
+STU_10527,15.3,45.0,47.8,7.4,1,High School,Yes,No,No,5,68.8,Pass
+STU_10528,16.7,81.3,79.1,5.6,2,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_10529,9.1,94.7,56.3,6.4,0,Bachelor's,Yes,Yes,Yes,9,80.3,Merit
+STU_10530,19.2,69.6,71.9,8.7,1,Bachelor's,Yes,Yes,Yes,8,88.1,Distinction
+STU_10531,4.2,87.2,68.3,7.3,0,Bachelor's,Yes,Yes,No,1,87.4,Distinction
+STU_10532,14.6,76.4,79.9,4.9,0,High School,Yes,Yes,No,2,82.9,Merit
+STU_10533,7.1,97.6,74.7,5.0,2,Bachelor's,Yes,Yes,Yes,5,92.0,Distinction
+STU_10534,10.8,67.4,88.1,7.4,2,High School,Yes,Yes,Yes,3,100.0,Distinction
+STU_10535,15.3,75.7,64.8,8.2,0,Some College,Yes,No,No,7,85.1,Distinction
+STU_10536,9.4,65.7,80.5,5.3,1,Master's,Yes,No,No,6,83.1,Merit
+STU_10537,12.5,95.4,73.9,7.7,3,Some College,Yes,No,Yes,2,100.0,Distinction
+STU_10538,21.5,69.6,52.4,8.8,0,Doctorate,Yes,No,No,8,76.9,Merit
+STU_10539,11.3,92.5,61.0,9.5,0,High School,No,No,No,5,73.5,Merit
+STU_10540,20.4,57.6,70.2,7.6,2,Some College,Yes,Yes,No,6,95.2,Distinction
+STU_10541,7.7,78.6,85.3,7.8,0,High School,Yes,Yes,Yes,8,90.2,Distinction
+STU_10542,18.4,77.8,77.6,4.6,5,Bachelor's,No,No,No,6,88.2,Distinction
+STU_10543,24.4,87.6,58.0,9.7,2,High School,Yes,Yes,No,10,79.7,Merit
+STU_10544,2.0,94.1,70.3,6.5,1,High School,No,Yes,No,3,76.7,Merit
+STU_10545,9.8,82.1,96.2,6.1,1,Some College,Yes,Yes,No,7,100.0,Distinction
+STU_10546,18.8,59.5,73.3,6.9,1,Bachelor's,Yes,No,No,4,87.0,Distinction
+STU_10547,13.7,70.3,68.1,9.0,0,High School,Yes,No,No,6,80.7,Merit
+STU_10548,17.4,59.7,77.9,9.8,4,Master's,Yes,Yes,No,6,95.3,Distinction
+STU_10549,11.1,95.6,81.2,7.4,2,High School,Yes,Yes,No,5,100.0,Distinction
+STU_10550,15.6,90.7,66.5,8.4,0,High School,Yes,No,Yes,1,94.6,Distinction
+STU_10551,14.0,73.5,78.0,7.3,1,Some College,Yes,Yes,No,8,85.1,Distinction
+STU_10552,22.6,80.9,68.1,6.0,0,Doctorate,Yes,Yes,No,10,82.3,Merit
+STU_10553,16.7,84.4,80.6,9.0,0,High School,Yes,Yes,Yes,2,94.4,Distinction
+STU_10554,17.2,87.9,74.0,6.5,2,High School,Yes,No,No,4,97.1,Distinction
+STU_10555,12.3,89.3,77.8,9.0,2,Bachelor's,Yes,Yes,No,3,98.1,Distinction
+STU_10556,11.8,91.0,62.9,8.8,1,Some College,No,Yes,No,6,86.8,Distinction
+STU_10557,12.2,61.2,62.1,7.9,0,Bachelor's,Yes,Yes,No,1,85.6,Distinction
+STU_10558,17.6,73.8,83.3,9.4,2,High School,No,No,No,9,79.0,Merit
+STU_10559,12.3,86.1,71.0,9.9,0,Some College,Yes,No,No,5,90.2,Distinction
+STU_10560,16.9,91.3,75.4,7.0,2,Some College,Yes,Yes,No,5,100.0,Distinction
+STU_10561,28.5,90.0,68.3,6.2,1,Some College,Yes,No,No,4,98.8,Distinction
+STU_10562,20.7,68.1,82.8,5.0,2,Bachelor's,Yes,Yes,No,4,89.1,Distinction
+STU_10563,12.9,74.7,64.7,9.9,3,Bachelor's,Yes,Yes,No,1,84.1,Merit
+STU_10564,22.8,75.1,70.4,6.7,3,Some College,Yes,No,Yes,9,96.8,Distinction
+STU_10565,12.3,84.9,81.4,8.6,5,Master's,Yes,Yes,Yes,9,100.0,Distinction
+STU_10566,2.0,92.9,86.1,6.3,5,Some College,No,Yes,No,4,92.7,Distinction
+STU_10567,8.4,66.9,65.7,9.0,2,High School,Yes,Yes,No,10,71.5,Merit
+STU_10568,2.8,46.0,95.5,6.4,4,Bachelor's,No,No,Yes,10,63.4,Pass
+STU_10569,12.7,89.6,75.8,5.8,3,Bachelor's,Yes,No,Yes,4,100.0,Distinction
+STU_10570,15.1,94.5,59.5,6.9,2,High School,No,No,Yes,7,86.0,Distinction
+STU_10571,25.9,86.9,76.4,6.6,0,Bachelor's,Yes,No,No,4,100.0,Distinction
+STU_10572,17.1,80.0,67.4,7.9,0,Some College,Yes,No,No,1,94.9,Distinction
+STU_10573,13.6,77.9,77.2,7.1,3,Bachelor's,Yes,Yes,No,9,94.7,Distinction
+STU_10574,20.4,79.7,71.5,8.0,1,Bachelor's,Yes,No,Yes,2,100.0,Distinction
+STU_10575,2.0,82.3,72.9,6.9,3,Bachelor's,Yes,No,Yes,5,90.1,Distinction
+STU_10576,16.5,75.5,61.1,6.4,0,High School,Yes,Yes,Yes,4,88.2,Distinction
+STU_10577,20.0,90.0,83.9,6.5,1,Bachelor's,Yes,Yes,Yes,8,100.0,Distinction
+STU_10578,5.4,63.2,58.1,9.7,2,Bachelor's,Yes,Yes,No,6,72.4,Merit
+STU_10579,22.4,65.1,58.7,7.5,3,High School,Yes,No,Yes,7,90.1,Distinction
+STU_10580,17.2,88.3,76.4,4.8,0,Some College,Yes,Yes,Yes,2,88.8,Distinction
+STU_10581,12.3,93.8,91.2,6.6,3,Doctorate,Yes,Yes,No,4,100.0,Distinction
+STU_10582,19.1,82.7,67.8,7.3,2,Some College,Yes,Yes,Yes,4,100.0,Distinction
+STU_10583,29.8,82.0,80.4,9.4,0,High School,Yes,Yes,Yes,2,100.0,Distinction
+STU_10584,16.2,45.0,84.9,8.4,1,High School,Yes,No,No,10,66.8,Pass
+STU_10585,16.6,75.7,81.8,6.1,0,Bachelor's,Yes,Yes,Yes,4,100.0,Distinction
+STU_10586,12.0,78.2,68.3,10.0,0,Master's,Yes,Yes,No,9,79.2,Merit
+STU_10587,9.5,89.3,58.9,7.2,1,Bachelor's,Yes,No,Yes,8,91.3,Distinction
+STU_10588,20.4,90.4,45.5,8.7,0,Some College,Yes,No,No,1,86.5,Distinction
+STU_10589,9.4,93.2,68.8,5.8,0,Bachelor's,Yes,Yes,No,8,88.6,Distinction
+STU_10590,15.5,85.2,86.1,4.3,3,Bachelor's,Yes,Yes,No,9,84.4,Merit
+STU_10591,11.9,89.8,58.5,5.5,1,Bachelor's,Yes,No,No,8,78.2,Merit
+STU_10592,18.1,59.3,80.4,4.0,2,High School,Yes,Yes,No,10,57.7,Pass
+STU_10593,17.2,69.4,60.6,9.7,0,Bachelor's,Yes,No,Yes,1,83.5,Merit
+STU_10594,21.7,69.8,73.3,7.5,3,Some College,Yes,Yes,Yes,8,98.2,Distinction
+STU_10595,11.7,57.9,80.5,6.1,3,High School,Yes,Yes,Yes,5,83.5,Merit
+STU_10596,13.2,89.8,64.1,7.7,1,Some College,Yes,Yes,Yes,9,91.5,Distinction
+STU_10597,8.6,82.5,74.0,7.4,3,Doctorate,Yes,Yes,No,9,93.9,Distinction
+STU_10598,12.1,51.3,67.0,7.9,3,Some College,Yes,No,Yes,6,80.3,Merit
+STU_10599,17.5,78.2,80.5,8.7,2,Doctorate,Yes,No,No,3,100.0,Distinction
+STU_10600,19.9,61.1,74.8,6.9,2,High School,Yes,No,Yes,7,92.7,Distinction
+STU_10601,9.0,87.8,72.7,6.1,0,Bachelor's,Yes,No,No,3,91.5,Distinction
+STU_10602,20.7,54.7,90.7,8.2,0,High School,No,No,No,7,80.4,Merit
+STU_10603,23.8,85.7,79.9,8.2,0,Some College,No,No,No,8,97.9,Distinction
+STU_10604,17.7,74.2,63.7,7.3,0,Bachelor's,Yes,No,No,5,91.6,Distinction
+STU_10605,27.2,69.4,71.0,9.8,0,Bachelor's,Yes,Yes,Yes,5,91.0,Distinction
+STU_10606,10.0,77.1,71.1,6.7,3,Bachelor's,Yes,Yes,No,4,100.0,Distinction
+STU_10607,6.9,93.9,73.0,6.1,0,Bachelor's,Yes,No,Yes,3,96.6,Distinction
+STU_10608,3.4,58.7,99.0,7.7,5,Bachelor's,Yes,No,No,8,91.1,Distinction
+STU_10609,24.7,66.3,76.5,6.4,1,Master's,Yes,No,Yes,6,94.4,Distinction
+STU_10610,19.3,86.8,47.6,7.8,0,Some College,No,No,Yes,6,84.9,Merit
+STU_10611,14.6,82.4,65.5,6.2,1,High School,No,Yes,No,2,85.4,Distinction
+STU_10612,16.8,48.3,48.8,6.7,0,High School,Yes,No,Yes,4,75.9,Merit
+STU_10613,7.7,78.6,68.0,9.5,5,Some College,Yes,No,Yes,5,95.6,Distinction
+STU_10614,30.9,80.4,48.2,6.7,3,Bachelor's,Yes,Yes,No,10,85.8,Distinction
+STU_10615,15.8,75.2,61.5,6.2,0,High School,Yes,No,No,5,85.8,Distinction
+STU_10616,15.7,90.8,53.8,8.6,4,High School,Yes,Yes,No,3,100.0,Distinction
+STU_10617,19.7,75.9,76.6,5.9,2,High School,Yes,No,No,10,85.4,Distinction
+STU_10618,18.1,91.8,72.0,6.4,0,Bachelor's,Yes,No,No,5,100.0,Distinction
+STU_10619,16.5,73.5,75.6,7.9,2,High School,Yes,Yes,Yes,5,94.1,Distinction
+STU_10620,9.9,63.0,70.7,8.3,2,High School,Yes,Yes,No,2,84.4,Merit
+STU_10621,18.1,88.4,55.3,8.7,0,Bachelor's,No,Yes,No,5,87.0,Distinction
+STU_10622,27.2,83.4,78.2,6.3,2,Bachelor's,Yes,Yes,No,3,100.0,Distinction
+STU_10623,23.7,84.2,95.1,7.9,0,Some College,Yes,Yes,No,3,100.0,Distinction
+STU_10624,25.4,88.7,76.9,6.6,1,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_10625,11.7,76.4,66.9,6.5,0,High School,Yes,No,Yes,9,73.3,Merit
+STU_10626,8.6,91.8,54.9,8.6,4,Master's,No,Yes,Yes,2,100.0,Distinction
+STU_10627,14.2,68.4,61.1,6.5,2,Some College,Yes,Yes,Yes,9,84.1,Merit
+STU_10628,15.4,77.2,77.4,7.5,0,Doctorate,No,No,Yes,3,91.6,Distinction
+STU_10629,22.1,80.4,84.9,7.4,0,Doctorate,Yes,No,No,7,100.0,Distinction
+STU_10630,4.0,83.3,75.1,5.9,0,Bachelor's,Yes,No,Yes,1,88.5,Distinction
+STU_10631,24.9,47.1,81.6,8.4,2,High School,Yes,No,No,1,92.1,Distinction
+STU_10632,14.0,97.3,80.5,7.9,0,Some College,Yes,Yes,No,8,97.2,Distinction
+STU_10633,12.2,80.4,78.1,4.8,3,High School,Yes,Yes,Yes,9,78.4,Merit
+STU_10634,8.4,75.6,64.1,7.5,4,Master's,No,Yes,No,3,98.7,Distinction
+STU_10635,4.2,53.7,74.1,6.3,2,Bachelor's,Yes,No,No,6,78.5,Merit
+STU_10636,20.4,82.8,61.8,8.5,0,Doctorate,Yes,Yes,No,3,100.0,Distinction
+STU_10637,15.5,45.0,72.2,5.5,1,Bachelor's,Yes,No,No,6,79.5,Merit
+STU_10638,6.6,67.9,76.0,6.8,1,Some College,Yes,Yes,Yes,7,91.1,Distinction
+STU_10639,6.6,69.6,92.1,7.6,2,Some College,Yes,Yes,No,5,93.5,Distinction
+STU_10640,12.8,69.8,56.3,7.3,2,Some College,No,No,No,3,79.0,Merit
+STU_10641,25.8,88.2,77.8,8.1,1,Some College,Yes,No,Yes,8,100.0,Distinction
+STU_10642,13.3,80.7,89.8,5.4,1,Bachelor's,No,Yes,No,5,89.9,Distinction
+STU_10643,5.2,69.8,81.1,9.2,3,Master's,Yes,Yes,No,1,93.4,Distinction
+STU_10644,13.4,58.5,82.0,7.8,0,Bachelor's,Yes,Yes,Yes,9,86.9,Distinction
+STU_10645,13.2,61.4,79.1,8.8,1,Master's,Yes,Yes,No,3,94.4,Distinction
+STU_10646,2.0,88.1,87.6,8.2,2,Master's,Yes,No,Yes,2,100.0,Distinction
+STU_10647,14.6,85.5,59.0,7.2,0,Some College,Yes,Yes,No,3,93.4,Distinction
+STU_10648,13.5,71.6,55.4,5.7,2,Some College,Yes,Yes,Yes,7,81.5,Merit
+STU_10649,19.5,97.8,71.9,6.5,3,Bachelor's,Yes,No,Yes,10,99.2,Distinction
+STU_10650,27.0,83.8,46.1,9.1,2,Some College,Yes,Yes,No,8,87.2,Distinction
+STU_10651,22.3,76.5,86.8,8.9,0,High School,Yes,Yes,Yes,2,99.5,Distinction
+STU_10652,13.3,69.7,86.6,6.5,0,Some College,Yes,Yes,Yes,7,91.9,Distinction
+STU_10653,7.8,89.3,66.8,4.0,0,Doctorate,Yes,Yes,Yes,5,72.9,Merit
+STU_10654,31.7,75.2,67.6,6.9,0,High School,No,Yes,Yes,9,93.0,Distinction
+STU_10655,15.4,86.7,71.1,6.9,4,Bachelor's,Yes,No,No,7,100.0,Distinction
+STU_10656,15.1,81.6,72.6,6.9,2,Master's,Yes,No,Yes,1,100.0,Distinction
+STU_10657,14.8,88.6,73.5,7.8,0,Bachelor's,Yes,Yes,No,1,100.0,Distinction
+STU_10658,16.3,60.8,78.7,8.3,4,Bachelor's,Yes,No,Yes,6,97.4,Distinction
+STU_10659,14.1,69.8,69.9,8.4,2,Bachelor's,Yes,Yes,Yes,9,84.3,Merit
+STU_10660,11.3,66.6,83.3,7.7,0,Some College,Yes,Yes,Yes,1,92.2,Distinction
+STU_10661,11.4,50.7,77.4,5.0,1,High School,Yes,No,No,3,66.6,Pass
+STU_10662,14.8,89.9,64.7,6.8,0,Doctorate,Yes,Yes,Yes,5,100.0,Distinction
+STU_10663,11.5,72.1,88.0,10.0,5,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_10664,10.4,76.9,55.7,7.6,1,Bachelor's,Yes,No,Yes,1,90.2,Distinction
+STU_10665,15.7,78.0,70.9,7.6,3,Some College,Yes,Yes,No,10,92.0,Distinction
+STU_10666,13.3,90.5,83.6,7.6,0,High School,Yes,Yes,Yes,4,100.0,Distinction
+STU_10667,24.8,57.3,63.3,7.7,3,Master's,Yes,No,No,4,98.3,Distinction
+STU_10668,2.0,66.6,75.7,4.3,0,Bachelor's,Yes,No,Yes,10,41.5,At-Risk
+STU_10669,22.1,73.2,78.5,6.9,5,High School,Yes,No,Yes,4,100.0,Distinction
+STU_10670,23.1,85.1,61.7,7.2,3,Doctorate,Yes,Yes,Yes,3,100.0,Distinction
+STU_10671,2.0,87.8,71.1,8.7,1,Bachelor's,Yes,Yes,Yes,7,84.6,Merit
+STU_10672,12.8,72.2,70.1,7.3,2,Some College,Yes,Yes,No,1,85.9,Distinction
+STU_10673,12.6,98.6,65.4,5.2,2,Bachelor's,Yes,Yes,No,2,93.8,Distinction
+STU_10674,5.9,69.2,99.0,7.7,3,High School,Yes,Yes,Yes,1,95.9,Distinction
+STU_10675,9.9,63.6,62.8,6.2,0,Bachelor's,Yes,No,No,4,77.2,Merit
+STU_10676,7.8,95.6,84.1,5.7,1,High School,Yes,Yes,Yes,5,95.3,Distinction
+STU_10677,26.4,88.5,67.3,6.2,3,Some College,Yes,Yes,Yes,10,93.1,Distinction
+STU_10678,21.1,91.3,59.0,7.9,2,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_10679,23.3,65.4,73.2,8.7,1,Master's,No,No,No,2,86.1,Distinction
+STU_10680,19.7,94.5,79.8,7.8,3,Bachelor's,Yes,No,Yes,3,100.0,Distinction
+STU_10681,7.7,73.1,83.0,8.0,0,High School,Yes,No,No,4,88.9,Distinction
+STU_10682,11.6,75.2,90.7,7.8,2,Master's,Yes,Yes,Yes,10,98.7,Distinction
+STU_10683,18.2,78.7,99.0,7.3,0,Bachelor's,Yes,Yes,Yes,6,100.0,Distinction
+STU_10684,7.1,57.8,75.0,8.0,0,Bachelor's,Yes,Yes,No,6,78.6,Merit
+STU_10685,19.6,96.4,64.0,4.3,1,High School,Yes,No,Yes,2,84.3,Merit
+STU_10686,13.4,85.7,77.4,7.3,1,Master's,Yes,Yes,Yes,2,100.0,Distinction
+STU_10687,12.6,56.6,68.8,5.9,1,Master's,Yes,Yes,Yes,9,74.3,Merit
+STU_10688,19.6,63.2,83.1,8.6,1,Bachelor's,No,Yes,Yes,2,97.5,Distinction
+STU_10689,17.9,50.4,56.4,7.0,0,Master's,No,Yes,No,2,77.9,Merit
+STU_10690,12.7,71.7,99.0,7.2,0,Some College,Yes,Yes,Yes,3,100.0,Distinction
+STU_10691,22.5,88.1,82.3,5.4,2,Master's,Yes,Yes,No,9,96.0,Distinction
+STU_10692,8.0,66.5,51.8,8.4,1,Some College,Yes,Yes,Yes,6,74.6,Merit
+STU_10693,19.0,81.4,63.5,8.0,1,High School,Yes,Yes,No,6,100.0,Distinction
+STU_10694,18.9,57.3,81.8,7.9,2,Bachelor's,Yes,Yes,No,10,86.5,Distinction
+STU_10695,13.0,83.2,86.1,6.2,3,Bachelor's,Yes,No,Yes,5,100.0,Distinction
+STU_10696,17.1,47.8,56.7,6.3,2,Some College,Yes,Yes,No,7,76.1,Merit
+STU_10697,6.9,88.0,80.6,7.5,0,High School,No,No,Yes,4,88.5,Distinction
+STU_10698,21.0,96.5,48.6,6.4,3,High School,Yes,Yes,No,10,81.7,Merit
+STU_10699,13.8,86.3,70.9,7.7,5,Some College,Yes,Yes,No,10,99.5,Distinction
+STU_10700,11.6,78.0,85.3,4.6,1,High School,Yes,No,Yes,3,78.9,Merit
+STU_10701,21.8,55.2,65.4,6.6,4,High School,Yes,No,No,7,89.4,Distinction
+STU_10702,10.4,93.8,53.9,9.4,1,Some College,Yes,No,No,10,67.3,Pass
+STU_10703,5.8,96.4,73.8,7.7,1,Doctorate,Yes,Yes,No,1,99.5,Distinction
+STU_10704,4.9,72.3,64.7,7.4,0,Bachelor's,No,Yes,No,6,74.7,Merit
+STU_10705,18.9,61.5,79.6,9.6,2,Some College,Yes,Yes,No,2,84.9,Merit
+STU_10706,6.7,80.2,61.4,4.4,0,Master's,Yes,Yes,Yes,2,70.2,Merit
+STU_10707,26.4,87.0,62.7,6.2,0,Bachelor's,Yes,Yes,No,8,95.7,Distinction
+STU_10708,2.0,84.3,47.7,6.7,0,Some College,Yes,Yes,Yes,3,78.5,Merit
+STU_10709,26.0,92.6,74.0,8.2,0,Some College,Yes,Yes,Yes,9,98.9,Distinction
+STU_10710,16.4,58.8,70.1,8.3,1,Some College,Yes,No,No,4,83.8,Merit
+STU_10711,14.4,74.4,57.7,6.2,1,High School,Yes,No,No,6,78.1,Merit
+STU_10712,11.5,95.9,74.3,8.4,0,Some College,Yes,Yes,Yes,1,98.0,Distinction
+STU_10713,17.6,66.6,84.3,6.7,5,Some College,Yes,No,No,10,89.3,Distinction
+STU_10714,14.8,70.5,69.4,8.7,0,Some College,Yes,No,Yes,10,74.5,Merit
+STU_10715,22.2,58.1,75.2,6.0,1,Bachelor's,No,Yes,Yes,3,89.8,Distinction
+STU_10716,15.7,88.4,75.3,7.1,0,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_10717,16.0,76.6,57.5,6.6,0,Bachelor's,Yes,No,No,5,88.0,Distinction
+STU_10718,12.6,45.0,96.7,8.5,0,Bachelor's,Yes,Yes,Yes,1,87.3,Distinction
+STU_10719,14.6,93.9,66.3,6.6,1,Doctorate,Yes,No,Yes,4,100.0,Distinction
+STU_10720,17.0,73.5,79.9,7.1,2,Some College,Yes,Yes,Yes,5,95.6,Distinction
+STU_10721,3.9,80.1,81.2,7.8,0,Master's,Yes,Yes,No,4,90.9,Distinction
+STU_10722,6.2,80.0,70.3,7.9,1,Bachelor's,Yes,No,Yes,10,75.8,Merit
+STU_10723,19.8,70.6,79.3,8.3,0,Bachelor's,Yes,No,Yes,10,82.2,Merit
+STU_10724,16.1,93.8,74.9,7.5,3,Bachelor's,Yes,Yes,No,7,100.0,Distinction
+STU_10725,13.8,92.2,55.0,6.7,2,High School,Yes,No,Yes,8,90.9,Distinction
+STU_10726,15.1,76.1,68.0,6.8,0,Master's,Yes,Yes,Yes,8,95.5,Distinction
+STU_10727,17.3,79.2,64.6,7.2,1,High School,Yes,No,No,3,91.7,Distinction
+STU_10728,11.5,78.4,66.5,7.5,4,Bachelor's,Yes,No,No,5,100.0,Distinction
+STU_10729,9.9,79.7,56.4,7.0,1,Some College,Yes,Yes,No,10,77.7,Merit
+STU_10730,16.3,76.9,85.5,7.2,1,Some College,Yes,Yes,Yes,8,100.0,Distinction
+STU_10731,8.6,74.1,91.2,5.4,1,Bachelor's,Yes,Yes,No,7,90.1,Distinction
+STU_10732,17.7,84.1,83.7,8.0,1,Master's,Yes,Yes,No,9,100.0,Distinction
+STU_10733,3.9,89.0,87.2,7.4,5,Some College,Yes,Yes,Yes,10,92.9,Distinction
+STU_10734,21.7,81.8,67.9,8.4,5,Doctorate,Yes,No,No,7,100.0,Distinction
+STU_10735,18.1,94.8,64.4,7.2,2,Bachelor's,Yes,Yes,Yes,2,100.0,Distinction
+STU_10736,16.7,73.8,62.7,5.1,1,High School,Yes,Yes,No,4,77.3,Merit
+STU_10737,21.4,91.3,79.7,6.8,1,High School,Yes,No,No,8,100.0,Distinction
+STU_10738,25.8,79.2,74.7,7.0,1,Bachelor's,Yes,Yes,No,9,96.1,Distinction
+STU_10739,21.6,78.6,71.1,8.1,5,High School,Yes,Yes,Yes,7,100.0,Distinction
+STU_10740,3.0,89.2,87.5,4.7,2,Some College,No,Yes,No,5,73.7,Merit
+STU_10741,6.7,89.2,76.9,7.2,1,High School,Yes,No,Yes,1,96.3,Distinction
+STU_10742,10.9,94.2,61.9,7.8,0,Some College,Yes,Yes,No,9,83.4,Merit
+STU_10743,15.2,86.3,63.8,6.4,1,Bachelor's,Yes,No,No,6,97.4,Distinction
+STU_10744,18.4,88.7,80.2,7.3,5,Some College,Yes,Yes,Yes,2,100.0,Distinction
+STU_10745,10.3,88.1,84.5,6.4,1,High School,Yes,No,Yes,10,89.4,Distinction
+STU_10746,16.2,96.5,78.6,6.3,0,Some College,Yes,No,No,10,79.3,Merit
+STU_10747,10.1,87.6,94.8,6.7,0,Some College,Yes,No,No,2,100.0,Distinction
+STU_10748,11.0,83.4,91.6,6.3,1,High School,Yes,Yes,No,10,89.5,Distinction
+STU_10749,5.9,70.8,77.3,8.0,3,Bachelor's,Yes,Yes,Yes,1,92.8,Distinction
+STU_10750,9.0,75.1,61.9,6.3,5,Bachelor's,Yes,No,No,4,100.0,Distinction
+STU_10751,6.2,66.1,56.3,6.1,4,High School,Yes,Yes,Yes,10,67.3,Pass
+STU_10752,8.7,79.5,67.4,9.3,2,Some College,Yes,Yes,No,2,83.4,Merit
+STU_10753,21.8,51.2,81.0,8.4,1,Some College,Yes,No,No,10,76.7,Merit
+STU_10754,8.8,91.4,93.9,5.0,1,Some College,Yes,No,No,9,82.1,Merit
+STU_10755,32.1,72.1,77.0,6.3,1,Bachelor's,Yes,Yes,Yes,2,99.7,Distinction
+STU_10756,18.2,76.0,86.0,7.5,2,Some College,Yes,No,No,9,98.3,Distinction
+STU_10757,16.2,49.5,69.1,7.6,1,Some College,Yes,No,Yes,1,86.9,Distinction
+STU_10758,9.4,88.9,79.5,5.4,2,Bachelor's,Yes,Yes,No,7,95.7,Distinction
+STU_10759,19.6,85.2,81.9,8.6,0,High School,Yes,No,No,6,100.0,Distinction
+STU_10760,11.3,79.8,48.2,8.2,0,Bachelor's,Yes,No,Yes,6,83.6,Merit
+STU_10761,15.8,80.8,67.0,7.8,3,Some College,Yes,No,Yes,2,99.7,Distinction
+STU_10762,31.6,89.0,83.4,8.8,3,Some College,Yes,Yes,Yes,1,100.0,Distinction
+STU_10763,14.4,45.0,75.3,7.7,1,Bachelor's,Yes,No,No,10,74.3,Merit
+STU_10764,22.5,76.5,57.6,7.7,0,Bachelor's,Yes,Yes,No,8,91.9,Distinction
+STU_10765,10.4,90.4,42.8,9.1,4,Some College,Yes,Yes,No,8,78.3,Merit
+STU_10766,14.8,57.5,67.6,8.5,2,Bachelor's,No,No,Yes,2,85.2,Distinction
+STU_10767,26.5,59.5,71.1,6.2,1,Bachelor's,Yes,Yes,No,4,86.1,Distinction
+STU_10768,10.9,87.4,61.4,8.0,1,Doctorate,Yes,Yes,No,4,100.0,Distinction
+STU_10769,26.8,65.8,73.7,6.4,1,Bachelor's,Yes,Yes,No,2,93.6,Distinction
+STU_10770,19.6,83.9,78.1,7.8,1,Master's,No,Yes,Yes,9,96.6,Distinction
+STU_10771,11.3,62.5,80.0,7.8,3,High School,Yes,Yes,Yes,4,100.0,Distinction
+STU_10772,19.1,82.6,43.7,5.5,0,Some College,Yes,Yes,No,4,80.4,Merit
+STU_10773,21.3,70.7,56.2,7.1,0,High School,No,No,No,4,76.2,Merit
+STU_10774,19.0,82.6,68.3,7.5,0,High School,Yes,Yes,No,5,95.6,Distinction
+STU_10775,4.8,63.3,78.9,6.7,0,Some College,Yes,No,No,10,59.2,Pass
+STU_10776,10.3,87.6,77.9,7.6,0,Bachelor's,Yes,No,Yes,8,91.7,Distinction
+STU_10777,13.4,61.0,77.7,8.2,0,Some College,Yes,Yes,No,4,90.5,Distinction
+STU_10778,14.5,79.1,67.4,7.2,0,Bachelor's,Yes,Yes,Yes,3,91.7,Distinction
+STU_10779,19.0,71.3,68.1,7.5,0,Some College,Yes,No,No,1,87.5,Distinction
+STU_10780,16.2,93.0,63.3,8.9,0,Some College,Yes,No,Yes,2,96.3,Distinction
+STU_10781,6.3,83.5,81.2,7.8,0,Some College,Yes,Yes,Yes,4,94.6,Distinction
+STU_10782,17.5,73.4,61.0,7.4,2,Some College,Yes,No,No,9,86.2,Distinction
+STU_10783,19.0,96.7,82.2,6.1,1,Some College,Yes,Yes,Yes,1,100.0,Distinction
+STU_10784,18.6,66.3,74.5,8.0,0,Bachelor's,Yes,Yes,No,6,91.6,Distinction
+STU_10785,22.0,81.5,71.5,7.6,1,High School,Yes,Yes,No,6,100.0,Distinction
+STU_10786,20.4,66.9,64.1,8.7,5,High School,Yes,Yes,No,10,82.7,Merit
+STU_10787,18.0,65.3,55.7,7.3,4,Bachelor's,Yes,Yes,Yes,3,95.5,Distinction
+STU_10788,14.5,54.4,64.2,5.0,0,Some College,Yes,No,Yes,10,55.7,Pass
+STU_10789,4.2,97.8,68.0,5.2,2,Some College,Yes,No,No,9,66.6,Pass
+STU_10790,17.8,79.2,43.6,8.1,1,High School,No,Yes,Yes,10,67.3,Pass
+STU_10791,16.3,66.0,69.6,6.5,0,Some College,Yes,No,No,3,86.7,Distinction
+STU_10792,16.8,81.4,83.1,7.7,0,Bachelor's,Yes,No,No,1,100.0,Distinction
+STU_10793,6.7,78.3,78.8,7.3,0,Master's,Yes,Yes,No,2,99.7,Distinction
+STU_10794,8.0,94.1,66.0,7.0,1,Bachelor's,Yes,Yes,No,4,91.6,Distinction
+STU_10795,21.8,54.0,72.6,7.1,2,High School,Yes,No,Yes,4,88.0,Distinction
+STU_10796,14.7,72.7,65.3,6.2,2,Bachelor's,No,No,No,2,88.7,Distinction
+STU_10797,19.4,73.6,73.8,7.2,0,High School,Yes,Yes,No,10,77.2,Merit
+STU_10798,15.2,88.9,90.5,6.5,0,Some College,No,No,Yes,6,100.0,Distinction
+STU_10799,15.2,48.2,83.6,6.8,0,High School,No,Yes,Yes,6,91.2,Distinction
+STU_10800,21.1,84.3,78.2,6.8,1,Bachelor's,Yes,Yes,No,3,100.0,Distinction
+STU_10801,11.6,95.8,66.1,6.9,5,Bachelor's,Yes,Yes,No,1,100.0,Distinction
+STU_10802,15.6,57.9,81.0,8.3,2,Bachelor's,Yes,No,No,10,79.1,Merit
+STU_10803,12.0,94.3,51.8,7.0,5,Bachelor's,Yes,Yes,No,9,95.7,Distinction
+STU_10804,12.2,97.6,69.0,8.4,2,High School,Yes,Yes,No,4,94.1,Distinction
+STU_10805,13.0,75.3,79.0,9.0,1,Some College,Yes,Yes,No,9,88.0,Distinction
+STU_10806,16.4,94.9,80.9,8.2,1,Bachelor's,Yes,No,No,5,100.0,Distinction
+STU_10807,11.9,90.4,80.0,7.8,1,Bachelor's,Yes,No,Yes,7,100.0,Distinction
+STU_10808,23.2,85.6,75.5,7.6,1,Bachelor's,Yes,Yes,Yes,3,100.0,Distinction
+STU_10809,9.2,89.1,69.7,8.2,3,Some College,Yes,No,No,3,100.0,Distinction
+STU_10810,13.8,56.2,78.5,7.3,1,Bachelor's,No,Yes,No,8,80.5,Merit
+STU_10811,12.1,66.5,60.6,8.4,0,Some College,Yes,Yes,Yes,1,83.7,Merit
+STU_10812,24.4,88.5,61.9,7.9,2,Bachelor's,Yes,Yes,No,8,100.0,Distinction
+STU_10813,16.3,62.8,72.7,6.8,3,Some College,Yes,Yes,Yes,8,90.2,Distinction
+STU_10814,21.7,68.1,74.1,8.3,1,Master's,Yes,Yes,Yes,3,100.0,Distinction
+STU_10815,5.3,70.8,50.1,7.3,2,High School,No,No,No,1,68.9,Pass
+STU_10816,16.7,89.2,77.5,7.1,0,Bachelor's,Yes,No,Yes,9,98.8,Distinction
+STU_10817,20.8,92.1,81.3,6.6,1,Bachelor's,Yes,No,No,4,100.0,Distinction
+STU_10818,15.5,85.4,71.1,7.4,0,High School,Yes,No,No,7,95.7,Distinction
+STU_10819,21.9,45.0,99.0,8.4,0,High School,Yes,No,No,9,74.1,Merit
+STU_10820,11.6,81.1,63.8,8.3,2,Bachelor's,Yes,Yes,Yes,3,99.8,Distinction
+STU_10821,24.2,78.7,67.7,7.6,0,High School,Yes,No,No,5,90.6,Distinction
+STU_10822,29.9,97.7,67.3,7.9,2,High School,Yes,No,No,10,95.1,Distinction
+STU_10823,12.6,83.8,71.1,8.7,3,Doctorate,Yes,No,Yes,3,100.0,Distinction
+STU_10824,12.1,85.0,68.1,7.0,0,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_10825,24.4,78.9,55.1,5.9,2,Some College,Yes,Yes,No,2,93.0,Distinction
+STU_10826,25.3,91.4,65.4,8.8,1,Bachelor's,Yes,No,Yes,4,100.0,Distinction
+STU_10827,11.6,84.8,70.8,6.6,0,Some College,Yes,No,No,2,86.7,Distinction
+STU_10828,12.3,78.6,86.7,6.4,2,Master's,Yes,Yes,No,3,100.0,Distinction
+STU_10829,13.2,86.8,98.4,5.0,2,Bachelor's,Yes,No,Yes,5,100.0,Distinction
+STU_10830,6.3,80.9,88.0,7.9,1,Master's,Yes,Yes,No,9,88.1,Distinction
+STU_10831,9.0,96.6,62.7,5.3,4,High School,Yes,No,Yes,3,88.2,Distinction
+STU_10832,8.5,86.1,63.7,6.3,1,Bachelor's,Yes,Yes,Yes,10,75.8,Merit
+STU_10833,10.0,76.8,70.1,7.9,5,High School,Yes,Yes,No,6,100.0,Distinction
+STU_10834,14.8,86.7,93.4,8.1,1,High School,Yes,Yes,No,4,100.0,Distinction
+STU_10835,16.5,70.6,70.0,6.4,0,Bachelor's,Yes,Yes,No,4,91.6,Distinction
+STU_10836,25.1,75.4,56.1,7.0,1,High School,Yes,Yes,Yes,10,85.8,Distinction
+STU_10837,8.5,90.6,66.0,6.2,0,Bachelor's,Yes,No,No,10,80.9,Merit
+STU_10838,21.4,86.6,81.1,6.5,1,Master's,Yes,No,No,5,100.0,Distinction
+STU_10839,13.6,78.3,80.3,7.5,2,Some College,Yes,Yes,No,7,100.0,Distinction
+STU_10840,14.7,61.4,69.6,6.6,1,High School,Yes,No,No,4,78.4,Merit
+STU_10841,19.4,83.1,80.2,6.9,0,Bachelor's,Yes,Yes,Yes,8,100.0,Distinction
+STU_10842,7.7,77.5,44.7,5.4,1,Master's,Yes,Yes,Yes,9,68.8,Pass
+STU_10843,17.5,71.1,73.2,8.6,0,Bachelor's,Yes,Yes,No,9,78.6,Merit
+STU_10844,16.1,95.0,82.3,7.8,2,Bachelor's,Yes,Yes,No,9,100.0,Distinction
+STU_10845,18.2,57.6,62.0,8.2,2,High School,Yes,No,Yes,2,86.7,Distinction
+STU_10846,16.9,70.3,62.0,8.7,4,High School,Yes,Yes,No,3,83.7,Merit
+STU_10847,31.0,94.1,49.6,6.2,0,Bachelor's,Yes,No,Yes,5,98.8,Distinction
+STU_10848,10.9,69.6,91.1,6.8,1,High School,Yes,No,Yes,1,97.6,Distinction
+STU_10849,11.5,64.7,63.4,4.9,1,Master's,Yes,No,No,4,73.9,Merit
+STU_10850,10.9,71.2,74.9,10.0,4,Some College,Yes,No,Yes,5,84.0,Merit
+STU_10851,11.4,91.6,79.2,7.0,2,Some College,Yes,No,No,9,95.7,Distinction
+STU_10852,10.9,82.6,90.1,8.4,0,Bachelor's,Yes,No,No,8,95.6,Distinction
+STU_10853,22.7,72.5,70.2,5.7,1,Bachelor's,Yes,Yes,No,1,96.6,Distinction
+STU_10854,24.2,79.3,65.5,8.4,2,Bachelor's,Yes,Yes,Yes,3,98.2,Distinction
+STU_10855,11.3,91.9,74.1,9.4,2,Master's,Yes,No,Yes,3,92.5,Distinction
+STU_10856,9.6,69.2,87.4,7.1,3,Doctorate,Yes,Yes,Yes,6,100.0,Distinction
+STU_10857,18.1,68.9,70.0,6.0,0,Master's,Yes,No,No,4,86.1,Distinction
+STU_10858,11.4,85.4,60.5,7.0,4,Bachelor's,Yes,Yes,Yes,4,100.0,Distinction
+STU_10859,19.1,74.9,53.5,4.5,0,Bachelor's,No,Yes,No,1,67.4,Pass
+STU_10860,16.3,65.3,57.3,7.2,5,Bachelor's,Yes,Yes,No,10,86.8,Distinction
+STU_10861,5.1,76.1,82.4,8.2,3,High School,Yes,No,No,4,93.7,Distinction
+STU_10862,25.1,62.3,68.2,7.2,2,Some College,Yes,Yes,No,1,95.6,Distinction
+STU_10863,26.7,84.5,64.7,6.9,2,High School,Yes,Yes,No,5,98.4,Distinction
+STU_10864,11.0,83.0,63.4,7.8,0,High School,Yes,Yes,No,3,98.2,Distinction
+STU_10865,12.5,95.7,73.0,7.9,0,Some College,Yes,Yes,Yes,10,91.4,Distinction
+STU_10866,16.9,88.7,69.1,5.2,0,High School,Yes,Yes,Yes,5,92.1,Distinction
+STU_10867,17.2,68.6,68.7,7.3,0,Master's,Yes,Yes,No,3,89.7,Distinction
+STU_10868,19.3,61.8,88.2,10.0,1,Bachelor's,Yes,Yes,No,5,93.1,Distinction
+STU_10869,28.1,63.7,90.5,5.6,0,High School,Yes,Yes,Yes,4,96.5,Distinction
+STU_10870,13.8,74.6,52.7,7.1,3,High School,Yes,No,No,9,79.5,Merit
+STU_10871,9.8,89.5,75.9,9.5,1,Bachelor's,Yes,No,No,6,93.0,Distinction
+STU_10872,6.0,97.0,62.7,8.5,2,Bachelor's,Yes,Yes,Yes,10,79.5,Merit
+STU_10873,10.2,77.7,69.0,6.6,2,Master's,Yes,Yes,Yes,2,99.6,Distinction
+STU_10874,14.8,63.8,75.7,7.4,0,Doctorate,Yes,Yes,No,1,90.2,Distinction
+STU_10875,26.7,85.7,69.4,7.2,0,Doctorate,Yes,No,No,1,100.0,Distinction
+STU_10876,11.6,89.9,74.8,6.3,0,Some College,Yes,Yes,Yes,1,93.7,Distinction
+STU_10877,16.5,94.4,80.1,7.1,2,Some College,No,Yes,Yes,9,93.7,Distinction
+STU_10878,14.9,75.7,75.5,6.9,1,Bachelor's,Yes,Yes,No,5,93.6,Distinction
+STU_10879,22.7,45.0,64.2,7.3,0,Some College,Yes,Yes,No,4,83.3,Merit
+STU_10880,31.4,45.0,64.4,6.3,3,Bachelor's,Yes,Yes,Yes,10,79.5,Merit
+STU_10881,11.5,63.7,54.7,5.7,0,Some College,Yes,No,Yes,5,70.9,Merit
+STU_10882,11.8,78.1,61.8,7.2,2,Bachelor's,Yes,No,No,9,78.2,Merit
+STU_10883,21.8,93.2,95.5,9.3,1,Some College,Yes,No,Yes,3,100.0,Distinction
+STU_10884,19.4,72.8,62.5,7.3,2,Some College,Yes,Yes,Yes,3,95.7,Distinction
+STU_10885,27.0,92.1,57.7,6.8,4,Bachelor's,Yes,No,Yes,2,100.0,Distinction
+STU_10886,18.8,86.6,75.8,8.1,2,Master's,Yes,Yes,Yes,8,100.0,Distinction
+STU_10887,12.7,71.2,70.7,7.0,1,Some College,Yes,Yes,No,7,91.4,Distinction
+STU_10888,18.8,87.2,69.7,9.4,0,Master's,Yes,No,Yes,2,100.0,Distinction
+STU_10889,22.2,82.0,88.9,7.2,3,Bachelor's,Yes,No,Yes,4,100.0,Distinction
+STU_10890,20.3,91.3,78.6,8.0,1,Bachelor's,Yes,Yes,Yes,7,100.0,Distinction
+STU_10891,18.3,80.3,65.6,6.3,0,Bachelor's,Yes,Yes,No,1,91.6,Distinction
+STU_10892,21.9,85.4,66.9,7.8,2,Bachelor's,Yes,Yes,Yes,1,100.0,Distinction
+STU_10893,22.6,52.7,66.0,7.5,0,High School,Yes,No,No,8,82.9,Merit
+STU_10894,24.0,91.2,82.5,7.1,0,High School,Yes,Yes,No,6,100.0,Distinction
+STU_10895,19.2,81.4,68.3,6.6,3,Master's,Yes,Yes,No,2,100.0,Distinction
+STU_10896,13.9,87.1,50.5,6.4,1,Bachelor's,Yes,Yes,No,10,79.2,Merit
+STU_10897,16.0,66.2,71.4,7.5,0,High School,Yes,Yes,Yes,10,80.9,Merit
+STU_10898,22.8,91.7,53.6,8.0,2,Bachelor's,Yes,Yes,Yes,1,100.0,Distinction
+STU_10899,9.7,58.3,98.2,7.0,3,Some College,Yes,No,No,3,92.8,Distinction
+STU_10900,17.4,74.7,60.4,7.5,0,High School,Yes,Yes,Yes,4,87.4,Distinction
+STU_10901,12.4,92.5,70.1,7.2,2,Some College,Yes,No,No,5,100.0,Distinction
+STU_10902,15.2,90.5,75.1,7.3,2,Some College,Yes,Yes,No,10,89.9,Distinction
+STU_10903,23.3,64.1,68.5,7.0,0,High School,Yes,No,No,3,90.2,Distinction
+STU_10904,16.2,73.5,68.5,7.2,1,Some College,Yes,No,No,5,91.3,Distinction
+STU_10905,15.3,84.4,77.1,10.0,0,Bachelor's,Yes,Yes,No,7,93.0,Distinction
+STU_10906,6.2,95.7,90.3,7.6,2,High School,Yes,No,No,9,96.5,Distinction
+STU_10907,19.9,91.5,81.2,8.0,3,Some College,Yes,Yes,No,5,100.0,Distinction
+STU_10908,19.2,86.4,89.7,7.7,0,Some College,Yes,Yes,Yes,4,100.0,Distinction
+STU_10909,29.1,81.0,59.4,6.9,3,High School,Yes,Yes,No,10,87.4,Distinction
+STU_10910,13.0,56.5,75.8,8.8,2,High School,Yes,Yes,Yes,9,74.5,Merit
+STU_10911,16.4,53.1,73.9,6.9,0,High School,Yes,No,No,8,81.7,Merit
+STU_10912,16.6,71.3,76.2,8.5,2,High School,Yes,No,Yes,5,95.0,Distinction
+STU_10913,25.3,72.6,88.5,6.8,0,Bachelor's,Yes,Yes,Yes,9,93.8,Distinction
+STU_10914,14.4,71.2,69.4,6.0,4,Some College,Yes,No,No,9,82.0,Merit
+STU_10915,16.8,62.2,67.1,7.6,1,High School,Yes,No,Yes,1,87.2,Distinction
+STU_10916,19.0,46.3,78.4,5.9,2,High School,Yes,Yes,No,6,81.9,Merit
+STU_10917,16.2,63.3,50.7,7.8,2,Some College,Yes,Yes,No,5,82.4,Merit
+STU_10918,12.1,99.2,69.2,5.8,1,Bachelor's,Yes,Yes,No,6,92.5,Distinction
+STU_10919,16.3,86.4,70.4,6.8,3,Some College,Yes,No,Yes,10,91.5,Distinction
+STU_10920,22.0,52.8,61.0,5.5,2,High School,Yes,Yes,No,3,81.9,Merit
+STU_10921,8.3,94.5,84.7,10.0,3,Some College,Yes,Yes,No,3,94.5,Distinction
+STU_10922,15.9,63.3,59.3,5.2,1,Bachelor's,Yes,No,Yes,10,65.3,Pass
+STU_10923,10.4,58.6,70.4,7.2,0,High School,Yes,No,No,5,80.8,Merit
+STU_10924,22.8,45.0,75.5,8.6,3,Bachelor's,Yes,Yes,No,7,91.8,Distinction
+STU_10925,5.1,93.3,88.2,8.4,2,Some College,Yes,No,No,4,100.0,Distinction
+STU_10926,11.4,89.2,71.9,8.2,2,High School,Yes,No,No,6,99.9,Distinction
+STU_10927,17.5,81.5,83.2,6.8,5,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_10928,25.2,92.3,80.4,8.8,0,Bachelor's,No,No,No,2,100.0,Distinction
+STU_10929,14.6,69.0,73.5,8.3,1,Bachelor's,Yes,Yes,No,1,95.4,Distinction
+STU_10930,11.4,73.2,58.9,7.5,0,Some College,Yes,Yes,No,6,88.9,Distinction
+STU_10931,27.2,84.1,54.8,7.5,2,Some College,Yes,Yes,No,5,100.0,Distinction
+STU_10932,5.6,84.8,73.3,6.8,3,Some College,Yes,Yes,No,9,87.4,Distinction
+STU_10933,2.0,72.6,65.5,6.1,4,Bachelor's,Yes,Yes,No,7,86.7,Distinction
+STU_10934,17.9,93.8,83.0,8.7,1,Bachelor's,No,Yes,No,1,100.0,Distinction
+STU_10935,11.7,69.3,81.0,8.8,2,High School,No,No,No,10,70.7,Merit
+STU_10936,8.4,95.6,69.8,6.1,3,Bachelor's,Yes,No,No,6,95.7,Distinction
+STU_10937,19.6,90.5,58.1,7.0,2,Bachelor's,Yes,Yes,No,7,100.0,Distinction
+STU_10938,16.6,90.8,78.1,7.0,0,Some College,Yes,Yes,No,3,100.0,Distinction
+STU_10939,11.3,49.2,59.8,7.2,2,Master's,Yes,No,Yes,9,75.2,Merit
+STU_10940,6.7,65.8,62.9,7.3,4,Master's,Yes,Yes,Yes,2,92.4,Distinction
+STU_10941,20.7,64.6,60.2,8.3,5,High School,Yes,Yes,No,1,88.4,Distinction
+STU_10942,19.2,72.1,70.3,6.3,2,Master's,Yes,Yes,No,10,78.8,Merit
+STU_10943,14.4,82.4,86.0,6.2,3,Some College,Yes,No,Yes,10,92.1,Distinction
+STU_10944,27.0,63.5,71.9,8.7,0,Bachelor's,Yes,No,No,9,80.4,Merit
+STU_10945,8.0,61.4,66.7,6.6,0,Bachelor's,No,No,Yes,7,69.3,Pass
+STU_10946,5.1,71.9,53.7,5.7,4,Some College,Yes,Yes,No,10,56.9,Pass
+STU_10947,10.5,65.7,78.6,6.6,0,Some College,Yes,No,No,1,89.8,Distinction
+STU_10948,14.7,81.2,62.6,6.8,0,Master's,Yes,Yes,No,4,100.0,Distinction
+STU_10949,16.6,45.0,73.4,9.1,1,High School,Yes,Yes,Yes,10,69.7,Pass
+STU_10950,13.4,87.6,67.7,8.3,1,Some College,Yes,Yes,No,3,95.9,Distinction
+STU_10951,17.3,84.2,82.1,8.6,2,Some College,Yes,No,No,7,100.0,Distinction
+STU_10952,6.9,77.3,70.1,8.2,0,Master's,Yes,Yes,No,5,89.5,Distinction
+STU_10953,24.4,84.6,71.3,8.3,4,Master's,Yes,Yes,No,9,100.0,Distinction
+STU_10954,14.5,88.2,77.8,6.4,3,High School,Yes,No,No,3,99.8,Distinction
+STU_10955,22.3,85.6,97.3,7.0,1,Master's,Yes,No,No,6,100.0,Distinction
+STU_10956,17.2,91.0,82.7,6.0,1,Some College,Yes,No,No,10,89.6,Distinction
+STU_10957,18.0,76.9,70.9,6.9,2,Doctorate,Yes,Yes,Yes,2,100.0,Distinction
+STU_10958,18.7,76.6,72.0,8.0,2,Bachelor's,Yes,No,No,3,100.0,Distinction
+STU_10959,17.9,65.9,65.7,7.4,1,High School,Yes,No,No,4,87.6,Distinction
+STU_10960,19.2,45.0,60.6,8.8,1,High School,Yes,No,No,6,71.8,Merit
+STU_10961,23.6,92.5,65.4,5.8,0,High School,Yes,Yes,Yes,1,93.5,Distinction
+STU_10962,16.3,67.1,62.7,7.8,0,High School,Yes,Yes,No,6,85.1,Distinction
+STU_10963,19.6,90.3,79.8,5.7,1,Bachelor's,Yes,Yes,No,4,100.0,Distinction
+STU_10964,14.4,73.3,59.1,7.3,2,High School,Yes,Yes,No,8,79.1,Merit
+STU_10965,24.4,91.7,88.0,8.1,2,Doctorate,Yes,Yes,No,9,100.0,Distinction
+STU_10966,10.6,69.0,81.0,6.9,2,Bachelor's,Yes,Yes,Yes,8,92.9,Distinction
+STU_10967,26.7,86.9,72.2,7.9,1,Bachelor's,Yes,Yes,Yes,8,100.0,Distinction
+STU_10968,14.7,78.6,72.0,6.0,2,High School,Yes,No,Yes,2,96.1,Distinction
+STU_10969,5.7,71.5,65.3,5.2,0,Master's,Yes,Yes,Yes,10,60.6,Pass
+STU_10970,15.8,70.9,75.2,7.9,1,Bachelor's,No,Yes,Yes,2,91.2,Distinction
+STU_10971,10.6,60.9,85.1,9.3,2,Master's,Yes,No,No,6,93.4,Distinction
+STU_10972,20.5,78.1,63.6,6.0,2,Master's,Yes,Yes,No,5,100.0,Distinction
+STU_10973,10.8,85.7,53.6,8.7,1,High School,Yes,Yes,Yes,6,91.8,Distinction
+STU_10974,12.1,97.2,80.4,7.3,2,High School,No,Yes,No,9,91.7,Distinction
+STU_10975,2.7,68.7,75.9,5.6,3,Bachelor's,Yes,No,No,10,66.2,Pass
+STU_10976,12.1,60.3,58.6,5.8,1,Master's,No,No,No,7,71.9,Merit
+STU_10977,2.0,51.7,63.2,7.2,2,Bachelor's,Yes,No,No,5,64.4,Pass
+STU_10978,4.7,58.3,61.7,6.7,5,Some College,Yes,No,Yes,10,67.6,Pass
+STU_10979,19.9,77.6,63.3,5.6,2,Bachelor's,Yes,Yes,Yes,7,93.8,Distinction
+STU_10980,20.1,73.4,68.1,5.2,1,Some College,Yes,No,Yes,8,80.2,Merit
+STU_10981,17.8,81.8,68.8,6.2,0,High School,Yes,No,No,1,92.1,Distinction
+STU_10982,8.7,58.8,64.2,7.4,1,Some College,No,No,No,10,64.5,Pass
+STU_10983,14.7,82.8,62.9,7.2,1,High School,Yes,No,Yes,7,94.4,Distinction
+STU_10984,15.0,82.0,69.3,6.6,2,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_10985,7.5,66.2,74.0,7.4,1,Master's,No,Yes,No,5,80.1,Merit
+STU_10986,24.8,68.4,68.2,8.4,4,Master's,Yes,No,No,2,100.0,Distinction
+STU_10987,20.7,45.0,85.9,7.7,0,Master's,Yes,No,Yes,10,78.6,Merit
+STU_10988,13.6,91.2,78.1,7.1,2,Bachelor's,Yes,No,Yes,5,100.0,Distinction
+STU_10989,15.2,70.2,52.9,8.3,1,Some College,Yes,No,Yes,9,71.0,Merit
+STU_10990,16.4,83.0,78.3,6.0,1,Bachelor's,Yes,No,Yes,1,100.0,Distinction
+STU_10991,2.0,74.2,79.3,6.9,3,Master's,Yes,No,No,3,88.3,Distinction
+STU_10992,13.4,81.7,66.8,7.0,0,Master's,Yes,Yes,Yes,4,97.1,Distinction
+STU_10993,10.6,88.9,54.1,5.7,0,Bachelor's,No,Yes,No,9,68.6,Pass
+STU_10994,8.5,77.6,72.1,6.7,1,High School,Yes,No,Yes,2,87.9,Distinction
+STU_10995,13.2,83.0,71.9,4.7,1,High School,Yes,No,Yes,7,84.1,Merit
+STU_10996,26.7,90.6,58.5,9.5,2,High School,No,No,No,9,78.1,Merit
+STU_10997,19.2,80.0,54.6,6.1,4,Doctorate,Yes,No,No,10,84.7,Merit
+STU_10998,11.3,67.7,70.9,9.1,0,Some College,Yes,No,Yes,4,85.8,Distinction
+STU_10999,18.7,61.1,69.2,7.2,1,Master's,Yes,Yes,No,5,95.9,Distinction
+STU_11000,24.1,75.6,67.0,7.9,2,Some College,Yes,Yes,No,10,88.5,Distinction
+STU_11001,21.0,60.9,71.0,6.6,5,Bachelor's,Yes,No,Yes,4,100.0,Distinction
+STU_11002,15.4,85.6,58.8,7.4,4,High School,Yes,Yes,No,7,100.0,Distinction
+STU_11003,10.8,45.0,66.8,8.0,2,High School,Yes,No,Yes,8,72.6,Merit
+STU_11004,19.5,65.8,78.4,8.0,1,Some College,Yes,No,Yes,8,89.8,Distinction
+STU_11005,17.6,82.6,67.8,8.1,0,Bachelor's,Yes,Yes,No,3,98.2,Distinction
+STU_11006,20.8,79.9,51.9,6.8,1,High School,Yes,No,Yes,2,94.7,Distinction
+STU_11007,19.1,83.1,66.3,6.6,1,Bachelor's,No,Yes,Yes,6,100.0,Distinction
+STU_11008,21.8,51.1,59.2,5.3,2,Some College,Yes,Yes,Yes,1,81.8,Merit
+STU_11009,11.5,84.4,75.2,7.8,2,Bachelor's,Yes,Yes,No,9,97.2,Distinction
+STU_11010,23.6,62.6,75.8,8.5,2,High School,Yes,No,No,7,87.2,Distinction
+STU_11011,16.3,84.3,52.1,9.1,1,Bachelor's,Yes,Yes,Yes,8,91.6,Distinction
+STU_11012,28.5,71.1,81.1,7.6,2,Some College,Yes,Yes,No,7,99.4,Distinction
+STU_11013,10.5,66.4,58.7,6.3,0,Bachelor's,Yes,Yes,Yes,5,74.9,Merit
+STU_11014,26.3,78.0,90.7,5.2,0,Some College,Yes,Yes,No,5,95.4,Distinction
+STU_11015,16.3,86.6,71.4,8.5,0,Bachelor's,Yes,Yes,No,7,97.3,Distinction
+STU_11016,10.8,72.1,57.0,5.0,3,Master's,Yes,Yes,No,7,71.3,Merit
+STU_11017,11.9,55.2,58.3,6.8,0,High School,No,No,No,2,70.4,Merit
+STU_11018,12.9,78.8,76.2,6.9,3,High School,Yes,Yes,No,2,100.0,Distinction
+STU_11019,17.8,75.0,67.3,7.1,0,Bachelor's,Yes,No,Yes,7,94.2,Distinction
+STU_11020,18.4,75.1,70.8,7.2,1,Bachelor's,Yes,Yes,No,5,97.3,Distinction
+STU_11021,11.3,99.0,91.4,7.4,3,Some College,Yes,No,Yes,2,100.0,Distinction
+STU_11022,14.8,82.8,63.6,4.3,1,Some College,Yes,Yes,No,1,74.2,Merit
+STU_11023,28.9,84.6,72.7,7.2,0,High School,Yes,No,Yes,9,88.9,Distinction
+STU_11024,26.2,45.0,89.0,4.5,0,High School,Yes,No,Yes,8,68.9,Pass
+STU_11025,17.8,91.4,75.2,8.1,4,Some College,Yes,No,No,2,100.0,Distinction
+STU_11026,15.2,68.1,52.7,6.5,1,Master's,Yes,No,No,2,85.1,Distinction
+STU_11027,15.8,86.2,78.1,4.6,1,Some College,Yes,Yes,Yes,3,91.8,Distinction
+STU_11028,19.0,69.5,58.0,6.2,1,Bachelor's,Yes,No,Yes,4,90.2,Distinction
+STU_11029,8.4,51.8,88.9,6.5,1,Master's,Yes,Yes,No,9,74.8,Merit
+STU_11030,13.3,73.0,62.1,8.6,0,Some College,Yes,No,No,6,76.3,Merit
+STU_11031,4.2,66.3,99.0,7.4,2,Bachelor's,Yes,No,Yes,3,96.1,Distinction
+STU_11032,17.6,71.4,89.6,7.6,2,Master's,Yes,No,Yes,8,100.0,Distinction
+STU_11033,19.2,80.5,62.4,8.6,0,High School,Yes,Yes,No,6,91.0,Distinction
+STU_11034,11.9,91.6,72.2,7.1,2,Some College,Yes,Yes,No,8,96.2,Distinction
+STU_11035,25.2,65.4,81.0,8.1,3,Doctorate,Yes,Yes,Yes,10,91.8,Distinction
+STU_11036,7.0,90.3,81.4,8.0,4,Doctorate,Yes,Yes,Yes,2,100.0,Distinction
+STU_11037,5.5,96.4,77.3,5.7,0,High School,Yes,Yes,No,8,74.7,Merit
+STU_11038,16.5,54.8,87.0,9.0,0,High School,Yes,Yes,Yes,5,89.2,Distinction
+STU_11039,21.8,64.1,70.5,5.5,3,Some College,Yes,No,Yes,10,71.9,Merit
+STU_11040,25.9,84.7,67.6,8.3,0,Some College,Yes,No,No,4,97.4,Distinction
+STU_11041,12.0,79.9,67.8,5.4,0,Some College,Yes,No,No,3,82.1,Merit
+STU_11042,22.0,88.2,82.3,7.9,3,Bachelor's,Yes,Yes,Yes,9,100.0,Distinction
+STU_11043,14.7,68.4,76.4,9.4,0,Master's,Yes,No,No,10,72.3,Merit
+STU_11044,13.9,86.6,75.5,6.9,1,Some College,Yes,No,Yes,7,91.0,Distinction
+STU_11045,20.7,88.0,81.5,6.9,1,Master's,Yes,No,No,7,100.0,Distinction
+STU_11046,19.2,68.7,47.4,7.9,3,High School,Yes,Yes,Yes,6,82.8,Merit
+STU_11047,4.8,92.0,75.7,6.8,0,High School,Yes,Yes,No,9,76.2,Merit
+STU_11048,24.6,68.3,74.6,9.4,3,Some College,No,No,No,3,86.5,Distinction
+STU_11049,24.0,93.7,92.0,7.4,2,High School,Yes,Yes,No,1,100.0,Distinction
+STU_11050,10.9,86.3,53.7,6.8,1,Some College,Yes,No,No,7,84.7,Merit
+STU_11051,17.6,95.3,90.7,6.6,0,Master's,Yes,Yes,Yes,9,100.0,Distinction
+STU_11052,18.2,87.2,72.9,6.1,0,High School,Yes,Yes,Yes,6,95.5,Distinction
+STU_11053,16.7,61.9,77.9,6.4,2,Bachelor's,Yes,No,Yes,10,78.4,Merit
+STU_11054,11.4,98.0,92.1,6.8,1,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_11055,10.6,85.8,78.7,6.6,3,High School,Yes,Yes,No,8,95.1,Distinction
+STU_11056,14.8,92.8,76.8,6.4,1,Bachelor's,Yes,Yes,No,9,91.7,Distinction
+STU_11057,22.6,55.0,74.9,9.7,1,Master's,No,No,Yes,10,63.3,Pass
+STU_11058,18.5,58.5,66.2,6.0,1,Some College,Yes,Yes,No,8,77.2,Merit
+STU_11059,12.6,85.7,71.7,7.4,2,Bachelor's,Yes,No,No,9,95.2,Distinction
+STU_11060,20.0,46.5,63.4,7.9,1,Master's,Yes,Yes,No,1,82.7,Merit
+STU_11061,2.0,85.7,71.5,8.0,0,Bachelor's,Yes,No,No,3,82.7,Merit
+STU_11062,22.5,68.6,44.0,7.1,3,High School,Yes,No,No,3,84.2,Merit
+STU_11063,3.7,88.4,77.1,6.9,1,Bachelor's,Yes,Yes,No,9,85.4,Distinction
+STU_11064,12.6,81.1,70.5,7.7,1,Some College,Yes,Yes,Yes,3,96.6,Distinction
+STU_11065,7.7,84.2,68.0,7.5,2,Bachelor's,Yes,Yes,Yes,10,84.5,Merit
+STU_11066,6.6,55.5,74.6,6.9,2,Some College,Yes,No,No,1,80.5,Merit
+STU_11067,22.5,96.3,54.8,5.3,0,High School,Yes,Yes,Yes,3,90.2,Distinction
+STU_11068,12.0,96.9,95.2,6.6,0,Bachelor's,Yes,Yes,No,2,100.0,Distinction
+STU_11069,17.3,76.3,70.8,5.8,3,Some College,Yes,Yes,No,9,89.6,Distinction
+STU_11070,14.7,86.3,70.2,6.4,0,Some College,Yes,Yes,No,1,93.6,Distinction
+STU_11071,18.1,63.1,60.4,7.2,2,Master's,No,Yes,Yes,2,90.2,Distinction
+STU_11072,15.5,81.0,72.3,7.6,0,Master's,Yes,No,Yes,1,100.0,Distinction
+STU_11073,6.7,76.0,88.6,9.3,1,Some College,Yes,No,Yes,9,87.7,Distinction
+STU_11074,21.5,53.4,84.4,6.6,0,Some College,Yes,Yes,Yes,7,84.4,Merit
+STU_11075,11.8,76.8,82.3,8.1,1,Some College,Yes,No,No,1,100.0,Distinction
+STU_11076,4.9,79.5,78.6,7.6,2,Some College,Yes,No,Yes,10,82.5,Merit
+STU_11077,12.2,68.6,67.7,8.8,0,Master's,Yes,No,Yes,6,88.7,Distinction
+STU_11078,24.8,77.9,54.6,7.9,1,Bachelor's,No,Yes,Yes,5,98.2,Distinction
+STU_11079,20.5,93.3,69.6,6.0,4,Some College,No,Yes,No,10,81.9,Merit
+STU_11080,12.7,90.2,69.2,5.1,1,Some College,No,No,No,5,89.0,Distinction
+STU_11081,12.7,70.6,84.6,7.6,3,Bachelor's,Yes,No,Yes,4,100.0,Distinction
+STU_11082,12.9,75.5,75.7,6.6,4,Bachelor's,No,Yes,No,3,100.0,Distinction
+STU_11083,28.5,83.6,91.3,6.0,5,Bachelor's,Yes,Yes,No,8,100.0,Distinction
+STU_11084,17.5,89.1,86.4,5.7,3,High School,Yes,Yes,Yes,7,100.0,Distinction
+STU_11085,17.8,85.2,66.5,7.4,0,High School,No,Yes,No,5,92.0,Distinction
+STU_11086,21.7,85.2,50.5,9.0,4,Some College,No,Yes,No,9,86.7,Distinction
+STU_11087,16.6,68.9,88.6,6.7,3,Some College,Yes,Yes,Yes,7,94.0,Distinction
+STU_11088,13.3,90.5,88.3,7.9,3,High School,Yes,Yes,No,10,95.9,Distinction
+STU_11089,13.7,98.9,55.6,7.1,0,Bachelor's,Yes,No,Yes,2,99.8,Distinction
+STU_11090,14.5,84.6,90.1,5.7,4,Some College,Yes,Yes,Yes,7,100.0,Distinction
+STU_11091,14.8,76.7,76.6,8.1,2,Master's,Yes,No,No,7,100.0,Distinction
+STU_11092,19.7,54.2,73.9,5.9,2,High School,Yes,No,No,4,84.9,Merit
+STU_11093,15.3,81.1,91.4,7.2,0,High School,Yes,Yes,No,8,99.7,Distinction
+STU_11094,19.8,52.6,88.1,6.8,0,Some College,Yes,Yes,Yes,4,92.5,Distinction
+STU_11095,14.5,81.0,79.8,8.3,4,High School,Yes,No,Yes,7,100.0,Distinction
+STU_11096,15.5,55.1,77.7,5.9,1,Master's,No,Yes,No,4,80.1,Merit
+STU_11097,2.0,91.9,79.4,7.7,1,High School,Yes,No,Yes,8,80.0,Merit
+STU_11098,21.0,57.7,67.2,6.2,3,Some College,Yes,No,Yes,3,85.3,Distinction
+STU_11099,17.3,80.8,71.3,6.6,0,Master's,Yes,No,No,2,98.1,Distinction
+STU_11100,21.5,84.0,61.2,4.0,1,Some College,Yes,No,Yes,10,70.2,Merit
+STU_11101,2.0,53.4,68.0,9.7,1,High School,Yes,No,Yes,6,60.8,Pass
+STU_11102,28.6,74.5,67.6,7.9,0,Some College,Yes,Yes,Yes,7,94.0,Distinction
+STU_11103,14.1,98.0,64.4,6.3,0,Some College,No,No,Yes,7,89.6,Distinction
+STU_11104,22.2,53.8,73.6,5.9,0,High School,Yes,Yes,No,6,78.5,Merit
+STU_11105,8.2,65.9,68.1,6.6,0,Some College,Yes,Yes,Yes,8,70.9,Merit
+STU_11106,19.0,77.9,78.0,8.1,2,Master's,Yes,Yes,No,6,100.0,Distinction
+STU_11107,8.2,72.1,52.5,4.9,3,Master's,Yes,No,Yes,6,71.8,Merit
+STU_11108,10.9,95.0,70.6,7.0,1,High School,Yes,Yes,No,3,91.9,Distinction
+STU_11109,27.4,87.9,73.6,9.3,0,High School,Yes,No,No,2,95.4,Distinction
+STU_11110,13.8,81.5,68.3,5.8,0,Some College,Yes,Yes,Yes,7,91.0,Distinction
+STU_11111,16.4,48.3,69.9,7.3,3,Bachelor's,Yes,No,No,6,90.3,Distinction
+STU_11112,20.7,79.0,53.0,9.8,5,Some College,Yes,Yes,No,1,95.3,Distinction
+STU_11113,18.2,86.6,76.3,8.0,0,Master's,Yes,Yes,Yes,2,100.0,Distinction
+STU_11114,16.0,78.7,79.8,7.4,0,Bachelor's,No,Yes,No,2,95.0,Distinction
+STU_11115,17.4,66.2,77.9,7.8,2,High School,Yes,Yes,Yes,1,97.9,Distinction
+STU_11116,30.6,78.3,84.5,6.7,2,Bachelor's,No,Yes,Yes,3,100.0,Distinction
+STU_11117,14.6,78.0,74.4,8.8,1,High School,Yes,No,No,5,99.0,Distinction
+STU_11118,16.3,63.0,77.7,6.7,2,Some College,Yes,Yes,Yes,4,92.4,Distinction
+STU_11119,21.8,89.1,73.9,4.8,2,High School,Yes,No,No,2,94.0,Distinction
+STU_11120,22.2,68.1,80.3,6.7,4,High School,Yes,Yes,No,8,97.0,Distinction
+STU_11121,22.7,80.4,53.1,6.0,0,Bachelor's,Yes,Yes,No,9,85.8,Distinction
+STU_11122,19.2,64.5,61.3,6.9,5,Bachelor's,Yes,Yes,No,8,92.2,Distinction
+STU_11123,7.6,93.2,91.0,6.9,1,High School,Yes,Yes,No,7,98.8,Distinction
+STU_11124,25.6,64.3,42.5,8.6,2,Doctorate,Yes,No,Yes,10,73.5,Merit
+STU_11125,7.5,59.2,70.3,8.0,1,Some College,No,No,Yes,2,76.1,Merit
+STU_11126,17.0,70.6,86.1,7.5,1,High School,No,Yes,No,6,85.8,Distinction
+STU_11127,10.1,64.7,70.9,7.2,2,High School,Yes,No,No,4,83.7,Merit
+STU_11128,14.6,92.5,67.1,5.9,1,Bachelor's,Yes,Yes,No,5,95.2,Distinction
+STU_11129,17.1,66.0,73.6,4.6,0,Doctorate,Yes,No,No,9,63.5,Pass
+STU_11130,17.1,96.6,67.8,7.3,1,Bachelor's,Yes,No,Yes,9,94.2,Distinction
+STU_11131,17.7,74.8,72.4,8.2,1,Master's,Yes,No,No,4,93.9,Distinction
+STU_11132,25.5,86.6,63.8,7.1,0,Some College,Yes,Yes,No,8,93.0,Distinction
+STU_11133,17.9,69.5,85.3,6.6,4,Some College,No,Yes,No,5,99.8,Distinction
+STU_11134,13.4,91.9,89.1,7.8,0,Some College,Yes,Yes,Yes,9,100.0,Distinction
+STU_11135,21.3,84.5,70.4,7.1,1,Bachelor's,Yes,No,No,2,100.0,Distinction
+STU_11136,22.7,68.9,55.4,9.2,0,Some College,Yes,No,Yes,4,83.5,Merit
+STU_11137,7.0,95.7,65.7,8.7,1,Master's,Yes,Yes,No,3,90.7,Distinction
+STU_11138,18.9,71.4,69.8,8.4,0,High School,Yes,No,Yes,7,86.3,Distinction
+STU_11139,19.6,72.6,78.1,8.1,1,Some College,Yes,No,Yes,2,95.5,Distinction
+STU_11140,13.1,84.2,59.9,5.7,0,Some College,Yes,Yes,Yes,3,84.2,Merit
+STU_11141,23.9,72.1,62.8,8.0,0,Bachelor's,No,No,Yes,9,82.1,Merit
+STU_11142,14.0,53.5,78.1,7.7,2,Some College,Yes,Yes,No,8,86.1,Distinction
+STU_11143,15.8,96.7,83.3,7.9,2,Some College,Yes,Yes,Yes,2,100.0,Distinction
+STU_11144,13.9,63.9,64.5,7.8,0,Some College,No,Yes,No,6,74.0,Merit
+STU_11145,15.1,59.2,56.0,7.7,0,Bachelor's,Yes,Yes,No,3,81.3,Merit
+STU_11146,7.9,86.8,99.0,10.0,3,Bachelor's,Yes,No,Yes,6,100.0,Distinction
+STU_11147,5.6,80.2,81.4,7.1,0,Bachelor's,Yes,Yes,No,5,91.1,Distinction
+STU_11148,25.4,77.9,68.8,8.3,4,Some College,No,Yes,No,10,88.5,Distinction
+STU_11149,9.5,83.3,82.4,6.6,1,Doctorate,Yes,Yes,No,4,100.0,Distinction
+STU_11150,8.6,91.9,70.5,8.1,0,Master's,Yes,No,No,7,92.8,Distinction
+STU_11151,2.0,85.4,82.4,8.3,2,Some College,Yes,No,Yes,10,75.8,Merit
+STU_11152,10.8,50.3,73.9,7.6,3,High School,Yes,No,No,7,81.7,Merit
+STU_11153,6.4,46.2,73.1,9.2,1,Some College,Yes,Yes,Yes,4,75.0,Merit
+STU_11154,25.7,90.3,70.6,6.1,1,Some College,Yes,No,No,3,98.2,Distinction
+STU_11155,21.6,99.5,54.6,6.6,1,Master's,No,No,No,4,99.0,Distinction
+STU_11156,10.5,87.1,95.3,7.5,4,Bachelor's,Yes,Yes,Yes,2,100.0,Distinction
+STU_11157,29.6,73.7,60.7,8.3,2,Master's,No,No,No,4,94.0,Distinction
+STU_11158,21.4,80.7,55.7,7.4,0,Some College,Yes,No,Yes,4,93.5,Distinction
+STU_11159,12.9,76.5,69.4,8.7,0,Bachelor's,Yes,No,Yes,5,89.7,Distinction
+STU_11160,2.0,82.9,60.5,6.4,0,Some College,No,No,No,1,61.9,Pass
+STU_11161,29.9,84.4,71.4,5.8,0,High School,Yes,No,No,2,96.7,Distinction
+STU_11162,6.0,78.3,80.3,7.6,0,Bachelor's,Yes,Yes,Yes,8,84.4,Merit
+STU_11163,4.3,77.0,83.9,7.1,2,High School,Yes,No,Yes,8,90.8,Distinction
+STU_11164,21.6,89.7,81.8,7.9,0,Bachelor's,Yes,No,No,8,100.0,Distinction
+STU_11165,30.9,72.1,68.3,7.2,1,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_11166,24.0,72.8,72.6,6.8,2,Bachelor's,Yes,No,Yes,8,93.4,Distinction
+STU_11167,18.7,87.3,76.9,7.1,0,High School,Yes,No,No,9,96.0,Distinction
+STU_11168,18.9,91.4,50.9,7.2,0,Bachelor's,Yes,Yes,No,4,94.6,Distinction
+STU_11169,20.5,89.5,78.8,6.8,0,Doctorate,Yes,No,Yes,4,100.0,Distinction
+STU_11170,19.9,84.3,54.5,7.0,0,Master's,Yes,Yes,No,7,96.3,Distinction
+STU_11171,16.8,86.2,96.5,6.7,3,Bachelor's,Yes,No,Yes,5,100.0,Distinction
+STU_11172,15.7,70.2,67.1,8.2,2,Bachelor's,Yes,Yes,Yes,10,92.0,Distinction
+STU_11173,14.6,59.3,69.8,7.4,0,Some College,Yes,No,No,1,88.8,Distinction
+STU_11174,10.1,45.4,62.8,9.9,1,Bachelor's,No,Yes,No,8,59.1,Pass
+STU_11175,13.2,88.3,64.4,7.4,0,Bachelor's,Yes,No,Yes,4,100.0,Distinction
+STU_11176,4.0,80.8,99.0,6.5,1,Bachelor's,Yes,No,Yes,8,94.7,Distinction
+STU_11177,14.4,72.3,83.3,10.0,1,Bachelor's,Yes,Yes,Yes,2,92.5,Distinction
+STU_11178,8.6,85.7,53.4,7.7,1,Some College,Yes,No,Yes,4,90.0,Distinction
+STU_11179,7.8,64.9,90.1,8.4,0,High School,Yes,Yes,No,2,83.2,Merit
+STU_11180,16.2,91.5,86.3,7.9,0,Bachelor's,Yes,No,No,5,100.0,Distinction
+STU_11181,24.0,45.0,68.6,7.9,2,Some College,Yes,No,No,10,71.5,Merit
+STU_11182,21.0,70.5,75.7,7.8,3,Some College,Yes,No,No,10,87.9,Distinction
+STU_11183,4.8,97.6,71.8,5.9,4,High School,Yes,No,No,8,84.0,Merit
+STU_11184,8.6,61.7,95.7,7.6,0,Some College,Yes,Yes,Yes,7,91.1,Distinction
+STU_11185,21.1,97.5,62.4,5.6,2,Bachelor's,Yes,Yes,No,5,95.4,Distinction
+STU_11186,8.6,57.1,73.8,7.0,2,Some College,Yes,No,No,7,83.9,Merit
+STU_11187,13.5,66.8,66.9,6.3,4,High School,No,Yes,Yes,5,82.8,Merit
+STU_11188,18.6,71.1,54.8,7.6,0,Some College,Yes,Yes,No,7,85.3,Distinction
+STU_11189,8.7,90.2,98.3,7.6,2,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_11190,15.7,73.5,57.8,7.8,0,Some College,Yes,No,Yes,4,89.8,Distinction
+STU_11191,6.3,53.4,74.6,7.5,2,Some College,Yes,Yes,Yes,10,69.6,Pass
+STU_11192,11.1,94.2,51.1,6.5,1,Master's,Yes,No,No,4,94.7,Distinction
+STU_11193,17.1,85.4,67.2,6.9,2,High School,Yes,No,No,8,93.8,Distinction
+STU_11194,4.6,83.8,77.1,8.3,3,Bachelor's,Yes,No,No,1,97.8,Distinction
+STU_11195,17.9,82.7,62.1,8.5,1,Master's,Yes,Yes,Yes,10,82.2,Merit
+STU_11196,14.9,92.8,79.0,5.8,1,Master's,Yes,Yes,No,5,100.0,Distinction
+STU_11197,18.6,45.0,68.8,5.4,0,High School,No,Yes,Yes,10,53.5,Pass
+STU_11198,16.5,81.7,85.9,6.3,1,Some College,Yes,No,Yes,2,100.0,Distinction
+STU_11199,23.9,93.1,88.3,8.5,1,High School,Yes,Yes,Yes,10,99.5,Distinction
+STU_11200,15.8,74.2,65.0,8.7,0,Some College,Yes,Yes,No,4,81.4,Merit
+STU_11201,12.2,68.9,72.9,6.1,3,High School,Yes,Yes,Yes,5,92.0,Distinction
+STU_11202,15.8,79.9,74.2,7.6,0,Master's,Yes,No,Yes,8,94.2,Distinction
+STU_11203,18.5,52.6,79.4,9.4,2,High School,Yes,No,Yes,2,83.4,Merit
+STU_11204,15.3,67.2,72.2,7.7,3,Some College,No,Yes,Yes,2,91.9,Distinction
+STU_11205,15.3,95.8,74.3,8.9,3,Some College,Yes,Yes,Yes,2,100.0,Distinction
+STU_11206,10.4,82.7,69.1,8.4,2,Doctorate,Yes,No,No,8,91.8,Distinction
+STU_11207,10.7,57.6,73.4,6.1,0,Bachelor's,Yes,Yes,No,3,75.0,Merit
+STU_11208,5.9,62.5,87.6,7.0,3,Some College,Yes,No,No,5,89.2,Distinction
+STU_11209,26.4,86.6,79.8,7.2,0,High School,No,No,No,2,98.0,Distinction
+STU_11210,6.9,92.3,80.4,7.3,4,High School,Yes,No,Yes,6,100.0,Distinction
+STU_11211,10.5,74.3,80.7,8.3,2,Bachelor's,No,No,No,10,76.7,Merit
+STU_11212,10.3,83.3,70.2,7.7,2,Bachelor's,Yes,No,Yes,6,100.0,Distinction
+STU_11213,20.8,86.9,75.8,4.0,0,Bachelor's,Yes,No,No,2,87.2,Distinction
+STU_11214,13.1,94.0,59.0,5.6,1,High School,No,Yes,No,4,79.4,Merit
+STU_11215,23.1,78.9,87.2,4.6,3,Bachelor's,Yes,Yes,No,2,100.0,Distinction
+STU_11216,10.6,97.5,38.6,7.4,3,Bachelor's,Yes,No,Yes,10,84.0,Merit
+STU_11217,16.8,89.8,71.0,7.5,0,Doctorate,Yes,Yes,Yes,4,98.9,Distinction
+STU_11218,9.6,56.4,85.7,7.5,4,Bachelor's,Yes,No,Yes,7,94.6,Distinction
+STU_11219,28.9,84.6,55.6,6.0,0,Some College,Yes,Yes,No,5,96.0,Distinction
+STU_11220,7.3,90.5,76.8,8.0,2,Some College,Yes,No,No,10,85.7,Distinction
+STU_11221,17.0,83.3,63.8,8.1,2,High School,Yes,No,No,4,100.0,Distinction
+STU_11222,19.1,74.6,67.6,5.7,0,Bachelor's,Yes,No,Yes,10,75.7,Merit
+STU_11223,17.7,45.0,83.4,5.4,0,Bachelor's,No,Yes,No,10,56.6,Pass
+STU_11224,13.8,74.2,74.4,7.2,2,High School,Yes,No,No,3,95.2,Distinction
+STU_11225,14.2,74.6,47.6,9.4,1,High School,Yes,Yes,Yes,6,74.8,Merit
+STU_11226,15.3,83.1,60.3,9.2,0,High School,Yes,Yes,Yes,2,87.3,Distinction
+STU_11227,14.0,74.8,83.7,7.9,2,Master's,Yes,Yes,No,4,100.0,Distinction
+STU_11228,21.3,87.2,77.4,6.3,3,High School,Yes,No,No,8,100.0,Distinction
+STU_11229,29.4,49.2,93.0,8.3,1,Some College,Yes,Yes,Yes,2,99.7,Distinction
+STU_11230,11.4,97.5,92.2,6.7,0,Some College,Yes,No,Yes,9,94.2,Distinction
+STU_11231,6.1,88.2,67.9,6.3,0,Some College,Yes,No,No,2,85.0,Distinction
+STU_11232,14.4,95.6,99.0,4.6,2,Bachelor's,Yes,No,Yes,8,96.1,Distinction
+STU_11233,31.8,73.9,72.3,7.3,1,Master's,Yes,No,Yes,8,96.7,Distinction
+STU_11234,9.8,87.4,60.4,6.4,2,High School,Yes,No,No,7,91.7,Distinction
+STU_11235,25.7,83.4,64.4,7.3,3,Bachelor's,Yes,No,No,10,91.9,Distinction
+STU_11236,25.9,74.5,44.9,4.4,1,Some College,Yes,No,No,6,68.0,Pass
+STU_11237,11.4,68.6,91.3,7.4,0,Doctorate,Yes,Yes,No,1,97.3,Distinction
+STU_11238,18.7,72.8,91.1,4.3,4,Some College,Yes,Yes,No,2,91.1,Distinction
+STU_11239,25.6,77.9,59.8,8.5,1,High School,Yes,Yes,No,7,94.7,Distinction
+STU_11240,12.5,69.4,69.3,7.8,2,Some College,No,Yes,No,4,86.6,Distinction
+STU_11241,13.7,98.3,73.1,6.9,4,High School,Yes,Yes,Yes,9,97.2,Distinction
+STU_11242,11.2,86.4,60.5,7.9,4,High School,Yes,No,Yes,3,100.0,Distinction
+STU_11243,8.4,45.0,50.9,6.0,1,Bachelor's,Yes,No,Yes,4,70.3,Merit
+STU_11244,10.8,71.9,69.5,7.3,0,Bachelor's,Yes,Yes,No,3,86.9,Distinction
+STU_11245,7.0,79.8,68.1,8.2,5,Some College,Yes,No,No,7,96.8,Distinction
+STU_11246,15.2,74.8,67.3,4.0,2,Bachelor's,No,Yes,Yes,2,72.0,Merit
+STU_11247,10.0,76.3,74.7,6.7,1,Some College,Yes,Yes,Yes,10,79.9,Merit
+STU_11248,16.5,56.3,89.2,7.2,1,Bachelor's,Yes,No,Yes,2,93.9,Distinction
+STU_11249,4.9,83.9,68.4,7.0,1,Bachelor's,Yes,No,Yes,2,90.8,Distinction
+STU_11250,17.2,83.9,74.0,8.9,3,Bachelor's,Yes,Yes,No,4,100.0,Distinction
+STU_11251,20.4,66.3,80.7,5.9,1,High School,Yes,Yes,No,8,74.7,Merit
+STU_11252,2.0,86.7,78.6,6.5,3,Some College,Yes,Yes,Yes,8,85.9,Distinction
+STU_11253,17.4,76.3,64.6,4.9,3,Some College,No,Yes,Yes,8,77.2,Merit
+STU_11254,23.0,90.2,73.2,9.0,3,Some College,Yes,No,Yes,8,100.0,Distinction
+STU_11255,7.1,53.3,78.6,6.9,2,Bachelor's,Yes,No,No,7,81.6,Merit
+STU_11256,25.9,96.7,58.5,6.7,3,Some College,Yes,No,No,6,100.0,Distinction
+STU_11257,17.7,61.3,87.2,7.1,1,High School,Yes,Yes,No,7,94.2,Distinction
+STU_11258,10.4,70.8,89.2,8.0,0,Some College,Yes,No,No,5,91.1,Distinction
+STU_11259,14.6,67.3,63.3,7.6,3,High School,Yes,Yes,No,8,81.7,Merit
+STU_11260,18.6,66.4,74.3,10.0,1,Bachelor's,No,No,No,2,79.5,Merit
+STU_11261,15.5,80.7,79.7,7.7,0,Some College,Yes,Yes,No,5,99.6,Distinction
+STU_11262,18.5,45.0,65.5,6.6,0,Bachelor's,Yes,No,Yes,7,78.2,Merit
+STU_11263,9.0,90.5,77.8,6.5,0,Some College,Yes,No,No,9,81.3,Merit
+STU_11264,16.1,85.1,74.0,6.7,2,Master's,Yes,No,No,10,91.8,Distinction
+STU_11265,5.8,62.1,54.4,5.4,2,Doctorate,Yes,Yes,No,1,70.2,Merit
+STU_11266,14.3,61.8,77.5,7.2,0,Bachelor's,Yes,No,Yes,9,80.0,Merit
+STU_11267,9.1,80.7,58.8,8.1,3,Master's,Yes,No,Yes,3,86.4,Distinction
+STU_11268,10.2,88.1,83.3,6.5,0,Some College,Yes,No,Yes,1,98.5,Distinction
+STU_11269,23.0,73.4,63.9,6.2,2,Master's,Yes,Yes,Yes,7,92.6,Distinction
+STU_11270,22.1,62.4,70.1,9.0,1,Master's,No,Yes,No,3,88.1,Distinction
+STU_11271,19.0,95.8,88.5,5.5,2,Doctorate,Yes,Yes,No,8,100.0,Distinction
+STU_11272,7.9,55.6,78.0,4.7,1,Bachelor's,No,Yes,No,2,60.4,Pass
+STU_11273,12.9,82.3,59.0,5.8,0,Bachelor's,No,No,No,4,80.8,Merit
+STU_11274,22.9,77.9,59.8,5.4,3,Some College,No,No,No,2,87.6,Distinction
+STU_11275,15.9,96.6,64.8,7.7,0,Some College,No,Yes,No,4,100.0,Distinction
+STU_11276,30.1,76.9,76.7,6.8,5,Some College,No,No,Yes,1,100.0,Distinction
+STU_11277,17.6,93.7,76.3,6.9,2,Master's,Yes,Yes,No,10,92.8,Distinction
+STU_11278,16.2,90.9,61.9,8.6,1,High School,Yes,Yes,Yes,5,100.0,Distinction
+STU_11279,13.0,63.5,58.0,6.4,2,Bachelor's,Yes,Yes,No,3,83.3,Merit
+STU_11280,15.9,77.4,75.4,8.1,0,Some College,Yes,No,No,9,86.4,Distinction
+STU_11281,14.0,72.0,69.8,9.0,1,Some College,Yes,No,No,4,92.6,Distinction
+STU_11282,19.6,81.8,97.9,6.7,5,Master's,Yes,Yes,Yes,6,100.0,Distinction
+STU_11283,21.2,70.2,72.4,8.1,0,Master's,Yes,No,Yes,9,86.7,Distinction
+STU_11284,9.9,56.8,93.8,6.9,2,Bachelor's,No,Yes,Yes,2,86.3,Distinction
+STU_11285,6.3,95.7,58.0,8.3,1,Some College,Yes,Yes,No,7,87.5,Distinction
+STU_11286,3.1,76.1,53.1,5.3,2,Some College,Yes,Yes,No,3,70.7,Merit
+STU_11287,18.3,92.5,58.6,5.2,0,Some College,Yes,Yes,Yes,1,87.3,Distinction
+STU_11288,7.8,63.5,86.3,6.7,1,Some College,Yes,No,No,9,78.1,Merit
+STU_11289,2.0,92.3,93.1,6.1,5,High School,Yes,No,Yes,9,87.0,Distinction
+STU_11290,17.5,82.3,62.6,6.6,0,Some College,No,Yes,No,4,93.2,Distinction
+STU_11291,31.2,76.4,66.5,6.9,2,Some College,Yes,Yes,Yes,9,97.0,Distinction
+STU_11292,15.0,85.2,58.0,8.1,1,Bachelor's,Yes,Yes,Yes,7,93.9,Distinction
+STU_11293,20.5,70.8,50.3,6.7,1,Some College,Yes,Yes,No,4,80.8,Merit
+STU_11294,15.5,93.5,80.6,6.2,2,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_11295,14.4,85.8,74.7,6.8,1,High School,Yes,Yes,Yes,5,100.0,Distinction
+STU_11296,21.0,71.4,72.1,6.3,0,Doctorate,Yes,No,No,8,88.6,Distinction
+STU_11297,13.1,79.2,55.2,6.1,3,Some College,No,Yes,No,10,79.3,Merit
+STU_11298,16.7,80.5,91.7,5.3,3,High School,Yes,Yes,No,10,93.8,Distinction
+STU_11299,17.1,77.5,66.0,7.3,0,Some College,Yes,No,No,6,89.9,Distinction
+STU_11300,10.7,96.1,78.4,6.5,1,Master's,No,Yes,No,5,94.1,Distinction
+STU_11301,21.4,93.3,54.5,8.4,2,Bachelor's,No,Yes,No,4,94.5,Distinction
+STU_11302,13.9,95.3,69.7,5.5,5,Bachelor's,Yes,Yes,No,6,100.0,Distinction
+STU_11303,10.1,84.8,75.5,6.5,4,High School,Yes,Yes,No,3,100.0,Distinction
+STU_11304,18.5,76.5,75.9,9.4,3,Bachelor's,Yes,Yes,No,2,100.0,Distinction
+STU_11305,9.2,58.7,73.9,6.1,0,Bachelor's,Yes,Yes,No,1,76.3,Merit
+STU_11306,15.2,68.9,77.9,6.9,3,Bachelor's,Yes,No,No,9,83.0,Merit
+STU_11307,14.9,81.0,58.4,5.7,3,Master's,Yes,No,Yes,1,94.6,Distinction
+STU_11308,22.1,86.5,74.4,5.6,1,Some College,Yes,No,No,4,98.7,Distinction
+STU_11309,18.1,73.1,73.4,9.1,1,High School,Yes,Yes,No,6,90.3,Distinction
+STU_11310,14.8,87.6,74.8,7.4,1,Master's,Yes,Yes,Yes,9,100.0,Distinction
+STU_11311,20.3,77.2,72.9,7.4,2,Bachelor's,No,Yes,Yes,4,99.8,Distinction
+STU_11312,24.0,75.8,56.7,5.2,0,High School,Yes,Yes,No,7,83.4,Merit
+STU_11313,18.6,64.0,56.2,7.6,0,Some College,Yes,Yes,No,7,79.4,Merit
+STU_11314,15.1,92.5,45.4,8.6,0,Master's,Yes,Yes,Yes,6,96.1,Distinction
+STU_11315,6.5,72.5,81.8,8.6,1,High School,Yes,Yes,Yes,9,81.1,Merit
+STU_11316,8.1,81.9,81.9,8.0,0,High School,Yes,Yes,No,10,85.7,Distinction
+STU_11317,13.0,62.5,82.1,5.8,2,Some College,Yes,Yes,Yes,7,83.9,Merit
+STU_11318,11.0,78.2,75.7,7.6,0,Master's,Yes,Yes,No,3,100.0,Distinction
+STU_11319,13.8,60.2,46.4,8.0,3,Master's,Yes,Yes,No,6,86.8,Distinction
+STU_11320,15.4,90.5,59.7,5.0,3,Some College,Yes,Yes,No,7,88.3,Distinction
+STU_11321,18.4,88.4,74.0,5.9,3,Bachelor's,Yes,Yes,Yes,7,100.0,Distinction
+STU_11322,14.5,65.5,73.6,8.3,2,Some College,Yes,Yes,Yes,6,93.6,Distinction
+STU_11323,18.2,65.4,69.3,8.3,0,High School,Yes,Yes,No,3,86.6,Distinction
+STU_11324,15.4,99.8,76.4,5.3,1,Bachelor's,Yes,Yes,No,6,93.6,Distinction
+STU_11325,2.2,73.8,72.1,8.2,0,High School,Yes,Yes,Yes,2,76.4,Merit
+STU_11326,8.9,86.2,73.4,7.3,5,Some College,Yes,No,Yes,10,93.0,Distinction
+STU_11327,14.1,89.7,64.3,8.1,0,Bachelor's,Yes,Yes,No,1,95.2,Distinction
+STU_11328,7.1,69.3,83.8,6.4,1,High School,Yes,Yes,No,8,80.5,Merit
+STU_11329,18.9,94.5,66.8,8.0,2,Some College,Yes,Yes,No,3,100.0,Distinction
+STU_11330,24.9,69.3,56.0,8.2,4,Bachelor's,Yes,Yes,Yes,8,92.2,Distinction
+STU_11331,22.9,79.2,62.7,6.8,2,Bachelor's,Yes,Yes,Yes,3,100.0,Distinction
+STU_11332,13.6,79.9,67.8,7.2,2,High School,No,No,Yes,2,90.4,Distinction
+STU_11333,24.7,73.0,83.9,6.4,1,Some College,Yes,No,Yes,8,88.0,Distinction
+STU_11334,16.0,95.1,71.5,9.2,2,Bachelor's,Yes,Yes,No,3,100.0,Distinction
+STU_11335,12.8,56.8,69.8,7.1,0,Doctorate,No,No,No,8,71.9,Merit
+STU_11336,11.0,77.8,57.0,6.1,3,High School,Yes,Yes,Yes,2,95.1,Distinction
+STU_11337,13.0,95.9,81.4,6.3,1,Doctorate,Yes,Yes,No,4,100.0,Distinction
+STU_11338,12.5,69.9,64.2,7.4,0,Bachelor's,Yes,No,No,9,74.2,Merit
+STU_11339,16.1,89.3,70.8,8.1,3,Bachelor's,Yes,Yes,No,1,100.0,Distinction
+STU_11340,16.0,52.0,89.8,5.6,1,High School,Yes,Yes,No,2,86.2,Distinction
+STU_11341,15.0,59.6,78.1,9.4,3,Some College,Yes,No,No,2,87.6,Distinction
+STU_11342,17.8,84.4,52.5,7.6,3,High School,Yes,No,No,9,82.1,Merit
+STU_11343,22.7,64.6,50.8,7.8,3,Some College,Yes,No,Yes,10,76.8,Merit
+STU_11344,21.2,77.3,71.2,7.1,0,Doctorate,Yes,No,Yes,5,100.0,Distinction
+STU_11345,5.3,77.9,57.4,7.2,0,High School,Yes,No,No,4,80.5,Merit
+STU_11346,2.0,96.3,79.8,7.0,3,Bachelor's,Yes,Yes,No,10,89.7,Distinction
+STU_11347,21.1,75.4,72.5,8.4,3,High School,Yes,Yes,Yes,10,91.8,Distinction
+STU_11348,6.1,78.7,74.0,7.2,1,Bachelor's,Yes,No,No,4,95.6,Distinction
+STU_11349,13.5,87.6,63.5,8.1,1,High School,Yes,No,Yes,7,95.3,Distinction
+STU_11350,7.4,73.6,92.9,6.7,0,High School,Yes,Yes,No,3,87.8,Distinction
+STU_11351,3.3,85.6,99.0,7.4,4,Some College,Yes,No,No,9,94.6,Distinction
+STU_11352,18.5,96.5,68.7,6.2,0,Bachelor's,No,Yes,No,5,98.6,Distinction
+STU_11353,19.9,65.1,76.2,8.7,0,High School,Yes,Yes,No,9,78.2,Merit
+STU_11354,11.3,81.6,73.2,6.2,2,High School,Yes,Yes,No,1,96.1,Distinction
+STU_11355,2.0,67.7,68.9,6.8,0,High School,Yes,Yes,Yes,10,55.6,Pass
+STU_11356,11.4,45.0,62.0,6.8,4,Doctorate,Yes,No,No,8,82.9,Merit
+STU_11357,17.5,73.1,59.0,6.8,0,Bachelor's,Yes,Yes,Yes,2,89.8,Distinction
+STU_11358,5.4,92.3,58.4,8.1,0,Bachelor's,Yes,No,No,8,83.9,Merit
+STU_11359,16.2,82.9,76.9,6.8,1,Bachelor's,Yes,Yes,No,4,100.0,Distinction
+STU_11360,14.9,55.1,65.8,8.9,1,High School,Yes,Yes,No,2,82.0,Merit
+STU_11361,18.8,91.2,41.1,6.2,0,Bachelor's,No,No,No,2,81.5,Merit
+STU_11362,15.8,94.1,77.3,7.4,1,High School,Yes,Yes,No,6,100.0,Distinction
+STU_11363,8.7,72.8,71.5,6.3,1,Some College,Yes,No,Yes,3,78.6,Merit
+STU_11364,22.8,57.0,88.2,7.7,3,Bachelor's,Yes,Yes,No,10,91.0,Distinction
+STU_11365,14.0,70.4,76.5,7.2,0,Bachelor's,No,Yes,Yes,3,92.2,Distinction
+STU_11366,14.8,88.8,54.3,7.0,5,High School,Yes,No,Yes,9,88.8,Distinction
+STU_11367,8.9,70.2,45.2,8.6,2,High School,Yes,No,Yes,5,76.2,Merit
+STU_11368,12.1,86.9,63.4,6.4,0,Bachelor's,No,No,No,7,83.9,Merit
+STU_11369,9.2,91.8,64.5,7.9,0,Bachelor's,Yes,No,No,5,94.9,Distinction
+STU_11370,13.9,87.5,83.3,6.3,1,High School,Yes,No,Yes,2,100.0,Distinction
+STU_11371,26.1,82.6,71.9,7.3,0,High School,Yes,Yes,Yes,8,94.7,Distinction
+STU_11372,6.1,87.9,85.6,5.8,0,Master's,Yes,No,No,9,88.6,Distinction
+STU_11373,4.5,56.0,56.1,6.4,0,Bachelor's,No,Yes,No,2,57.3,Pass
+STU_11374,24.6,55.3,83.6,7.1,2,Doctorate,Yes,Yes,No,2,99.4,Distinction
+STU_11375,13.6,74.6,80.7,9.4,1,Some College,Yes,Yes,No,4,86.0,Distinction
+STU_11376,10.7,80.4,47.8,7.3,0,Some College,Yes,Yes,No,8,80.7,Merit
+STU_11377,21.8,81.6,87.9,9.2,1,High School,Yes,Yes,No,5,100.0,Distinction
+STU_11378,11.1,87.6,73.1,7.5,2,Bachelor's,Yes,Yes,No,5,100.0,Distinction
+STU_11379,26.9,79.6,76.7,6.7,0,High School,Yes,Yes,No,7,95.3,Distinction
+STU_11380,19.4,55.2,61.6,9.0,3,High School,Yes,No,Yes,4,81.8,Merit
+STU_11381,11.8,88.1,87.3,7.7,1,High School,Yes,No,No,9,96.0,Distinction
+STU_11382,29.0,74.2,57.8,6.4,4,Bachelor's,Yes,No,No,4,98.2,Distinction
+STU_11383,11.1,73.6,82.0,7.8,0,Some College,Yes,Yes,Yes,8,87.0,Distinction
+STU_11384,19.8,51.6,81.8,6.8,5,Bachelor's,Yes,No,No,3,97.7,Distinction
+STU_11385,16.9,64.8,60.3,4.8,2,Master's,Yes,Yes,No,6,77.8,Merit
+STU_11386,23.5,68.1,95.8,8.3,1,Bachelor's,Yes,No,No,1,100.0,Distinction
+STU_11387,25.1,59.0,74.8,8.5,1,Some College,No,Yes,Yes,7,85.9,Distinction
+STU_11388,15.2,59.4,79.8,9.4,0,Doctorate,Yes,Yes,No,7,86.5,Distinction
+STU_11389,10.1,88.7,53.7,7.7,4,Some College,Yes,Yes,Yes,2,94.5,Distinction
+STU_11390,18.0,82.8,97.4,6.9,2,High School,Yes,No,Yes,5,100.0,Distinction
+STU_11391,10.6,69.5,57.3,8.2,0,Doctorate,Yes,No,No,4,82.9,Merit
+STU_11392,28.1,69.2,84.3,8.2,0,High School,Yes,No,No,10,79.5,Merit
+STU_11393,15.9,86.5,60.1,9.2,0,Some College,Yes,Yes,No,9,82.5,Merit
+STU_11394,12.6,67.4,64.6,7.1,2,Some College,Yes,Yes,No,2,89.0,Distinction
+STU_11395,16.2,81.0,81.5,7.0,2,Some College,Yes,No,No,3,100.0,Distinction
+STU_11396,6.2,90.4,84.3,6.3,1,Bachelor's,Yes,Yes,No,1,97.7,Distinction
+STU_11397,8.7,94.3,56.7,7.8,0,High School,Yes,No,Yes,10,73.9,Merit
+STU_11398,22.8,65.6,85.1,5.3,1,Bachelor's,Yes,Yes,No,5,87.5,Distinction
+STU_11399,10.7,71.6,84.5,8.1,1,Bachelor's,Yes,No,No,3,92.9,Distinction
+STU_11400,8.2,86.5,60.7,7.9,0,Some College,Yes,No,No,4,84.6,Merit
+STU_11401,18.5,88.4,91.2,7.9,0,Some College,Yes,No,Yes,4,100.0,Distinction
+STU_11402,22.7,77.9,54.5,7.4,0,Some College,Yes,Yes,Yes,6,97.0,Distinction
+STU_11403,19.7,49.3,64.5,9.0,3,Bachelor's,Yes,Yes,Yes,10,75.7,Merit
+STU_11404,21.5,76.1,77.7,8.2,2,Bachelor's,Yes,No,No,7,100.0,Distinction
+STU_11405,10.1,68.1,61.8,6.5,5,Master's,Yes,No,No,7,83.2,Merit
+STU_11406,5.8,89.1,75.2,6.5,0,High School,Yes,Yes,No,8,83.3,Merit
+STU_11407,24.8,94.8,74.9,6.1,3,High School,Yes,Yes,Yes,3,100.0,Distinction
+STU_11408,12.9,74.1,69.8,7.9,2,High School,Yes,No,Yes,5,96.2,Distinction
+STU_11409,13.4,72.2,82.0,6.0,1,High School,Yes,No,Yes,10,79.5,Merit
+STU_11410,23.6,80.1,69.3,8.5,0,Some College,No,No,Yes,6,90.4,Distinction
+STU_11411,18.6,88.8,74.8,8.8,2,Doctorate,Yes,No,No,6,100.0,Distinction
+STU_11412,18.0,75.2,85.8,6.1,3,Some College,Yes,No,No,8,98.5,Distinction
+STU_11413,29.1,93.2,81.5,7.0,0,Master's,Yes,Yes,Yes,5,100.0,Distinction
+STU_11414,10.8,64.4,81.4,7.2,0,High School,No,Yes,Yes,5,83.4,Merit
+STU_11415,21.0,80.6,58.2,8.3,2,Master's,Yes,Yes,Yes,1,100.0,Distinction
+STU_11416,15.4,92.6,78.3,9.1,5,High School,Yes,No,Yes,1,100.0,Distinction
+STU_11417,16.7,77.5,61.5,5.2,2,Master's,Yes,Yes,No,6,94.5,Distinction
+STU_11418,24.9,77.2,56.6,6.8,0,High School,Yes,Yes,No,10,76.5,Merit
+STU_11419,18.3,59.5,71.1,6.9,1,Master's,Yes,Yes,No,10,77.1,Merit
+STU_11420,18.5,90.0,61.1,5.5,1,High School,Yes,Yes,No,5,88.9,Distinction
+STU_11421,22.0,87.3,81.5,6.6,3,Some College,Yes,No,Yes,10,97.7,Distinction
+STU_11422,12.6,73.3,81.8,7.7,2,Some College,Yes,No,Yes,6,93.7,Distinction
+STU_11423,9.5,98.7,49.2,6.9,1,Some College,Yes,No,Yes,9,88.0,Distinction
+STU_11424,8.2,85.4,62.1,5.3,0,Bachelor's,Yes,Yes,No,8,77.1,Merit
+STU_11425,2.2,77.8,54.5,10.0,4,Doctorate,Yes,No,No,7,70.5,Merit
+STU_11426,28.4,80.5,66.4,7.5,2,Bachelor's,Yes,Yes,No,7,100.0,Distinction
+STU_11427,7.8,85.2,77.5,7.3,5,Bachelor's,Yes,No,Yes,6,100.0,Distinction
+STU_11428,13.6,71.4,69.1,5.9,1,High School,Yes,Yes,No,6,85.5,Distinction
+STU_11429,13.2,59.2,64.9,7.5,3,Bachelor's,Yes,Yes,Yes,1,95.2,Distinction
+STU_11430,17.0,89.4,87.6,7.0,3,Some College,Yes,Yes,Yes,7,100.0,Distinction
+STU_11431,20.3,78.4,44.3,4.9,0,Master's,Yes,No,No,5,80.2,Merit
+STU_11432,20.6,66.8,86.8,5.9,4,Some College,Yes,No,No,7,98.5,Distinction
+STU_11433,11.2,76.8,65.5,8.2,0,Bachelor's,Yes,Yes,No,6,92.1,Distinction
+STU_11434,13.9,61.2,71.1,9.5,2,High School,Yes,Yes,No,8,75.3,Merit
+STU_11435,16.8,90.5,65.7,7.6,4,Some College,Yes,No,Yes,3,100.0,Distinction
+STU_11436,13.4,91.7,90.5,8.5,0,Some College,Yes,Yes,Yes,8,100.0,Distinction
+STU_11437,25.4,86.9,57.2,7.0,2,Some College,Yes,Yes,Yes,7,100.0,Distinction
+STU_11438,18.2,68.5,72.1,7.1,1,Some College,Yes,Yes,Yes,1,95.9,Distinction
+STU_11439,19.8,73.5,78.3,8.5,2,High School,No,No,Yes,3,97.7,Distinction
+STU_11440,19.3,89.3,52.7,9.2,3,Master's,Yes,Yes,No,10,82.9,Merit
+STU_11441,22.6,87.5,61.0,8.8,2,High School,Yes,No,Yes,4,99.9,Distinction
+STU_11442,16.2,96.6,70.2,5.9,3,Master's,Yes,Yes,No,9,98.0,Distinction
+STU_11443,6.6,80.2,61.4,7.1,0,High School,Yes,Yes,No,6,83.0,Merit
+STU_11444,17.6,77.3,62.2,7.5,0,High School,Yes,Yes,Yes,7,95.8,Distinction
+STU_11445,10.8,87.1,67.8,6.9,1,Bachelor's,Yes,No,Yes,5,96.5,Distinction
+STU_11446,11.6,85.3,79.8,7.7,2,Some College,Yes,Yes,No,3,100.0,Distinction
+STU_11447,18.8,90.3,67.9,8.2,0,Some College,Yes,No,No,5,100.0,Distinction
+STU_11448,23.0,67.6,84.9,8.4,2,Bachelor's,Yes,Yes,Yes,7,100.0,Distinction
+STU_11449,15.1,90.9,60.0,9.2,1,Some College,Yes,Yes,No,9,83.1,Merit
+STU_11450,17.0,45.0,57.0,6.8,2,Bachelor's,Yes,No,Yes,9,74.2,Merit
+STU_11451,26.1,79.4,95.1,5.6,0,Some College,Yes,No,No,8,95.5,Distinction
+STU_11452,16.6,87.3,64.1,7.6,2,Some College,Yes,Yes,Yes,5,100.0,Distinction
+STU_11453,31.9,70.1,56.3,9.5,2,Bachelor's,Yes,No,No,7,88.3,Distinction
+STU_11454,18.7,72.0,51.1,6.6,4,Bachelor's,Yes,No,No,4,94.4,Distinction
+STU_11455,3.6,93.6,84.9,8.0,2,Some College,Yes,Yes,No,10,84.4,Merit
+STU_11456,19.9,63.1,67.9,8.0,2,Master's,Yes,Yes,Yes,5,99.1,Distinction
+STU_11457,17.5,80.4,69.0,7.4,3,Master's,Yes,Yes,Yes,4,100.0,Distinction
+STU_11458,23.4,64.5,70.1,7.2,2,Some College,Yes,Yes,No,3,99.0,Distinction
+STU_11459,19.4,79.8,84.2,6.1,0,High School,No,No,No,1,90.2,Distinction
+STU_11460,14.1,74.6,69.8,4.5,3,Master's,Yes,Yes,No,5,82.7,Merit
+STU_11461,7.0,96.7,99.0,5.9,2,High School,Yes,Yes,Yes,2,100.0,Distinction
+STU_11462,13.6,71.4,73.6,6.7,1,High School,Yes,Yes,Yes,6,88.4,Distinction
+STU_11463,9.5,60.9,84.7,8.5,2,Some College,Yes,No,No,5,91.0,Distinction
+STU_11464,11.2,85.1,81.7,7.1,3,Bachelor's,Yes,No,Yes,2,100.0,Distinction
+STU_11465,18.8,78.9,71.6,6.6,5,Master's,Yes,Yes,Yes,8,100.0,Distinction
+STU_11466,25.9,73.7,65.0,6.1,4,Bachelor's,No,Yes,No,5,100.0,Distinction
+STU_11467,17.6,72.6,76.0,8.0,0,Master's,No,Yes,No,2,90.9,Distinction
+STU_11468,7.2,82.3,78.1,8.8,1,High School,No,No,Yes,1,88.6,Distinction
+STU_11469,17.9,68.6,65.1,8.5,0,High School,Yes,Yes,Yes,2,88.0,Distinction
+STU_11470,22.8,86.3,74.0,7.9,0,Bachelor's,No,No,No,1,95.4,Distinction
+STU_11471,11.0,84.7,86.8,5.4,3,Doctorate,Yes,Yes,Yes,10,89.2,Distinction
+STU_11472,14.1,84.9,96.8,6.8,1,Some College,Yes,No,No,10,94.6,Distinction
+STU_11473,15.1,72.8,82.3,9.5,2,High School,Yes,No,Yes,3,91.8,Distinction
+STU_11474,9.9,80.0,94.4,8.5,2,High School,Yes,No,Yes,3,100.0,Distinction
+STU_11475,19.2,75.6,64.4,5.4,2,High School,Yes,Yes,No,10,78.6,Merit
+STU_11476,14.2,84.8,80.4,7.1,0,Some College,Yes,No,No,1,100.0,Distinction
+STU_11477,17.7,45.0,88.1,7.6,0,High School,Yes,Yes,Yes,7,93.8,Distinction
+STU_11478,9.2,79.0,61.2,6.3,1,Master's,Yes,Yes,Yes,10,76.2,Merit
+STU_11479,12.2,75.6,66.2,4.4,1,Some College,Yes,No,Yes,7,73.3,Merit
+STU_11480,19.7,67.4,92.9,7.3,5,Bachelor's,Yes,No,No,9,100.0,Distinction
+STU_11481,12.6,93.1,60.3,6.3,3,High School,No,No,Yes,5,97.1,Distinction
+STU_11482,26.2,70.2,55.9,6.3,1,High School,Yes,Yes,No,4,83.4,Merit
+STU_11483,12.4,73.4,90.3,6.8,3,Bachelor's,Yes,No,No,5,100.0,Distinction
+STU_11484,16.5,74.9,86.4,7.0,0,Master's,Yes,Yes,No,8,94.5,Distinction
+STU_11485,21.1,86.1,77.2,7.2,2,Some College,No,Yes,No,8,100.0,Distinction
+STU_11486,5.8,85.7,71.5,6.1,0,Master's,Yes,No,No,4,88.1,Distinction
+STU_11487,3.6,72.8,66.7,6.9,2,Bachelor's,Yes,Yes,Yes,8,78.1,Merit
+STU_11488,5.1,77.2,75.4,5.1,1,High School,Yes,No,Yes,4,77.8,Merit
+STU_11489,23.2,93.2,91.0,7.6,0,High School,No,Yes,Yes,4,100.0,Distinction
+STU_11490,11.4,83.8,74.9,4.0,0,Bachelor's,Yes,Yes,No,8,70.9,Merit
+STU_11491,31.6,75.1,98.0,6.9,1,Some College,Yes,No,No,2,100.0,Distinction
+STU_11492,11.3,77.7,61.2,8.3,2,Some College,Yes,No,Yes,4,98.8,Distinction
+STU_11493,16.2,84.0,71.8,5.9,0,Some College,No,Yes,No,1,85.1,Distinction
+STU_11494,25.0,68.2,67.5,8.1,2,Some College,Yes,Yes,No,1,95.4,Distinction
+STU_11495,28.0,74.3,59.0,8.6,2,Master's,Yes,No,No,8,91.3,Distinction
+STU_11496,28.4,49.8,70.2,4.0,2,High School,Yes,Yes,Yes,4,67.6,Pass
+STU_11497,22.9,71.2,77.0,7.0,2,Some College,Yes,Yes,Yes,6,100.0,Distinction
+STU_11498,21.7,95.1,78.3,4.0,0,Some College,Yes,No,No,5,86.4,Distinction
+STU_11499,18.9,60.2,98.0,7.1,1,Bachelor's,Yes,Yes,Yes,10,88.2,Distinction
+STU_11500,20.1,45.0,77.6,7.2,4,Bachelor's,No,No,No,6,89.5,Distinction
+STU_11501,11.4,57.2,85.8,4.2,2,Master's,Yes,No,No,4,76.9,Merit
+STU_11502,9.7,60.9,72.8,9.5,2,Bachelor's,No,No,No,4,79.5,Merit
+STU_11503,15.0,77.3,92.1,7.5,2,Bachelor's,Yes,Yes,No,7,100.0,Distinction
+STU_11504,13.9,52.6,99.0,6.2,0,High School,No,No,No,1,83.2,Merit
+STU_11505,12.1,59.4,78.4,9.0,2,Some College,Yes,Yes,Yes,9,77.9,Merit
+STU_11506,19.5,88.5,60.1,5.0,3,Bachelor's,Yes,Yes,No,10,83.4,Merit
+STU_11507,21.2,87.1,65.4,5.7,0,Master's,Yes,Yes,No,3,94.2,Distinction
+STU_11508,15.6,72.1,75.4,4.4,3,Master's,Yes,Yes,No,4,84.3,Merit
+STU_11509,24.6,55.0,77.5,9.4,0,Bachelor's,Yes,Yes,Yes,9,78.1,Merit
+STU_11510,7.6,82.7,80.4,7.6,1,Some College,Yes,Yes,Yes,5,96.0,Distinction
+STU_11511,13.7,91.6,77.5,8.0,3,High School,Yes,Yes,Yes,4,100.0,Distinction
+STU_11512,10.3,92.2,72.1,7.6,3,High School,Yes,Yes,No,6,100.0,Distinction
+STU_11513,2.9,77.6,64.4,7.9,3,High School,Yes,No,Yes,1,89.9,Distinction
+STU_11514,14.5,86.6,76.8,7.3,4,High School,Yes,Yes,No,10,92.3,Distinction
+STU_11515,14.2,69.0,94.3,7.5,1,Some College,Yes,No,No,1,98.5,Distinction
+STU_11516,24.8,68.7,84.2,7.3,2,Some College,Yes,No,Yes,5,100.0,Distinction
+STU_11517,19.1,87.9,78.4,6.5,1,Bachelor's,Yes,No,No,5,100.0,Distinction
+STU_11518,8.3,86.9,84.4,7.1,1,Some College,Yes,Yes,Yes,9,96.3,Distinction
+STU_11519,27.1,74.5,67.5,7.5,1,Bachelor's,Yes,No,No,1,100.0,Distinction
+STU_11520,22.9,58.2,65.9,7.3,2,Some College,Yes,No,Yes,3,90.7,Distinction
+STU_11521,18.8,86.4,63.0,5.4,1,Some College,Yes,No,Yes,3,89.5,Distinction
+STU_11522,13.5,86.4,70.5,5.6,3,Master's,Yes,Yes,Yes,4,98.7,Distinction
+STU_11523,8.8,88.0,66.9,8.5,2,High School,Yes,No,No,7,93.2,Distinction
+STU_11524,12.6,45.0,86.5,6.8,0,Master's,Yes,No,No,7,82.3,Merit
+STU_11525,22.1,97.4,66.3,7.9,2,Some College,Yes,Yes,No,10,96.1,Distinction
+STU_11526,27.2,88.5,62.4,5.9,1,Some College,Yes,No,Yes,5,95.8,Distinction
+STU_11527,25.0,85.2,95.3,5.4,1,High School,Yes,No,No,9,93.0,Distinction
+STU_11528,11.8,89.9,66.6,6.2,3,High School,Yes,No,Yes,7,94.0,Distinction
+STU_11529,7.7,89.4,73.8,6.9,1,Some College,Yes,Yes,No,2,93.6,Distinction
+STU_11530,15.9,91.0,77.4,6.4,3,Bachelor's,Yes,No,No,3,100.0,Distinction
+STU_11531,3.5,65.8,58.4,8.8,2,Some College,Yes,Yes,No,7,66.8,Pass
+STU_11532,17.1,94.8,86.8,7.4,1,Bachelor's,Yes,No,No,5,100.0,Distinction
+STU_11533,14.0,85.4,79.6,9.4,2,Some College,Yes,Yes,Yes,7,96.3,Distinction
+STU_11534,12.0,75.6,90.7,7.7,0,Some College,Yes,Yes,Yes,9,95.9,Distinction
+STU_11535,4.6,75.7,63.8,4.3,0,Master's,Yes,Yes,Yes,9,59.5,Pass
+STU_11536,18.3,92.0,73.2,8.5,0,Master's,Yes,No,Yes,3,100.0,Distinction
+STU_11537,11.5,72.3,72.5,5.4,1,Some College,Yes,No,No,8,73.8,Merit
+STU_11538,7.4,84.5,75.2,7.5,0,High School,Yes,Yes,Yes,6,93.4,Distinction
+STU_11539,2.0,85.4,54.5,6.3,5,High School,Yes,Yes,No,4,84.7,Merit
+STU_11540,14.8,75.5,73.3,9.8,1,Master's,Yes,Yes,No,4,89.5,Distinction
+STU_11541,26.5,91.6,54.9,8.9,2,High School,Yes,No,Yes,4,98.8,Distinction
+STU_11542,25.8,96.1,76.3,6.3,0,Bachelor's,Yes,Yes,Yes,7,100.0,Distinction
+STU_11543,12.0,76.0,46.5,7.0,0,Some College,Yes,Yes,Yes,6,88.2,Distinction
+STU_11544,11.1,89.3,49.8,7.5,0,Doctorate,No,No,Yes,2,91.0,Distinction
+STU_11545,18.0,84.1,81.8,8.2,2,Some College,Yes,Yes,No,5,100.0,Distinction
+STU_11546,8.5,81.5,65.4,7.2,1,Some College,Yes,Yes,No,5,87.6,Distinction
+STU_11547,17.0,99.1,60.1,6.0,1,Bachelor's,Yes,Yes,No,6,98.9,Distinction
+STU_11548,20.0,89.8,87.3,6.3,1,Doctorate,No,No,No,7,100.0,Distinction
+STU_11549,23.0,63.0,75.9,7.2,2,Doctorate,Yes,No,Yes,8,99.7,Distinction
+STU_11550,14.3,92.7,82.5,8.7,0,Bachelor's,Yes,No,Yes,10,91.1,Distinction
+STU_11551,13.7,78.7,70.0,7.7,2,Bachelor's,No,Yes,No,8,94.7,Distinction
+STU_11552,9.3,81.9,99.0,6.3,1,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_11553,9.6,74.7,64.7,8.0,2,Bachelor's,Yes,Yes,Yes,2,96.2,Distinction
+STU_11554,13.5,68.3,92.9,6.7,0,Master's,Yes,No,No,10,83.7,Merit
+STU_11555,17.4,77.1,71.3,8.3,1,Some College,Yes,No,No,8,93.7,Distinction
+STU_11556,20.9,80.1,52.1,10.0,0,Bachelor's,No,No,No,6,72.1,Merit
+STU_11557,9.8,94.4,77.8,6.8,5,Some College,Yes,Yes,Yes,3,100.0,Distinction
+STU_11558,24.7,89.5,75.8,8.2,1,Bachelor's,No,No,No,4,100.0,Distinction
+STU_11559,13.2,58.6,59.4,6.3,5,Master's,Yes,No,Yes,1,93.2,Distinction
+STU_11560,14.9,76.5,60.9,7.1,1,Some College,Yes,Yes,No,3,92.6,Distinction
+STU_11561,10.1,82.9,71.7,7.2,0,High School,Yes,No,Yes,4,96.9,Distinction
+STU_11562,2.0,64.4,76.2,7.0,1,Some College,Yes,No,Yes,2,76.5,Merit
+STU_11563,20.7,74.4,42.4,10.0,0,High School,Yes,No,No,6,70.2,Merit
+STU_11564,19.8,97.2,84.6,6.8,3,Some College,Yes,No,No,8,100.0,Distinction
+STU_11565,13.2,95.3,66.1,7.9,3,Master's,Yes,Yes,No,6,99.4,Distinction
+STU_11566,15.4,75.9,56.0,4.9,2,Bachelor's,No,No,Yes,10,63.6,Pass
+STU_11567,18.4,81.1,83.3,7.7,2,Master's,Yes,No,No,3,100.0,Distinction
+STU_11568,4.8,77.8,71.7,8.6,1,High School,Yes,Yes,No,9,74.2,Merit
+STU_11569,11.6,78.4,86.6,6.6,5,Master's,Yes,Yes,No,4,100.0,Distinction
+STU_11570,20.2,73.8,77.3,4.2,0,Bachelor's,Yes,Yes,Yes,6,73.9,Merit
+STU_11571,6.8,76.6,72.0,7.2,2,High School,Yes,Yes,Yes,4,89.8,Distinction
+STU_11572,16.9,75.8,70.2,7.2,1,Bachelor's,No,No,No,4,95.1,Distinction
+STU_11573,6.2,59.8,77.8,8.1,5,Master's,Yes,Yes,No,2,91.7,Distinction
+STU_11574,18.0,86.6,67.0,9.6,3,High School,Yes,Yes,No,10,84.4,Merit
+STU_11575,14.8,65.0,61.8,6.7,5,Bachelor's,Yes,Yes,Yes,2,95.1,Distinction
+STU_11576,4.5,56.6,79.3,6.2,1,Master's,Yes,Yes,No,2,76.9,Merit
+STU_11577,22.6,88.6,70.3,5.8,0,High School,Yes,Yes,No,2,91.8,Distinction
+STU_11578,10.2,83.9,72.4,7.4,1,Bachelor's,Yes,Yes,Yes,8,92.2,Distinction
+STU_11579,9.7,60.5,85.1,7.8,2,Some College,Yes,Yes,No,10,76.9,Merit
+STU_11580,16.3,87.1,70.6,6.5,2,Some College,Yes,No,Yes,4,99.6,Distinction
+STU_11581,22.5,89.4,72.2,8.1,0,Bachelor's,Yes,Yes,Yes,4,100.0,Distinction
+STU_11582,8.4,46.1,64.8,7.8,1,High School,Yes,No,No,10,53.4,Pass
+STU_11583,15.4,73.9,77.2,7.3,0,Bachelor's,Yes,Yes,No,10,78.4,Merit
+STU_11584,17.8,69.4,76.2,6.1,3,High School,Yes,Yes,No,3,97.7,Distinction
+STU_11585,19.5,82.1,82.8,6.6,0,Some College,Yes,Yes,Yes,5,100.0,Distinction
+STU_11586,16.1,86.4,65.1,4.3,2,Some College,Yes,Yes,Yes,4,81.1,Merit
+STU_11587,12.6,82.7,66.5,7.5,0,Some College,Yes,Yes,No,7,96.1,Distinction
+STU_11588,9.6,70.2,81.5,7.2,1,Some College,Yes,Yes,Yes,10,79.5,Merit
+STU_11589,15.6,89.6,75.0,7.4,4,Master's,Yes,Yes,No,7,100.0,Distinction
+STU_11590,8.0,83.7,61.1,7.8,0,Master's,Yes,No,Yes,6,94.3,Distinction
+STU_11591,2.0,68.3,87.7,7.7,0,Master's,Yes,Yes,No,7,84.4,Merit
+STU_11592,17.8,91.5,51.6,7.1,0,Some College,Yes,No,No,7,90.0,Distinction
+STU_11593,20.9,90.1,81.4,7.3,1,Master's,Yes,No,Yes,8,100.0,Distinction
+STU_11594,2.0,45.0,56.8,5.5,2,Master's,Yes,No,No,1,52.6,Pass
+STU_11595,8.4,91.9,94.6,6.5,0,Some College,Yes,Yes,Yes,3,100.0,Distinction
+STU_11596,19.0,77.4,53.5,7.3,2,Some College,Yes,No,Yes,3,92.4,Distinction
+STU_11597,28.4,45.9,85.8,6.3,0,High School,Yes,Yes,No,5,87.7,Distinction
+STU_11598,15.1,73.7,71.0,8.2,3,Some College,Yes,Yes,No,10,85.5,Distinction
+STU_11599,10.3,82.1,67.6,6.4,3,Master's,Yes,Yes,Yes,7,96.6,Distinction
+STU_11600,13.8,87.1,74.2,7.5,5,Bachelor's,No,No,No,10,93.9,Distinction
+STU_11601,23.9,91.5,79.6,7.3,4,Bachelor's,Yes,Yes,Yes,6,100.0,Distinction
+STU_11602,10.8,70.2,61.1,8.1,1,High School,Yes,No,Yes,4,82.8,Merit
+STU_11603,9.8,95.5,62.2,8.3,1,High School,Yes,Yes,No,6,87.1,Distinction
+STU_11604,11.9,94.5,79.8,8.0,2,Some College,Yes,No,No,7,100.0,Distinction
+STU_11605,8.8,84.3,51.5,4.7,0,Master's,Yes,No,No,4,76.1,Merit
+STU_11606,15.8,91.6,65.0,8.6,0,Some College,Yes,No,No,8,88.0,Distinction
+STU_11607,25.6,51.0,99.0,9.0,0,Master's,Yes,Yes,No,5,98.2,Distinction
+STU_11608,17.1,89.0,60.4,6.6,1,High School,Yes,No,No,3,92.3,Distinction
+STU_11609,13.4,81.2,85.8,7.5,1,Bachelor's,Yes,No,Yes,2,100.0,Distinction
+STU_11610,13.1,74.9,65.0,6.1,0,Bachelor's,Yes,Yes,No,1,87.9,Distinction
+STU_11611,4.8,80.5,78.1,4.9,0,Master's,Yes,Yes,No,4,79.9,Merit
+STU_11612,20.7,45.0,79.9,6.3,2,High School,Yes,No,No,2,83.8,Merit
+STU_11613,14.5,75.5,85.5,6.6,0,High School,Yes,Yes,No,3,98.3,Distinction
+STU_11614,13.8,95.2,69.6,6.8,5,High School,Yes,No,Yes,1,100.0,Distinction
+STU_11615,35.8,45.4,95.9,6.0,0,Master's,Yes,Yes,Yes,6,99.8,Distinction
+STU_11616,16.9,90.1,64.9,6.3,2,High School,Yes,Yes,No,4,94.0,Distinction
+STU_11617,10.1,91.7,74.8,7.2,1,High School,Yes,Yes,Yes,5,100.0,Distinction
+STU_11618,12.2,69.0,74.9,6.3,0,Some College,Yes,Yes,No,8,77.5,Merit
+STU_11619,22.5,86.4,58.5,7.9,1,Some College,Yes,Yes,No,4,96.8,Distinction
+STU_11620,15.7,76.0,68.6,8.0,1,Master's,Yes,No,No,6,100.0,Distinction
+STU_11621,5.7,67.6,73.9,10.0,3,Master's,Yes,Yes,No,3,79.5,Merit
+STU_11622,21.0,80.3,66.8,8.6,2,Some College,Yes,No,Yes,8,97.9,Distinction
+STU_11623,10.7,68.5,99.0,7.5,0,Master's,Yes,No,No,3,99.9,Distinction
+STU_11624,27.2,77.5,61.9,6.5,0,Bachelor's,Yes,Yes,No,7,96.7,Distinction
+STU_11625,22.0,88.8,86.2,7.6,0,Some College,Yes,Yes,No,7,100.0,Distinction
+STU_11626,12.1,77.4,82.3,7.6,0,Master's,No,Yes,Yes,3,97.6,Distinction
+STU_11627,23.3,76.8,71.8,6.6,1,Bachelor's,Yes,Yes,Yes,3,100.0,Distinction
+STU_11628,15.4,71.3,61.6,8.1,5,Some College,Yes,Yes,No,10,80.3,Merit
+STU_11629,20.5,69.5,62.8,5.5,1,Bachelor's,Yes,Yes,Yes,10,75.5,Merit
+STU_11630,18.2,91.1,65.8,6.9,2,Some College,Yes,No,Yes,8,98.7,Distinction
+STU_11631,9.5,87.8,50.6,7.9,2,High School,Yes,Yes,Yes,3,95.6,Distinction
+STU_11632,10.8,87.6,60.0,6.9,3,Bachelor's,Yes,No,No,2,98.9,Distinction
+STU_11633,21.7,72.5,54.2,7.0,0,Bachelor's,Yes,No,No,5,92.3,Distinction
+STU_11634,12.8,78.4,88.2,7.0,2,Bachelor's,Yes,No,No,7,100.0,Distinction
+STU_11635,12.4,96.2,79.4,6.2,3,High School,Yes,No,No,8,98.1,Distinction
+STU_11636,8.8,84.7,81.4,8.6,0,Master's,Yes,No,Yes,1,99.6,Distinction
+STU_11637,17.8,82.4,79.1,6.0,0,High School,Yes,Yes,No,2,93.5,Distinction
+STU_11638,28.4,89.6,74.0,7.6,5,Some College,Yes,No,Yes,7,100.0,Distinction
+STU_11639,8.1,85.1,89.5,7.7,2,Some College,Yes,No,No,9,94.4,Distinction
+STU_11640,15.2,84.8,64.7,6.1,0,High School,Yes,Yes,No,3,84.8,Merit
+STU_11641,24.2,90.8,73.3,7.3,1,Some College,Yes,Yes,Yes,8,100.0,Distinction
+STU_11642,14.5,89.5,81.0,6.1,1,Bachelor's,No,Yes,Yes,10,89.2,Distinction
+STU_11643,17.9,91.8,56.1,8.9,1,Master's,Yes,Yes,No,3,98.1,Distinction
+STU_11644,8.1,83.4,99.0,5.8,1,Doctorate,Yes,Yes,Yes,4,100.0,Distinction
+STU_11645,17.8,62.0,72.3,6.4,0,Bachelor's,Yes,No,No,2,87.8,Distinction
+STU_11646,13.8,87.5,73.7,5.7,2,Some College,Yes,No,No,9,89.6,Distinction
+STU_11647,21.4,82.9,87.1,5.6,2,Bachelor's,Yes,Yes,No,5,100.0,Distinction
+STU_11648,22.7,45.0,83.0,9.1,3,Master's,Yes,Yes,No,5,90.7,Distinction
+STU_11649,31.8,74.5,72.5,7.9,0,Some College,Yes,No,No,4,91.3,Distinction
+STU_11650,18.8,53.3,73.6,7.4,3,Bachelor's,Yes,Yes,Yes,5,95.3,Distinction
+STU_11651,17.1,77.8,54.0,6.4,0,Some College,No,Yes,Yes,1,79.8,Merit
+STU_11652,16.3,76.5,65.3,8.3,1,Some College,Yes,No,No,10,81.1,Merit
+STU_11653,12.7,68.5,78.2,6.2,3,Some College,Yes,Yes,No,10,80.3,Merit
+STU_11654,17.2,58.0,77.3,8.2,1,Bachelor's,Yes,Yes,Yes,6,92.2,Distinction
+STU_11655,13.1,92.5,86.7,6.2,0,Bachelor's,Yes,Yes,Yes,4,100.0,Distinction
+STU_11656,16.1,63.3,70.6,6.4,0,Some College,Yes,No,Yes,4,86.0,Distinction
+STU_11657,23.6,73.9,55.4,8.1,1,Bachelor's,Yes,No,No,5,88.9,Distinction
+STU_11658,8.5,87.6,84.7,8.2,2,Master's,Yes,Yes,No,1,100.0,Distinction
+STU_11659,22.4,90.9,89.2,7.9,5,Doctorate,Yes,Yes,No,4,100.0,Distinction
+STU_11660,23.6,88.4,82.8,5.9,2,High School,Yes,No,No,10,85.1,Distinction
+STU_11661,14.2,96.3,70.0,6.7,3,High School,Yes,No,No,3,100.0,Distinction
+STU_11662,2.0,56.3,84.5,7.4,2,Bachelor's,Yes,No,No,5,79.4,Merit
+STU_11663,11.0,87.9,99.0,6.2,3,Some College,Yes,No,Yes,10,94.7,Distinction
+STU_11664,23.4,48.0,73.4,8.8,0,High School,No,Yes,Yes,5,76.5,Merit
+STU_11665,14.9,76.7,56.3,4.3,4,Some College,Yes,No,No,8,76.7,Merit
+STU_11666,8.5,90.4,65.0,6.3,1,Bachelor's,Yes,No,Yes,1,100.0,Distinction
+STU_11667,11.7,68.1,79.5,6.6,4,Bachelor's,Yes,No,Yes,3,97.9,Distinction
+STU_11668,20.5,88.0,52.7,4.0,0,Some College,Yes,No,No,5,70.2,Merit
+STU_11669,18.6,95.6,74.0,5.5,2,Some College,No,Yes,No,3,97.0,Distinction
+STU_11670,13.4,60.6,76.6,8.0,2,Bachelor's,Yes,No,No,6,88.6,Distinction
+STU_11671,12.6,82.2,90.4,7.2,5,High School,Yes,No,Yes,10,99.6,Distinction
+STU_11672,12.5,76.2,87.7,9.1,2,Some College,Yes,No,Yes,3,100.0,Distinction
+STU_11673,9.0,98.6,82.4,9.1,1,High School,Yes,Yes,No,6,100.0,Distinction
+STU_11674,25.5,74.4,46.0,7.7,1,Some College,Yes,No,No,8,77.7,Merit
+STU_11675,12.9,58.2,83.1,7.6,1,Some College,Yes,No,No,4,86.5,Distinction
+STU_11676,22.9,85.9,80.5,7.3,0,Bachelor's,Yes,Yes,Yes,8,100.0,Distinction
+STU_11677,24.9,97.3,75.1,4.0,0,Bachelor's,Yes,No,Yes,7,83.1,Merit
+STU_11678,21.5,96.0,51.2,5.5,0,Some College,Yes,No,No,4,91.0,Distinction
+STU_11679,12.2,60.9,62.7,7.3,1,High School,Yes,Yes,Yes,3,83.6,Merit
+STU_11680,17.6,73.4,58.0,7.9,3,Some College,Yes,Yes,Yes,5,98.4,Distinction
+STU_11681,14.8,52.2,47.8,7.5,3,Bachelor's,Yes,No,Yes,5,83.8,Merit
+STU_11682,9.1,85.8,72.0,6.1,0,High School,Yes,Yes,No,7,86.4,Distinction
+STU_11683,17.1,88.9,62.4,8.3,0,High School,Yes,Yes,Yes,1,97.7,Distinction
+STU_11684,7.3,65.4,99.0,9.0,0,Bachelor's,Yes,Yes,Yes,9,75.7,Merit
+STU_11685,22.7,92.1,70.0,8.3,0,Bachelor's,Yes,Yes,No,2,100.0,Distinction
+STU_11686,12.0,83.2,87.5,8.4,0,Some College,Yes,Yes,Yes,9,92.4,Distinction
+STU_11687,16.3,90.5,53.2,6.5,1,Some College,Yes,Yes,No,9,79.8,Merit
+STU_11688,16.8,64.9,65.6,8.5,1,Master's,Yes,No,No,3,93.7,Distinction
+STU_11689,13.3,63.9,73.2,7.4,1,Master's,Yes,No,No,7,88.2,Distinction
+STU_11690,18.8,83.2,61.1,7.8,1,Some College,Yes,No,Yes,3,99.7,Distinction
+STU_11691,11.9,90.1,66.9,7.6,0,Bachelor's,Yes,Yes,No,8,94.9,Distinction
+STU_11692,20.7,75.8,69.4,7.1,2,Bachelor's,Yes,Yes,No,8,95.5,Distinction
+STU_11693,6.3,94.7,69.2,6.2,3,Doctorate,Yes,Yes,Yes,3,100.0,Distinction
+STU_11694,15.8,89.1,94.3,7.1,0,Some College,Yes,No,No,5,100.0,Distinction
+STU_11695,27.6,93.2,76.5,8.4,0,Bachelor's,Yes,No,No,7,100.0,Distinction
+STU_11696,8.5,97.4,77.8,6.7,0,Bachelor's,Yes,No,Yes,1,97.8,Distinction
+STU_11697,10.6,92.5,78.5,8.3,0,Some College,Yes,Yes,Yes,3,99.8,Distinction
+STU_11698,18.3,84.6,79.4,8.1,1,Bachelor's,Yes,No,Yes,1,100.0,Distinction
+STU_11699,16.2,54.5,71.0,6.8,0,Some College,Yes,Yes,No,2,89.3,Distinction
+STU_11700,17.3,97.1,68.2,8.9,1,High School,Yes,No,No,7,93.4,Distinction
+STU_11701,18.2,65.8,74.0,6.8,0,Some College,Yes,Yes,No,7,84.6,Merit
+STU_11702,19.1,72.5,85.9,9.0,2,Master's,Yes,Yes,No,3,100.0,Distinction
+STU_11703,22.2,63.5,85.5,7.7,0,Some College,Yes,Yes,No,6,98.1,Distinction
+STU_11704,17.7,75.7,69.1,7.2,1,Bachelor's,Yes,No,Yes,6,96.8,Distinction
+STU_11705,13.4,69.8,81.2,6.1,0,Bachelor's,Yes,Yes,Yes,2,91.7,Distinction
+STU_11706,19.4,81.2,69.7,7.1,0,High School,Yes,Yes,No,9,87.6,Distinction
+STU_11707,27.3,87.8,72.4,7.0,3,Some College,Yes,Yes,Yes,8,100.0,Distinction
+STU_11708,14.1,80.6,66.3,5.7,2,Bachelor's,No,No,No,2,89.9,Distinction
+STU_11709,8.7,67.8,69.8,6.9,0,Doctorate,Yes,Yes,Yes,4,93.2,Distinction
+STU_11710,22.2,92.0,88.1,6.2,2,High School,No,No,No,9,92.9,Distinction
+STU_11711,14.2,92.0,73.1,7.9,2,Some College,Yes,No,Yes,4,100.0,Distinction
+STU_11712,2.0,57.7,73.6,8.8,1,High School,Yes,No,Yes,7,66.7,Pass
+STU_11713,20.5,82.1,54.6,5.7,1,High School,Yes,No,No,5,92.3,Distinction
+STU_11714,11.5,93.4,68.3,9.3,3,Some College,Yes,No,Yes,10,86.8,Distinction
+STU_11715,14.4,76.2,69.1,7.0,0,Some College,Yes,Yes,No,6,97.7,Distinction
+STU_11716,17.2,79.9,62.1,6.0,1,High School,Yes,Yes,Yes,1,95.6,Distinction
+STU_11717,16.2,82.0,72.3,8.1,0,High School,Yes,No,No,4,92.7,Distinction
+STU_11718,19.6,75.4,66.8,6.7,2,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_11719,12.2,83.8,73.0,7.1,3,Doctorate,Yes,Yes,No,6,100.0,Distinction
+STU_11720,18.3,84.9,73.5,6.7,3,Some College,Yes,No,No,6,100.0,Distinction
+STU_11721,13.3,97.0,60.5,6.2,2,Bachelor's,No,No,No,5,88.6,Distinction
+STU_11722,19.8,84.0,67.2,8.1,5,Some College,Yes,No,No,3,100.0,Distinction
+STU_11723,19.0,96.6,72.9,6.9,2,Master's,Yes,No,Yes,2,100.0,Distinction
+STU_11724,8.9,69.4,86.2,5.5,2,Bachelor's,Yes,No,No,7,82.3,Merit
+STU_11725,22.1,82.7,75.1,7.9,5,Bachelor's,Yes,Yes,No,1,100.0,Distinction
+STU_11726,11.5,78.9,64.1,5.8,0,High School,Yes,Yes,No,5,86.5,Distinction
+STU_11727,20.3,87.2,76.8,5.8,2,Bachelor's,Yes,No,No,4,99.5,Distinction
+STU_11728,17.4,72.5,92.5,8.6,2,Some College,Yes,Yes,Yes,7,100.0,Distinction
+STU_11729,26.9,95.1,83.0,5.8,3,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_11730,13.5,85.0,78.6,4.4,3,Some College,Yes,No,Yes,8,80.6,Merit
+STU_11731,12.7,70.2,80.7,7.9,3,Bachelor's,Yes,Yes,No,9,82.1,Merit
+STU_11732,14.9,64.4,89.3,6.8,4,Bachelor's,Yes,Yes,Yes,10,95.3,Distinction
+STU_11733,13.0,61.7,84.9,6.9,1,High School,Yes,Yes,Yes,1,91.3,Distinction
+STU_11734,20.2,60.5,78.8,6.8,0,Bachelor's,Yes,Yes,No,5,92.2,Distinction
+STU_11735,4.5,67.0,84.8,7.5,0,High School,Yes,Yes,No,4,88.4,Distinction
+STU_11736,8.2,90.4,59.0,6.3,1,High School,Yes,No,No,5,87.4,Distinction
+STU_11737,8.1,68.5,54.0,9.0,1,Bachelor's,Yes,Yes,No,9,69.7,Pass
+STU_11738,21.2,83.6,73.9,5.4,1,Some College,Yes,Yes,No,3,95.6,Distinction
+STU_11739,26.1,63.5,72.8,7.7,1,Some College,Yes,Yes,No,1,94.3,Distinction
+STU_11740,14.3,73.8,65.5,8.0,3,Some College,Yes,Yes,Yes,3,96.1,Distinction
+STU_11741,13.9,75.3,81.9,6.3,1,Bachelor's,Yes,No,No,4,98.2,Distinction
+STU_11742,15.5,74.1,49.6,6.0,3,Some College,Yes,Yes,No,2,79.3,Merit
+STU_11743,22.6,76.8,65.6,8.4,3,Doctorate,Yes,No,No,1,100.0,Distinction
+STU_11744,9.0,81.1,66.2,6.0,1,Some College,Yes,Yes,No,1,88.2,Distinction
+STU_11745,16.5,79.7,52.4,6.5,1,Bachelor's,Yes,No,No,8,92.1,Distinction
+STU_11746,21.3,88.5,89.9,8.3,2,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_11747,18.3,66.5,55.7,7.2,2,Some College,Yes,Yes,No,2,86.5,Distinction
+STU_11748,16.2,85.1,64.9,5.0,0,Bachelor's,Yes,Yes,No,10,71.1,Merit
+STU_11749,21.5,84.1,82.9,9.3,0,Some College,Yes,No,No,3,100.0,Distinction
+STU_11750,2.0,81.2,79.8,6.6,0,Some College,Yes,Yes,Yes,8,79.6,Merit
+STU_11751,19.4,64.3,58.7,6.7,0,Some College,No,Yes,No,6,76.2,Merit
+STU_11752,10.7,89.9,80.2,7.5,0,High School,Yes,No,No,8,95.5,Distinction
+STU_11753,3.1,67.0,75.5,8.0,0,High School,Yes,Yes,No,10,58.6,Pass
+STU_11754,18.3,94.5,99.0,9.6,2,Bachelor's,Yes,Yes,No,5,100.0,Distinction
+STU_11755,23.9,79.7,76.8,5.2,4,Bachelor's,Yes,No,Yes,3,100.0,Distinction
+STU_11756,14.1,80.1,70.3,8.2,2,Some College,Yes,Yes,No,6,100.0,Distinction
+STU_11757,21.2,67.1,61.7,8.1,4,Some College,Yes,No,No,10,81.2,Merit
+STU_11758,25.5,93.8,63.1,7.0,2,High School,Yes,Yes,Yes,8,98.5,Distinction
+STU_11759,23.5,70.1,62.1,8.1,2,High School,No,Yes,Yes,5,90.4,Distinction
+STU_11760,25.7,91.8,88.5,8.3,1,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_11761,19.8,67.0,72.2,5.5,0,Bachelor's,Yes,No,No,3,76.8,Merit
+STU_11762,15.5,84.3,78.8,9.3,3,High School,Yes,No,No,3,100.0,Distinction
+STU_11763,4.6,83.4,90.2,5.3,3,Some College,Yes,No,No,8,91.4,Distinction
+STU_11764,13.4,70.7,43.7,5.8,1,Bachelor's,Yes,Yes,No,1,81.5,Merit
+STU_11765,9.5,45.0,87.3,6.9,0,High School,Yes,No,No,4,78.4,Merit
+STU_11766,29.1,62.2,72.7,9.5,2,Some College,Yes,Yes,No,9,82.1,Merit
+STU_11767,13.9,70.3,77.2,6.8,0,Bachelor's,Yes,Yes,Yes,6,94.1,Distinction
+STU_11768,15.8,96.0,62.1,7.2,0,Bachelor's,Yes,No,Yes,6,99.0,Distinction
+STU_11769,18.6,85.1,62.9,8.9,3,Some College,Yes,Yes,No,10,89.7,Distinction
+STU_11770,15.3,74.8,77.9,6.8,1,Master's,Yes,Yes,Yes,7,92.8,Distinction
+STU_11771,26.0,91.9,99.0,5.8,2,High School,Yes,Yes,Yes,7,100.0,Distinction
+STU_11772,11.0,84.4,84.0,6.7,3,Bachelor's,Yes,No,Yes,6,100.0,Distinction
+STU_11773,16.3,73.7,87.2,8.8,1,High School,Yes,Yes,Yes,9,91.1,Distinction
+STU_11774,10.2,74.1,69.7,7.3,1,Bachelor's,Yes,Yes,Yes,8,90.6,Distinction
+STU_11775,6.4,75.2,64.8,9.5,0,Master's,Yes,No,No,8,76.5,Merit
+STU_11776,11.0,84.0,62.6,8.1,0,Some College,Yes,Yes,Yes,2,91.3,Distinction
+STU_11777,14.8,51.1,66.1,6.4,2,Bachelor's,Yes,Yes,Yes,7,87.3,Distinction
+STU_11778,12.2,89.5,47.4,7.3,1,Bachelor's,Yes,No,Yes,1,88.6,Distinction
+STU_11779,10.5,84.2,63.3,6.2,0,High School,Yes,No,No,10,68.4,Pass
+STU_11780,5.9,78.2,65.3,6.4,0,Bachelor's,Yes,Yes,No,8,79.7,Merit
+STU_11781,14.5,75.1,69.9,10.0,1,Master's,Yes,No,No,3,87.1,Distinction
+STU_11782,5.2,75.2,73.6,8.4,1,Bachelor's,Yes,Yes,No,9,80.4,Merit
+STU_11783,19.9,74.6,76.3,8.2,2,High School,Yes,Yes,Yes,5,98.5,Distinction
+STU_11784,15.5,69.4,71.8,6.5,1,High School,Yes,Yes,Yes,7,87.6,Distinction
+STU_11785,5.5,58.2,65.0,9.1,0,Some College,Yes,Yes,Yes,7,75.0,Merit
+STU_11786,13.0,92.2,48.4,8.5,1,High School,Yes,Yes,No,9,76.2,Merit
+STU_11787,10.1,83.6,65.1,9.5,3,Some College,Yes,No,No,2,89.7,Distinction
+STU_11788,17.1,83.4,60.3,9.4,0,High School,Yes,No,Yes,4,90.6,Distinction
+STU_11789,23.7,88.6,77.6,5.4,2,High School,Yes,No,Yes,8,95.3,Distinction
+STU_11790,2.8,72.6,82.9,5.9,1,Some College,Yes,No,No,5,73.8,Merit
+STU_11791,15.7,79.1,83.3,6.0,2,Some College,Yes,Yes,Yes,5,100.0,Distinction
+STU_11792,14.0,64.6,81.1,6.1,0,Bachelor's,Yes,Yes,No,3,83.2,Merit
+STU_11793,19.4,65.4,70.4,7.6,4,Bachelor's,Yes,No,No,5,100.0,Distinction
+STU_11794,16.4,80.3,65.7,6.5,2,High School,Yes,No,No,7,93.5,Distinction
+STU_11795,10.1,87.0,63.0,9.7,3,High School,Yes,No,No,4,95.2,Distinction
+STU_11796,12.9,66.2,53.9,9.5,0,High School,Yes,Yes,Yes,8,65.1,Pass
+STU_11797,9.8,99.3,83.9,7.2,2,Some College,Yes,Yes,No,6,100.0,Distinction
+STU_11798,22.0,96.0,69.9,9.5,2,High School,Yes,Yes,No,6,100.0,Distinction
+STU_11799,15.1,72.0,57.0,9.0,1,Bachelor's,Yes,Yes,Yes,6,91.2,Distinction
+STU_11800,27.4,87.2,62.1,6.7,1,High School,Yes,Yes,No,4,98.1,Distinction
+STU_11801,14.6,80.6,61.6,4.8,2,Master's,No,Yes,No,3,79.1,Merit
+STU_11802,10.4,68.0,72.5,6.9,0,Some College,Yes,No,Yes,10,72.4,Merit
+STU_11803,5.2,70.4,84.8,6.4,2,Some College,Yes,Yes,No,6,85.5,Distinction
+STU_11804,3.3,84.6,67.8,7.4,0,Bachelor's,Yes,Yes,Yes,6,89.4,Distinction
+STU_11805,4.7,85.1,45.0,7.3,0,Bachelor's,Yes,No,No,2,79.1,Merit
+STU_11806,16.7,71.1,69.7,7.3,2,Bachelor's,Yes,Yes,Yes,10,86.5,Distinction
+STU_11807,18.3,80.3,70.1,7.8,0,Master's,Yes,No,No,9,93.9,Distinction
+STU_11808,4.7,93.8,69.3,5.7,5,Some College,Yes,Yes,Yes,4,97.7,Distinction
+STU_11809,20.8,77.8,64.5,7.7,3,Bachelor's,No,No,Yes,4,100.0,Distinction
+STU_11810,11.9,80.6,74.6,6.7,2,Some College,Yes,No,No,10,83.2,Merit
+STU_11811,16.0,74.4,72.8,7.4,3,Master's,Yes,No,No,8,90.7,Distinction
+STU_11812,25.5,88.4,71.7,8.3,3,Some College,Yes,Yes,No,3,100.0,Distinction
+STU_11813,20.8,72.3,77.0,5.7,0,Some College,Yes,Yes,No,10,75.1,Merit
+STU_11814,13.3,47.5,66.8,6.9,3,Bachelor's,Yes,Yes,No,7,85.3,Distinction
+STU_11815,9.2,94.8,66.2,7.1,0,High School,Yes,Yes,No,7,92.1,Distinction
+STU_11816,2.0,68.2,88.6,6.6,1,High School,Yes,Yes,Yes,2,78.3,Merit
+STU_11817,10.3,55.8,78.7,8.3,1,Some College,Yes,No,Yes,3,88.7,Distinction
+STU_11818,13.6,82.9,81.9,6.3,2,Bachelor's,Yes,Yes,Yes,4,98.4,Distinction
+STU_11819,8.6,60.6,86.7,6.5,0,Master's,Yes,No,Yes,2,87.2,Distinction
+STU_11820,14.1,93.3,78.3,6.3,0,Bachelor's,Yes,No,Yes,9,94.2,Distinction
+STU_11821,15.5,75.8,83.1,8.5,2,Bachelor's,Yes,No,No,10,93.3,Distinction
+STU_11822,13.5,93.4,53.0,6.6,1,Some College,No,Yes,No,6,90.1,Distinction
+STU_11823,10.8,56.2,74.4,7.8,2,High School,No,No,No,1,82.3,Merit
+STU_11824,16.1,76.0,69.8,9.6,2,High School,Yes,Yes,No,1,92.4,Distinction
+STU_11825,17.9,88.4,92.1,7.1,0,Bachelor's,Yes,Yes,No,8,100.0,Distinction
+STU_11826,7.9,80.8,83.1,8.5,0,Some College,Yes,No,Yes,6,89.1,Distinction
+STU_11827,24.2,60.9,64.4,9.2,2,High School,Yes,Yes,No,10,71.7,Merit
+STU_11828,14.4,83.6,76.5,8.4,1,Some College,Yes,No,No,7,93.4,Distinction
+STU_11829,15.1,91.0,74.0,7.2,0,Bachelor's,Yes,Yes,No,6,100.0,Distinction
+STU_11830,19.6,63.9,77.5,8.0,0,Some College,Yes,Yes,No,2,87.4,Distinction
+STU_11831,16.5,76.4,59.8,5.7,0,Bachelor's,Yes,Yes,Yes,3,88.7,Distinction
+STU_11832,21.2,64.1,76.3,6.3,0,Bachelor's,Yes,Yes,No,8,81.7,Merit
+STU_11833,16.9,85.8,69.3,6.5,1,Bachelor's,Yes,Yes,Yes,4,100.0,Distinction
+STU_11834,11.0,84.4,75.4,9.9,2,Doctorate,Yes,Yes,Yes,8,91.8,Distinction
+STU_11835,17.3,81.1,63.3,6.2,1,Some College,Yes,No,No,3,87.4,Distinction
+STU_11836,7.6,83.9,65.0,6.2,3,Bachelor's,Yes,No,Yes,2,96.1,Distinction
+STU_11837,15.7,74.6,86.1,5.9,0,Master's,No,No,No,7,86.0,Distinction
+STU_11838,14.8,71.2,59.4,7.9,1,Bachelor's,Yes,No,Yes,1,89.6,Distinction
+STU_11839,13.6,85.2,60.3,7.4,2,Bachelor's,Yes,Yes,No,3,97.9,Distinction
+STU_11840,14.2,71.0,71.4,8.5,2,Some College,Yes,No,No,2,88.7,Distinction
+STU_11841,2.8,89.0,62.7,8.0,2,Bachelor's,No,Yes,No,5,85.4,Distinction
+STU_11842,11.4,90.7,61.4,5.5,2,High School,Yes,Yes,Yes,2,93.8,Distinction
+STU_11843,15.6,84.1,73.3,6.2,2,Doctorate,Yes,No,No,10,92.3,Distinction
+STU_11844,16.0,79.8,53.9,8.8,0,Bachelor's,No,Yes,No,5,80.2,Merit
+STU_11845,8.3,58.6,59.9,7.0,2,Master's,Yes,No,Yes,3,88.0,Distinction
+STU_11846,23.2,57.7,96.6,8.6,2,Bachelor's,Yes,Yes,Yes,9,97.2,Distinction
+STU_11847,9.4,79.6,77.5,7.0,5,High School,Yes,Yes,Yes,10,96.1,Distinction
+STU_11848,21.3,73.0,63.0,6.0,2,High School,Yes,Yes,Yes,9,85.5,Distinction
+STU_11849,17.8,91.4,77.0,6.8,2,Master's,Yes,Yes,Yes,8,100.0,Distinction
+STU_11850,10.8,93.4,78.8,6.0,1,Some College,No,No,No,5,89.1,Distinction
+STU_11851,26.5,97.6,83.9,6.5,3,Some College,Yes,No,Yes,10,100.0,Distinction
+STU_11852,7.2,94.7,70.5,7.4,5,Bachelor's,Yes,Yes,No,7,100.0,Distinction
+STU_11853,21.0,54.7,83.7,7.8,2,Some College,Yes,Yes,No,2,95.5,Distinction
+STU_11854,21.5,68.4,47.5,5.3,2,Bachelor's,Yes,Yes,No,3,76.4,Merit
+STU_11855,10.6,90.7,59.3,7.2,0,Some College,Yes,No,Yes,2,86.8,Distinction
+STU_11856,24.1,63.9,74.0,6.5,2,Bachelor's,Yes,Yes,No,10,77.4,Merit
+STU_11857,13.4,75.6,76.0,6.4,2,Master's,Yes,No,Yes,1,100.0,Distinction
+STU_11858,16.9,76.4,61.1,7.4,2,High School,Yes,No,Yes,3,95.7,Distinction
+STU_11859,16.7,69.7,75.1,6.5,0,Some College,Yes,No,Yes,4,91.9,Distinction
+STU_11860,14.1,82.7,64.5,8.9,2,Some College,Yes,No,No,9,85.0,Distinction
+STU_11861,20.3,70.8,68.7,8.6,0,Doctorate,Yes,No,No,2,96.0,Distinction
+STU_11862,20.2,65.5,84.3,8.6,2,Some College,Yes,No,Yes,9,87.4,Distinction
+STU_11863,3.6,52.3,82.9,6.6,0,Some College,Yes,No,No,1,74.1,Merit
+STU_11864,23.5,79.5,60.0,6.0,2,Bachelor's,Yes,No,Yes,9,91.4,Distinction
+STU_11865,4.2,85.9,59.3,7.3,0,Some College,Yes,No,No,6,82.1,Merit
+STU_11866,21.7,45.0,67.1,7.0,0,Master's,Yes,No,No,8,81.7,Merit
+STU_11867,22.3,70.0,71.7,6.5,2,Master's,No,No,Yes,3,95.6,Distinction
+STU_11868,7.9,87.0,64.1,5.8,0,Some College,Yes,No,Yes,8,82.3,Merit
+STU_11869,12.3,62.2,84.5,7.2,2,Bachelor's,Yes,No,No,9,83.2,Merit
+STU_11870,7.8,89.2,76.2,6.7,4,High School,Yes,Yes,No,7,98.5,Distinction
+STU_11871,13.6,89.2,76.9,8.0,4,Bachelor's,No,Yes,Yes,4,100.0,Distinction
+STU_11872,13.0,87.2,56.8,8.0,0,Bachelor's,Yes,No,No,6,91.9,Distinction
+STU_11873,20.1,88.1,86.0,8.5,3,Some College,Yes,Yes,Yes,6,100.0,Distinction
+STU_11874,23.5,79.1,38.2,5.7,1,High School,Yes,Yes,No,2,89.8,Distinction
+STU_11875,24.1,89.2,82.0,7.7,3,Master's,Yes,Yes,Yes,2,100.0,Distinction
+STU_11876,11.3,57.2,83.2,6.3,2,Some College,Yes,No,No,5,86.0,Distinction
+STU_11877,13.6,83.6,66.8,5.7,0,Bachelor's,No,No,No,1,86.7,Distinction
+STU_11878,4.1,73.1,87.3,6.7,1,High School,Yes,Yes,No,5,80.5,Merit
+STU_11879,9.8,63.5,71.2,8.5,0,Some College,Yes,Yes,No,10,66.8,Pass
+STU_11880,21.3,50.7,72.7,6.8,2,Bachelor's,Yes,No,No,3,88.8,Distinction
+STU_11881,25.5,57.9,76.1,9.1,1,Some College,Yes,No,Yes,3,92.7,Distinction
+STU_11882,7.0,56.4,99.0,7.9,2,Bachelor's,Yes,Yes,Yes,8,87.9,Distinction
+STU_11883,11.1,82.9,88.1,6.7,2,High School,Yes,Yes,Yes,3,100.0,Distinction
+STU_11884,14.8,79.3,80.4,8.6,5,Some College,Yes,No,Yes,3,100.0,Distinction
+STU_11885,16.8,93.3,61.0,7.7,4,Master's,Yes,No,No,1,100.0,Distinction
+STU_11886,9.7,79.5,73.7,6.1,1,Bachelor's,Yes,No,Yes,8,89.6,Distinction
+STU_11887,17.8,89.0,62.2,9.4,2,Master's,Yes,No,Yes,10,82.9,Merit
+STU_11888,11.9,68.7,81.9,7.5,3,Master's,Yes,No,No,10,86.3,Distinction
+STU_11889,14.9,89.4,73.7,7.2,3,Master's,Yes,Yes,No,6,100.0,Distinction
+STU_11890,18.6,80.1,58.5,6.2,0,Master's,Yes,Yes,No,8,85.2,Distinction
+STU_11891,15.0,70.8,73.0,8.6,0,High School,Yes,No,Yes,3,88.9,Distinction
+STU_11892,12.2,89.6,61.8,7.8,0,Master's,No,No,Yes,6,94.2,Distinction
+STU_11893,14.3,72.7,73.8,8.0,1,High School,Yes,No,No,2,90.1,Distinction
+STU_11894,14.4,87.9,61.7,6.6,0,High School,Yes,No,No,3,92.0,Distinction
+STU_11895,12.6,63.9,72.3,8.2,1,High School,Yes,No,Yes,4,89.2,Distinction
+STU_11896,13.3,96.3,81.0,8.3,2,Some College,No,No,No,9,83.7,Merit
+STU_11897,25.4,59.1,71.4,6.4,1,Bachelor's,Yes,Yes,No,4,93.0,Distinction
+STU_11898,18.6,68.5,67.3,5.5,2,Some College,Yes,Yes,No,7,88.6,Distinction
+STU_11899,13.1,71.1,74.4,7.9,0,High School,Yes,No,No,8,80.7,Merit
+STU_11900,19.5,45.0,80.4,5.3,3,Some College,Yes,Yes,No,5,88.5,Distinction
+STU_11901,12.8,91.3,58.7,7.4,4,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_11902,22.6,69.4,75.1,6.7,2,Bachelor's,Yes,No,No,8,92.6,Distinction
+STU_11903,17.4,48.6,87.8,8.7,3,Some College,Yes,No,No,5,93.7,Distinction
+STU_11904,14.3,58.7,78.9,6.7,0,High School,No,Yes,No,5,75.0,Merit
+STU_11905,17.9,72.1,72.7,8.5,2,Some College,Yes,No,No,7,97.2,Distinction
+STU_11906,4.8,88.2,79.7,6.6,0,Some College,Yes,Yes,No,6,89.1,Distinction
+STU_11907,7.7,87.8,77.4,8.4,1,Bachelor's,Yes,Yes,No,3,94.3,Distinction
+STU_11908,7.2,70.3,81.0,9.7,0,Some College,Yes,No,No,7,74.2,Merit
+STU_11909,15.9,77.4,47.7,5.9,1,Some College,Yes,No,No,1,83.8,Merit
+STU_11910,26.3,89.8,53.4,7.6,0,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_11911,29.5,87.3,84.1,10.0,2,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_11912,19.1,84.0,53.9,7.3,1,Doctorate,Yes,Yes,Yes,6,100.0,Distinction
+STU_11913,18.3,83.6,76.8,7.3,3,High School,No,No,No,6,99.2,Distinction
+STU_11914,3.3,80.4,67.8,8.1,2,Bachelor's,Yes,No,No,10,69.7,Pass
+STU_11915,11.5,81.7,60.0,7.2,0,Bachelor's,Yes,Yes,No,8,85.1,Distinction
+STU_11916,9.9,91.9,76.2,5.2,0,High School,Yes,Yes,No,1,83.9,Merit
+STU_11917,11.0,96.4,74.4,8.6,3,Doctorate,Yes,No,Yes,7,100.0,Distinction
+STU_11918,13.9,85.5,97.3,4.8,1,Bachelor's,Yes,No,No,4,90.5,Distinction
+STU_11919,11.9,71.6,64.5,6.7,1,Bachelor's,Yes,No,No,6,85.2,Distinction
+STU_11920,2.1,82.1,89.3,8.6,2,Some College,Yes,Yes,No,10,82.0,Merit
+STU_11921,19.9,67.0,76.2,6.8,0,Bachelor's,Yes,No,Yes,9,85.9,Distinction
+STU_11922,8.0,72.3,64.1,6.4,0,Some College,Yes,Yes,No,3,82.4,Merit
+STU_11923,16.6,83.7,81.6,8.3,1,High School,Yes,Yes,No,8,95.9,Distinction
+STU_11924,28.5,82.7,78.8,6.2,0,Master's,Yes,Yes,No,3,100.0,Distinction
+STU_11925,9.0,94.0,72.4,5.7,0,Master's,Yes,Yes,No,6,96.0,Distinction
+STU_11926,2.0,92.3,75.2,7.5,0,High School,Yes,No,Yes,2,85.1,Distinction
+STU_11927,13.1,96.5,64.8,7.0,0,Bachelor's,Yes,No,No,9,90.0,Distinction
+STU_11928,22.2,72.7,62.1,5.7,0,Bachelor's,Yes,No,No,2,80.4,Merit
+STU_11929,27.7,82.1,81.1,8.0,4,High School,Yes,Yes,No,5,100.0,Distinction
+STU_11930,7.0,93.5,69.3,7.8,1,Some College,Yes,Yes,No,6,97.8,Distinction
+STU_11931,18.2,90.4,71.0,6.8,2,Some College,Yes,Yes,No,4,100.0,Distinction
+STU_11932,12.0,86.3,75.4,6.9,0,Bachelor's,Yes,No,No,7,92.5,Distinction
+STU_11933,14.3,66.8,75.2,7.8,0,Master's,Yes,No,No,7,92.0,Distinction
+STU_11934,32.2,86.7,54.8,8.6,3,High School,Yes,Yes,No,7,100.0,Distinction
+STU_11935,5.2,66.6,87.4,6.9,2,Bachelor's,Yes,Yes,No,7,85.9,Distinction
+STU_11936,16.6,88.9,73.5,8.0,0,Bachelor's,Yes,Yes,No,10,85.5,Distinction
+STU_11937,18.0,73.4,69.6,7.9,1,Bachelor's,No,No,No,10,73.0,Merit
+STU_11938,22.1,52.9,77.2,8.3,1,High School,Yes,Yes,No,9,78.2,Merit
+STU_11939,15.6,87.8,74.8,7.2,3,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_11940,17.0,63.8,81.2,6.1,0,Master's,Yes,Yes,Yes,5,88.1,Distinction
+STU_11941,12.5,96.2,78.5,6.6,1,Some College,No,Yes,Yes,10,84.0,Merit
+STU_11942,16.7,72.8,80.6,7.6,2,Some College,Yes,Yes,No,9,91.1,Distinction
+STU_11943,12.8,77.8,88.2,9.4,5,Bachelor's,Yes,No,No,2,100.0,Distinction
+STU_11944,19.0,91.8,82.6,6.6,3,High School,No,No,Yes,3,100.0,Distinction
+STU_11945,12.6,67.1,70.1,8.2,0,Master's,Yes,Yes,No,7,91.8,Distinction
+STU_11946,17.5,55.6,58.5,6.8,2,Some College,Yes,Yes,No,9,74.9,Merit
+STU_11947,14.8,86.6,92.0,7.3,2,High School,No,No,No,3,100.0,Distinction
+STU_11948,22.3,85.5,69.1,9.0,2,High School,Yes,No,No,10,83.1,Merit
+STU_11949,14.7,49.0,66.3,8.1,3,High School,Yes,Yes,Yes,8,82.2,Merit
+STU_11950,3.5,80.6,51.2,5.7,3,High School,Yes,No,No,8,69.3,Pass
+STU_11951,23.2,66.4,76.1,6.5,0,Bachelor's,Yes,No,Yes,4,91.9,Distinction
+STU_11952,9.1,81.5,73.8,8.7,0,High School,Yes,Yes,No,6,93.0,Distinction
+STU_11953,10.8,91.9,53.8,7.4,2,Master's,Yes,No,No,8,93.8,Distinction
+STU_11954,11.1,84.6,77.4,5.8,0,Some College,Yes,No,No,9,80.8,Merit
+STU_11955,23.9,90.7,66.0,6.2,0,Some College,Yes,No,No,2,98.1,Distinction
+STU_11956,2.0,77.0,99.0,8.0,1,Some College,Yes,Yes,Yes,1,95.5,Distinction
+STU_11957,35.4,62.8,65.2,8.4,3,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_11958,21.9,75.4,66.8,7.2,0,Some College,Yes,Yes,No,10,81.1,Merit
+STU_11959,16.5,87.7,61.5,10.0,2,High School,Yes,No,No,3,87.2,Distinction
+STU_11960,14.6,74.3,87.3,8.2,0,Master's,Yes,Yes,No,6,98.9,Distinction
+STU_11961,16.9,73.4,67.5,6.9,0,Some College,Yes,Yes,Yes,1,87.7,Distinction
+STU_11962,18.4,45.0,63.3,6.2,1,High School,Yes,No,Yes,4,79.4,Merit
+STU_11963,19.2,66.9,80.5,6.0,0,Some College,Yes,Yes,No,6,89.7,Distinction
+STU_11964,18.6,60.2,55.4,7.6,3,Bachelor's,Yes,No,No,2,88.5,Distinction
+STU_11965,15.6,96.0,79.5,6.6,3,Some College,Yes,Yes,Yes,8,100.0,Distinction
+STU_11966,13.7,94.5,93.4,9.2,2,Bachelor's,Yes,Yes,No,4,100.0,Distinction
+STU_11967,14.0,87.5,78.8,9.0,0,Bachelor's,Yes,Yes,Yes,2,96.4,Distinction
+STU_11968,13.7,69.7,79.7,8.0,1,Bachelor's,Yes,No,No,1,94.6,Distinction
+STU_11969,22.4,90.1,82.4,5.8,0,Some College,Yes,No,Yes,8,99.3,Distinction
+STU_11970,18.9,91.1,92.5,6.4,0,Doctorate,Yes,Yes,No,10,100.0,Distinction
+STU_11971,2.0,76.1,86.5,8.7,1,Some College,Yes,No,Yes,1,86.9,Distinction
+STU_11972,19.3,78.6,77.3,6.5,2,Bachelor's,Yes,No,Yes,7,100.0,Distinction
+STU_11973,16.3,74.9,82.8,8.5,0,Some College,Yes,Yes,No,7,94.9,Distinction
+STU_11974,14.9,74.0,61.4,7.8,0,Bachelor's,Yes,Yes,Yes,6,91.9,Distinction
+STU_11975,12.5,64.8,81.3,7.3,4,High School,No,Yes,No,8,89.9,Distinction
+STU_11976,22.3,79.1,59.9,6.4,1,High School,Yes,No,Yes,10,85.1,Distinction
+STU_11977,21.2,72.8,67.6,7.1,4,Bachelor's,Yes,No,Yes,1,100.0,Distinction
+STU_11978,10.0,84.8,38.0,7.4,5,Some College,Yes,Yes,No,1,92.4,Distinction
+STU_11979,17.6,82.7,76.8,8.4,1,Some College,Yes,Yes,No,1,100.0,Distinction
+STU_11980,8.7,74.9,64.3,6.1,0,Bachelor's,Yes,Yes,No,6,77.4,Merit
+STU_11981,6.0,74.7,85.3,6.9,2,Bachelor's,No,Yes,No,7,87.1,Distinction
+STU_11982,10.9,84.6,76.7,7.3,0,High School,No,Yes,No,10,80.5,Merit
+STU_11983,20.6,66.9,85.5,8.0,0,High School,Yes,Yes,Yes,9,84.2,Merit
+STU_11984,21.2,92.9,59.0,6.1,2,Master's,Yes,Yes,No,10,85.1,Distinction
+STU_11985,18.3,86.0,84.5,5.6,1,Bachelor's,Yes,No,Yes,5,100.0,Distinction
+STU_11986,19.7,87.9,97.3,8.0,0,Some College,No,Yes,Yes,1,100.0,Distinction
+STU_11987,18.4,96.4,81.2,5.4,2,Bachelor's,Yes,Yes,No,9,89.0,Distinction
+STU_11988,10.8,83.2,81.5,8.7,2,Some College,Yes,Yes,No,5,96.1,Distinction
+STU_11989,17.8,77.8,74.0,7.0,0,High School,No,Yes,Yes,6,94.8,Distinction
+STU_11990,20.2,61.5,65.7,5.3,0,High School,Yes,No,No,9,64.3,Pass
+STU_11991,19.9,83.3,81.1,6.6,0,Some College,Yes,No,Yes,2,100.0,Distinction
+STU_11992,22.7,89.3,53.9,7.7,1,Master's,No,Yes,Yes,3,97.7,Distinction
+STU_11993,19.6,80.3,67.0,6.6,2,High School,Yes,Yes,No,7,97.3,Distinction
+STU_11994,17.3,79.0,50.7,7.2,2,High School,Yes,Yes,No,3,98.4,Distinction
+STU_11995,22.0,71.4,63.6,8.1,2,Master's,Yes,Yes,No,2,97.0,Distinction
+STU_11996,14.8,95.3,79.7,7.0,0,High School,Yes,No,Yes,7,100.0,Distinction
+STU_11997,9.3,87.6,78.1,6.1,0,Bachelor's,No,Yes,No,8,84.5,Merit
+STU_11998,13.9,80.6,72.6,6.8,0,High School,No,No,Yes,9,76.8,Merit
+STU_11999,10.2,65.0,74.0,8.9,0,Bachelor's,Yes,No,No,2,89.1,Distinction
+STU_12000,10.6,91.7,49.4,9.2,0,Some College,Yes,Yes,No,2,90.5,Distinction
+STU_12001,14.1,74.7,67.5,4.8,1,High School,Yes,Yes,No,7,72.8,Merit
+STU_12002,9.8,61.9,63.8,8.5,0,Bachelor's,Yes,No,No,4,79.6,Merit
+STU_12003,13.0,85.8,64.1,7.5,2,Bachelor's,Yes,Yes,No,5,100.0,Distinction
+STU_12004,2.7,77.2,79.2,8.3,2,Bachelor's,Yes,Yes,Yes,1,91.9,Distinction
+STU_12005,16.4,84.3,61.7,6.5,1,Bachelor's,Yes,Yes,Yes,6,100.0,Distinction
+STU_12006,15.0,45.0,64.7,5.1,0,Some College,Yes,No,Yes,10,51.1,Pass
+STU_12007,9.7,55.9,47.0,7.9,3,Some College,No,Yes,Yes,8,75.0,Merit
+STU_12008,19.3,80.4,68.5,6.1,4,Bachelor's,Yes,No,No,1,100.0,Distinction
+STU_12009,21.1,61.6,58.9,5.5,0,Bachelor's,Yes,No,Yes,2,81.8,Merit
+STU_12010,4.6,63.7,73.0,5.6,2,Bachelor's,Yes,No,No,7,78.0,Merit
+STU_12011,10.0,63.8,60.6,7.9,3,Bachelor's,Yes,Yes,No,2,90.4,Distinction
+STU_12012,10.0,79.8,73.3,7.4,1,High School,Yes,No,No,9,84.1,Merit
+STU_12013,8.9,73.7,70.3,8.1,0,High School,Yes,Yes,No,6,89.3,Distinction
+STU_12014,20.4,70.7,92.1,8.0,1,Some College,Yes,Yes,No,5,100.0,Distinction
+STU_12015,13.7,73.1,78.0,6.7,1,Master's,Yes,No,Yes,7,94.2,Distinction
+STU_12016,13.3,67.0,49.9,7.1,1,Bachelor's,Yes,Yes,No,10,64.2,Pass
+STU_12017,2.0,98.3,56.8,6.6,4,Bachelor's,Yes,No,Yes,8,84.2,Merit
+STU_12018,19.1,73.5,72.7,6.9,2,Some College,Yes,Yes,No,9,86.0,Distinction
+STU_12019,6.9,84.6,60.8,6.0,0,High School,Yes,No,Yes,6,82.3,Merit
+STU_12020,15.4,76.3,38.0,7.7,1,Master's,Yes,Yes,Yes,5,88.8,Distinction
+STU_12021,16.8,90.3,88.2,8.5,2,Master's,Yes,No,No,7,100.0,Distinction
+STU_12022,23.8,94.9,80.6,6.2,0,High School,Yes,Yes,No,2,100.0,Distinction
+STU_12023,6.5,88.7,78.3,8.7,1,Bachelor's,Yes,Yes,No,8,95.4,Distinction
+STU_12024,2.0,45.0,64.7,7.3,3,Some College,Yes,No,Yes,4,71.6,Merit
+STU_12025,16.2,93.5,77.1,7.5,1,Some College,Yes,No,Yes,1,100.0,Distinction
+STU_12026,26.7,79.1,63.5,5.2,0,Bachelor's,Yes,Yes,Yes,3,91.7,Distinction
+STU_12027,23.1,65.9,74.5,5.0,0,Bachelor's,Yes,Yes,No,9,75.2,Merit
+STU_12028,16.4,90.1,61.0,7.4,1,Bachelor's,Yes,Yes,No,4,95.3,Distinction
+STU_12029,11.8,76.0,90.2,8.1,1,High School,Yes,Yes,No,10,89.0,Distinction
+STU_12030,20.2,86.7,53.2,6.4,0,Some College,Yes,Yes,No,10,72.6,Merit
+STU_12031,8.7,69.7,86.8,9.2,2,Some College,Yes,No,No,3,93.9,Distinction
+STU_12032,18.1,84.6,72.5,8.1,0,Some College,Yes,Yes,No,4,98.6,Distinction
+STU_12033,18.3,66.8,66.1,6.1,0,Some College,Yes,Yes,Yes,3,89.2,Distinction
+STU_12034,21.9,80.0,74.0,7.2,1,Some College,Yes,No,No,3,98.4,Distinction
+STU_12035,32.9,65.3,80.8,10.0,0,Some College,Yes,Yes,No,2,89.9,Distinction
+STU_12036,17.6,91.6,88.4,5.7,3,Some College,Yes,No,Yes,6,100.0,Distinction
+STU_12037,11.7,95.7,75.8,7.8,0,Bachelor's,Yes,No,Yes,10,87.9,Distinction
+STU_12038,14.8,84.1,61.3,6.8,2,Bachelor's,Yes,No,Yes,6,100.0,Distinction
+STU_12039,3.5,60.2,72.7,8.0,1,Bachelor's,Yes,No,Yes,10,67.1,Pass
+STU_12040,10.5,86.2,93.8,8.7,1,High School,No,No,No,4,97.7,Distinction
+STU_12041,12.3,80.7,88.2,6.7,2,Some College,Yes,Yes,Yes,8,100.0,Distinction
+STU_12042,11.6,65.3,82.9,8.5,1,High School,Yes,Yes,Yes,6,87.5,Distinction
+STU_12043,16.0,70.2,81.5,9.9,2,High School,Yes,No,No,8,83.5,Merit
+STU_12044,9.7,53.2,80.4,7.3,1,Some College,Yes,Yes,No,6,82.2,Merit
+STU_12045,22.3,92.4,85.9,8.1,1,High School,Yes,Yes,Yes,9,99.8,Distinction
+STU_12046,15.0,69.0,66.5,6.5,2,Bachelor's,Yes,No,Yes,3,96.3,Distinction
+STU_12047,14.9,89.1,55.7,7.2,2,Doctorate,No,No,No,3,96.8,Distinction
+STU_12048,12.9,96.2,72.8,7.0,2,High School,Yes,Yes,No,2,98.0,Distinction
+STU_12049,16.0,92.4,62.2,8.2,2,Bachelor's,Yes,No,No,10,87.8,Distinction
+STU_12050,20.4,69.1,59.3,8.6,4,High School,Yes,No,Yes,6,92.7,Distinction
+STU_12051,9.4,75.4,63.4,7.1,1,Bachelor's,Yes,No,Yes,7,89.3,Distinction
+STU_12052,10.7,70.3,99.0,9.0,1,Bachelor's,Yes,No,Yes,7,94.7,Distinction
+STU_12053,13.0,89.8,73.6,9.0,0,Master's,Yes,Yes,No,5,100.0,Distinction
+STU_12054,6.3,89.7,76.3,8.2,1,High School,Yes,No,No,6,99.0,Distinction
+STU_12055,9.7,68.1,57.3,6.6,1,Some College,No,No,Yes,7,73.1,Merit
+STU_12056,11.9,93.3,49.9,6.5,3,High School,Yes,No,No,2,92.2,Distinction
+STU_12057,20.7,66.8,62.2,6.2,1,Some College,Yes,No,No,10,67.3,Pass
+STU_12058,16.7,87.3,89.3,8.3,2,Master's,Yes,Yes,No,7,100.0,Distinction
+STU_12059,16.3,50.9,76.0,5.7,0,Bachelor's,Yes,Yes,Yes,1,80.4,Merit
+STU_12060,20.5,82.1,79.2,8.0,1,Bachelor's,Yes,Yes,Yes,6,100.0,Distinction
+STU_12061,14.1,62.2,80.9,5.9,3,Some College,Yes,No,Yes,8,88.9,Distinction
+STU_12062,17.5,63.0,64.9,8.2,0,Master's,Yes,No,Yes,1,90.1,Distinction
+STU_12063,14.3,87.3,88.7,7.2,0,Some College,Yes,Yes,No,1,100.0,Distinction
+STU_12064,16.7,55.8,64.4,8.8,1,High School,Yes,No,Yes,6,83.6,Merit
+STU_12065,11.2,85.6,88.9,8.6,2,Master's,Yes,No,No,5,100.0,Distinction
+STU_12066,2.0,45.0,77.3,8.9,1,Some College,Yes,Yes,Yes,3,71.0,Merit
+STU_12067,14.1,65.8,50.5,9.0,1,High School,Yes,Yes,Yes,10,59.6,Pass
+STU_12068,24.2,81.6,63.0,7.4,2,High School,Yes,Yes,Yes,10,94.7,Distinction
+STU_12069,21.0,89.4,50.6,5.8,0,Bachelor's,Yes,No,Yes,7,88.2,Distinction
+STU_12070,21.3,67.7,86.0,5.9,2,Bachelor's,Yes,No,No,7,97.9,Distinction
+STU_12071,23.0,60.5,71.7,4.7,0,Some College,Yes,Yes,No,7,74.4,Merit
+STU_12072,15.6,75.4,45.3,5.9,1,Bachelor's,Yes,Yes,No,6,78.5,Merit
+STU_12073,16.3,88.2,76.5,7.3,2,Bachelor's,Yes,No,No,4,100.0,Distinction
+STU_12074,11.0,75.2,65.6,6.5,3,Master's,Yes,No,Yes,9,83.2,Merit
+STU_12075,12.9,77.3,54.2,7.0,2,Bachelor's,Yes,No,No,9,85.0,Distinction
+STU_12076,19.0,95.4,92.1,7.8,2,Bachelor's,Yes,Yes,Yes,7,100.0,Distinction
+STU_12077,22.8,72.8,73.3,6.8,1,Bachelor's,Yes,Yes,No,7,91.6,Distinction
+STU_12078,14.1,80.4,68.5,5.9,0,Some College,Yes,No,No,8,83.9,Merit
+STU_12079,12.1,76.3,67.2,7.1,0,Some College,Yes,Yes,Yes,5,92.4,Distinction
+STU_12080,15.0,88.3,53.8,6.1,3,Some College,Yes,Yes,No,9,85.2,Distinction
+STU_12081,18.9,75.1,56.3,6.9,3,High School,No,No,No,6,81.5,Merit
+STU_12082,5.6,96.4,87.4,8.8,4,Some College,Yes,No,Yes,7,99.5,Distinction
+STU_12083,2.0,93.3,66.3,6.9,0,Some College,Yes,No,Yes,7,77.7,Merit
+STU_12084,11.4,76.9,72.3,9.3,1,High School,Yes,No,Yes,9,77.1,Merit
+STU_12085,7.1,53.8,47.5,8.9,2,High School,No,Yes,No,7,59.0,Pass
+STU_12086,11.7,90.3,56.2,6.5,2,Some College,Yes,Yes,Yes,3,93.4,Distinction
+STU_12087,14.0,87.1,79.3,5.9,2,Bachelor's,Yes,Yes,No,6,100.0,Distinction
+STU_12088,12.1,55.9,76.5,7.1,2,Master's,Yes,No,No,6,81.9,Merit
+STU_12089,24.4,89.3,93.0,8.6,1,Some College,Yes,Yes,No,7,100.0,Distinction
+STU_12090,17.1,45.0,88.1,6.6,0,Some College,Yes,No,Yes,6,85.1,Distinction
+STU_12091,17.0,59.9,69.2,8.3,0,Some College,Yes,Yes,No,4,84.3,Merit
+STU_12092,19.0,71.3,77.7,8.7,0,High School,Yes,Yes,Yes,6,94.6,Distinction
+STU_12093,7.6,99.3,68.2,6.3,1,High School,Yes,Yes,No,3,97.8,Distinction
+STU_12094,21.8,74.5,96.7,6.4,0,Bachelor's,Yes,No,No,1,99.9,Distinction
+STU_12095,14.5,90.7,85.8,8.1,0,Some College,Yes,Yes,No,1,100.0,Distinction
+STU_12096,19.4,97.1,74.0,7.4,2,Bachelor's,Yes,No,No,5,100.0,Distinction
+STU_12097,8.0,67.0,74.4,6.4,3,Bachelor's,Yes,Yes,No,8,87.4,Distinction
+STU_12098,4.9,87.4,89.3,6.8,3,High School,Yes,No,Yes,3,100.0,Distinction
+STU_12099,20.3,90.5,79.0,7.1,0,Some College,Yes,No,No,2,100.0,Distinction
+STU_12100,17.4,88.9,90.7,5.3,0,Some College,Yes,Yes,Yes,8,96.8,Distinction
+STU_12101,9.1,60.3,45.7,8.1,0,Some College,No,No,Yes,9,53.1,Pass
+STU_12102,9.3,58.5,77.5,6.6,5,Some College,Yes,No,Yes,9,81.9,Merit
+STU_12103,22.3,46.2,65.8,4.0,1,Doctorate,Yes,No,No,2,59.9,Pass
+STU_12104,7.3,84.6,93.1,7.2,0,Bachelor's,Yes,No,Yes,8,96.7,Distinction
+STU_12105,25.7,91.6,90.6,6.3,3,Master's,Yes,Yes,No,2,100.0,Distinction
+STU_12106,9.1,67.2,72.4,9.2,1,High School,Yes,Yes,No,7,74.4,Merit
+STU_12107,19.1,81.7,90.4,6.5,3,High School,Yes,Yes,No,8,100.0,Distinction
+STU_12108,12.9,89.2,93.4,5.9,0,High School,Yes,No,No,1,97.5,Distinction
+STU_12109,18.9,89.5,72.9,7.8,1,Some College,Yes,Yes,Yes,8,97.2,Distinction
+STU_12110,11.5,66.7,99.0,6.4,1,Some College,Yes,No,No,3,93.5,Distinction
+STU_12111,13.9,68.1,71.6,6.3,3,Bachelor's,Yes,No,No,1,94.0,Distinction
+STU_12112,15.3,82.8,69.4,7.8,3,Some College,Yes,No,No,7,100.0,Distinction
+STU_12113,8.5,86.2,82.4,6.0,1,Master's,Yes,Yes,Yes,10,87.5,Distinction
+STU_12114,19.8,79.7,67.8,5.5,0,Master's,No,Yes,Yes,3,89.4,Distinction
+STU_12115,11.7,78.2,73.0,9.3,1,High School,Yes,Yes,No,8,85.3,Distinction
+STU_12116,13.5,76.1,88.9,7.9,5,Master's,Yes,Yes,Yes,9,100.0,Distinction
+STU_12117,8.5,77.1,72.2,6.9,2,Some College,No,Yes,No,2,90.2,Distinction
+STU_12118,2.0,86.2,51.7,7.2,2,Some College,Yes,Yes,Yes,1,76.6,Merit
+STU_12119,13.8,90.1,76.4,7.8,1,Bachelor's,Yes,No,Yes,8,99.3,Distinction
+STU_12120,30.7,82.5,63.6,8.4,1,High School,Yes,Yes,Yes,10,94.3,Distinction
+STU_12121,20.1,80.1,82.4,6.3,1,Master's,Yes,Yes,No,6,100.0,Distinction
+STU_12122,14.9,82.4,80.4,7.6,2,Bachelor's,Yes,Yes,No,10,96.9,Distinction
+STU_12123,13.3,81.3,89.7,6.6,3,Master's,Yes,Yes,Yes,1,100.0,Distinction
+STU_12124,15.1,85.9,82.9,7.0,1,Doctorate,Yes,Yes,Yes,3,100.0,Distinction
+STU_12125,18.6,65.2,85.1,7.4,1,Some College,Yes,Yes,No,9,77.7,Merit
+STU_12126,7.3,67.2,64.0,7.2,0,High School,Yes,No,Yes,9,69.6,Pass
+STU_12127,22.2,45.0,81.6,8.1,0,High School,Yes,Yes,No,6,88.1,Distinction
+STU_12128,19.6,61.2,95.6,7.8,4,Some College,Yes,No,Yes,3,100.0,Distinction
+STU_12129,19.7,89.7,63.7,5.4,0,High School,Yes,Yes,No,8,87.1,Distinction
+STU_12130,17.9,86.3,93.6,5.6,3,Bachelor's,Yes,No,No,6,100.0,Distinction
+STU_12131,15.1,53.4,65.4,6.8,2,Some College,Yes,No,No,1,84.1,Merit
+STU_12132,19.4,86.5,61.8,9.4,2,Doctorate,Yes,No,No,6,95.5,Distinction
+STU_12133,18.8,69.4,75.6,6.2,4,Bachelor's,Yes,No,Yes,5,94.2,Distinction
+STU_12134,12.7,91.6,80.6,7.0,2,High School,Yes,Yes,Yes,8,100.0,Distinction
+STU_12135,11.3,84.2,82.9,6.6,3,Some College,No,Yes,No,2,97.4,Distinction
+STU_12136,15.7,90.4,60.5,6.5,0,Some College,Yes,Yes,No,7,90.5,Distinction
+STU_12137,25.1,86.4,77.2,7.4,2,Some College,Yes,Yes,Yes,6,100.0,Distinction
+STU_12138,6.9,77.5,63.8,8.9,2,Some College,Yes,Yes,No,1,88.2,Distinction
+STU_12139,5.5,84.9,54.1,7.7,0,High School,Yes,No,No,8,71.3,Merit
+STU_12140,16.1,78.8,60.9,6.2,2,Bachelor's,No,Yes,No,6,85.3,Distinction
+STU_12141,15.3,72.3,63.0,10.0,2,Some College,No,Yes,Yes,3,76.7,Merit
+STU_12142,16.1,82.6,78.3,7.3,3,Bachelor's,Yes,Yes,No,5,100.0,Distinction
+STU_12143,16.6,66.0,85.8,6.5,0,Bachelor's,Yes,No,Yes,7,95.0,Distinction
+STU_12144,13.5,65.4,54.3,8.9,2,High School,Yes,No,No,9,69.5,Pass
+STU_12145,24.7,83.1,76.2,6.6,0,High School,Yes,Yes,Yes,4,100.0,Distinction
+STU_12146,4.6,79.3,57.9,9.2,2,Bachelor's,Yes,Yes,No,2,79.1,Merit
+STU_12147,9.6,85.8,79.5,6.2,1,Doctorate,Yes,Yes,Yes,3,100.0,Distinction
+STU_12148,14.3,76.2,64.5,8.9,1,Some College,Yes,No,Yes,7,100.0,Distinction
+STU_12149,4.3,45.0,59.4,7.4,1,Some College,No,Yes,Yes,8,63.4,Pass
+STU_12150,13.9,94.9,81.6,8.7,0,High School,No,No,Yes,5,99.2,Distinction
+STU_12151,25.8,94.8,65.0,9.5,0,Some College,Yes,Yes,No,3,97.8,Distinction
+STU_12152,15.1,75.2,68.2,5.8,0,Some College,Yes,Yes,Yes,1,87.5,Distinction
+STU_12153,16.5,86.5,45.4,8.7,2,Some College,Yes,No,No,10,74.0,Merit
+STU_12154,6.8,64.3,83.4,5.5,3,Bachelor's,Yes,No,No,1,86.6,Distinction
+STU_12155,11.0,97.1,81.9,5.9,0,Some College,Yes,No,No,2,99.2,Distinction
+STU_12156,12.6,74.1,72.1,6.2,0,High School,Yes,Yes,Yes,5,83.5,Merit
+STU_12157,12.9,93.7,53.7,7.8,1,Some College,Yes,No,Yes,3,96.5,Distinction
+STU_12158,23.3,70.1,86.5,7.2,2,Master's,Yes,Yes,Yes,7,100.0,Distinction
+STU_12159,18.6,82.0,64.0,7.0,0,Some College,Yes,Yes,No,2,97.5,Distinction
+STU_12160,7.8,82.0,66.6,7.4,0,Doctorate,No,Yes,Yes,2,91.6,Distinction
+STU_12161,16.6,90.1,99.0,7.9,0,Some College,Yes,Yes,No,3,100.0,Distinction
+STU_12162,18.2,96.7,63.6,8.0,1,Some College,Yes,No,Yes,1,96.2,Distinction
+STU_12163,22.4,89.9,80.9,8.5,0,High School,Yes,Yes,No,2,100.0,Distinction
+STU_12164,25.3,86.4,78.7,9.4,1,Bachelor's,Yes,No,Yes,5,100.0,Distinction
+STU_12165,8.4,95.0,76.7,7.2,2,Some College,Yes,Yes,Yes,3,100.0,Distinction
+STU_12166,9.7,52.9,75.4,6.6,2,Bachelor's,Yes,Yes,No,10,68.0,Pass
+STU_12167,6.8,75.9,76.5,7.9,0,Bachelor's,Yes,No,No,6,93.2,Distinction
+STU_12168,13.5,93.3,75.3,5.8,2,Bachelor's,Yes,No,No,2,95.4,Distinction
+STU_12169,18.0,64.0,71.4,6.4,1,High School,Yes,No,Yes,8,87.6,Distinction
+STU_12170,21.4,77.7,90.1,8.4,4,Bachelor's,Yes,No,No,4,100.0,Distinction
+STU_12171,14.5,73.6,56.2,7.1,0,Some College,Yes,Yes,No,3,82.2,Merit
+STU_12172,12.9,80.8,84.3,5.8,2,Some College,Yes,No,Yes,5,100.0,Distinction
+STU_12173,16.0,82.1,81.9,5.4,2,Some College,Yes,No,Yes,8,91.5,Distinction
+STU_12174,9.6,79.6,80.4,7.3,0,Bachelor's,Yes,Yes,No,9,87.7,Distinction
+STU_12175,28.6,83.2,85.4,8.6,3,High School,Yes,No,No,1,100.0,Distinction
+STU_12176,4.6,88.8,70.9,8.6,1,Some College,Yes,No,No,4,90.4,Distinction
+STU_12177,16.2,55.4,49.6,7.3,2,Some College,No,Yes,No,6,76.8,Merit
+STU_12178,28.2,80.6,71.1,9.6,0,Some College,Yes,No,Yes,6,99.3,Distinction
+STU_12179,15.0,62.3,60.1,7.1,0,High School,Yes,Yes,No,9,66.0,Pass
+STU_12180,13.8,84.0,63.2,7.0,1,High School,Yes,No,No,1,89.1,Distinction
+STU_12181,12.7,79.9,57.1,4.1,0,High School,Yes,Yes,No,5,65.0,Pass
+STU_12182,13.8,84.3,66.3,6.7,1,Some College,Yes,Yes,No,10,85.9,Distinction
+STU_12183,23.9,81.4,64.8,8.2,1,Master's,Yes,No,No,1,98.0,Distinction
+STU_12184,2.0,65.1,43.5,9.1,2,High School,Yes,Yes,Yes,6,59.5,Pass
+STU_12185,25.0,85.7,80.4,6.2,1,Some College,Yes,Yes,Yes,9,100.0,Distinction
+STU_12186,5.7,62.5,98.6,7.8,0,Some College,Yes,No,Yes,4,91.3,Distinction
+STU_12187,13.3,79.3,79.3,8.5,2,Bachelor's,Yes,No,No,10,92.1,Distinction
+STU_12188,12.2,92.5,69.6,7.2,1,High School,Yes,No,Yes,10,84.7,Merit
+STU_12189,18.8,86.3,71.3,4.5,0,High School,Yes,Yes,No,9,77.7,Merit
+STU_12190,4.6,80.5,66.9,7.5,0,High School,Yes,Yes,Yes,3,81.2,Merit
+STU_12191,18.0,80.7,73.1,8.1,0,Doctorate,Yes,No,Yes,7,100.0,Distinction
+STU_12192,28.2,71.5,71.6,6.1,0,Bachelor's,Yes,No,No,5,91.0,Distinction
+STU_12193,6.1,45.0,61.9,6.9,4,High School,Yes,Yes,No,10,61.3,Pass
+STU_12194,16.2,85.0,92.2,5.8,1,Some College,Yes,No,Yes,1,99.8,Distinction
+STU_12195,10.7,86.8,54.2,4.1,0,High School,Yes,Yes,No,7,65.5,Pass
+STU_12196,17.8,56.6,80.6,8.4,0,High School,Yes,Yes,No,8,77.7,Merit
+STU_12197,15.1,81.9,70.8,7.2,0,Bachelor's,Yes,Yes,Yes,6,96.2,Distinction
+STU_12198,10.8,88.4,94.8,9.1,1,Some College,Yes,Yes,Yes,1,96.7,Distinction
+STU_12199,18.2,54.8,76.1,8.2,0,Bachelor's,Yes,Yes,No,9,77.0,Merit
+STU_12200,26.7,87.9,67.7,6.8,1,Some College,Yes,No,Yes,7,100.0,Distinction
+STU_12201,13.8,59.3,69.0,7.1,1,Bachelor's,Yes,Yes,No,6,88.4,Distinction
+STU_12202,19.7,65.1,72.5,7.9,3,Some College,Yes,No,No,4,95.1,Distinction
+STU_12203,6.6,71.2,58.3,8.4,0,Some College,Yes,No,Yes,3,75.3,Merit
+STU_12204,8.8,82.0,62.8,7.6,1,Bachelor's,No,No,Yes,4,87.5,Distinction
+STU_12205,18.1,78.7,50.6,8.5,2,High School,Yes,Yes,Yes,1,91.4,Distinction
+STU_12206,24.6,85.0,60.9,6.8,1,Bachelor's,Yes,Yes,No,9,98.8,Distinction
+STU_12207,17.3,83.4,73.1,6.0,2,Master's,Yes,No,No,2,97.7,Distinction
+STU_12208,13.0,96.2,75.6,7.1,2,High School,Yes,Yes,No,2,100.0,Distinction
+STU_12209,15.0,72.9,48.2,7.4,1,Master's,Yes,No,Yes,3,87.7,Distinction
+STU_12210,6.9,68.6,70.4,5.8,1,High School,Yes,Yes,Yes,1,74.8,Merit
+STU_12211,18.9,45.0,78.8,5.6,4,Some College,Yes,Yes,Yes,10,75.4,Merit
+STU_12212,20.7,64.4,70.0,7.7,2,Bachelor's,No,No,Yes,3,86.1,Distinction
+STU_12213,12.1,88.1,64.4,6.7,3,Bachelor's,No,No,No,4,95.3,Distinction
+STU_12214,11.9,91.4,67.1,7.0,0,High School,Yes,Yes,No,9,83.3,Merit
+STU_12215,16.7,85.9,65.5,6.8,1,Bachelor's,Yes,Yes,No,5,97.4,Distinction
+STU_12216,12.2,94.6,64.4,9.0,3,Doctorate,Yes,No,No,6,100.0,Distinction
+STU_12217,14.6,65.7,74.1,8.7,0,High School,Yes,Yes,Yes,1,85.0,Distinction
+STU_12218,28.6,72.2,99.0,5.7,4,Master's,Yes,Yes,Yes,3,100.0,Distinction
+STU_12219,13.4,67.4,63.1,6.6,0,Bachelor's,No,Yes,Yes,7,81.1,Merit
+STU_12220,12.7,90.5,68.2,8.2,3,Master's,Yes,Yes,Yes,7,100.0,Distinction
+STU_12221,10.8,84.6,71.4,7.9,1,High School,Yes,No,No,10,72.2,Merit
+STU_12222,19.8,68.4,63.8,7.2,0,Bachelor's,Yes,Yes,Yes,1,90.9,Distinction
+STU_12223,13.8,78.7,85.2,5.8,3,High School,Yes,No,No,9,86.0,Distinction
+STU_12224,10.8,88.4,43.5,6.4,0,Master's,Yes,No,No,1,83.9,Merit
+STU_12225,23.6,95.6,65.6,6.6,0,Bachelor's,Yes,No,Yes,7,100.0,Distinction
+STU_12226,24.2,84.4,81.8,7.5,0,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_12227,11.1,89.9,68.5,9.2,2,High School,Yes,Yes,No,9,83.4,Merit
+STU_12228,2.9,93.8,62.1,6.4,5,Bachelor's,Yes,No,Yes,9,85.3,Distinction
+STU_12229,21.5,45.0,77.3,6.0,0,Bachelor's,Yes,Yes,No,9,70.9,Merit
+STU_12230,10.5,85.0,82.9,7.1,1,Some College,No,No,Yes,4,93.5,Distinction
+STU_12231,20.1,78.6,74.5,8.4,0,Some College,Yes,Yes,No,6,95.9,Distinction
+STU_12232,2.2,80.9,62.4,5.5,2,Bachelor's,Yes,No,Yes,2,74.9,Merit
+STU_12233,20.8,77.0,77.5,8.9,0,Some College,Yes,No,Yes,3,97.3,Distinction
+STU_12234,7.1,71.3,67.2,7.0,0,High School,Yes,Yes,No,6,84.3,Merit
+STU_12235,19.7,72.7,80.9,6.3,0,Master's,Yes,Yes,No,1,95.7,Distinction
+STU_12236,15.1,45.0,89.8,5.3,1,Some College,Yes,Yes,Yes,7,81.7,Merit
+STU_12237,8.8,54.9,40.7,8.0,3,Some College,Yes,Yes,Yes,2,76.9,Merit
+STU_12238,12.4,69.7,73.3,7.0,1,High School,Yes,Yes,Yes,8,87.9,Distinction
+STU_12239,19.5,83.6,51.2,7.4,0,Master's,Yes,No,Yes,5,90.2,Distinction
+STU_12240,15.7,67.8,99.0,6.1,1,High School,Yes,Yes,No,7,95.3,Distinction
+STU_12241,18.8,60.0,66.4,6.8,2,Bachelor's,Yes,Yes,No,8,86.4,Distinction
+STU_12242,27.8,56.9,81.0,6.6,0,Master's,Yes,Yes,No,3,95.3,Distinction
+STU_12243,4.8,76.8,71.6,7.1,0,High School,Yes,Yes,No,6,88.2,Distinction
+STU_12244,25.5,78.6,62.4,6.4,0,Bachelor's,Yes,Yes,No,9,87.4,Distinction
+STU_12245,15.7,65.6,60.9,5.4,2,Some College,Yes,No,No,4,81.3,Merit
+STU_12246,9.2,87.9,91.0,10.0,1,Bachelor's,Yes,No,No,10,81.3,Merit
+STU_12247,6.4,56.0,83.5,5.6,1,Some College,Yes,Yes,Yes,7,77.1,Merit
+STU_12248,13.8,84.4,95.3,7.4,0,Bachelor's,Yes,Yes,No,1,100.0,Distinction
+STU_12249,21.0,90.2,72.7,5.1,0,Some College,Yes,No,No,7,87.5,Distinction
+STU_12250,14.2,72.3,75.5,4.8,4,High School,Yes,Yes,No,9,80.2,Merit
+STU_12251,24.8,52.3,68.8,7.3,0,Master's,Yes,Yes,No,10,79.7,Merit
+STU_12252,5.6,73.0,68.6,7.4,3,High School,Yes,No,Yes,8,81.1,Merit
+STU_12253,14.9,79.1,59.5,8.7,1,Bachelor's,No,Yes,No,4,89.2,Distinction
+STU_12254,6.9,87.1,73.0,7.7,0,High School,Yes,Yes,No,3,92.7,Distinction
+STU_12255,17.4,56.3,62.5,7.0,1,Some College,Yes,No,Yes,7,85.3,Distinction
+STU_12256,20.8,89.8,77.3,6.1,4,Bachelor's,Yes,Yes,Yes,1,100.0,Distinction
+STU_12257,12.3,95.2,74.0,9.0,1,High School,Yes,No,Yes,8,95.3,Distinction
+STU_12258,2.0,55.5,75.5,8.3,3,Master's,Yes,Yes,No,1,78.7,Merit
+STU_12259,16.3,61.1,92.1,5.7,0,Some College,Yes,No,No,7,82.5,Merit
+STU_12260,17.8,70.3,71.5,7.2,1,Some College,Yes,Yes,No,6,96.3,Distinction
+STU_12261,17.6,63.6,81.1,7.4,3,Bachelor's,Yes,Yes,No,10,87.8,Distinction
+STU_12262,23.0,68.8,96.6,6.8,4,Some College,Yes,No,No,8,100.0,Distinction
+STU_12263,8.0,86.0,87.7,8.1,1,Some College,Yes,No,No,6,100.0,Distinction
+STU_12264,19.4,55.6,85.8,8.2,2,Bachelor's,Yes,Yes,Yes,5,100.0,Distinction
+STU_12265,22.8,90.9,68.3,7.0,0,Some College,Yes,No,Yes,9,92.9,Distinction
+STU_12266,3.4,66.7,74.8,6.9,0,High School,Yes,Yes,No,4,80.1,Merit
+STU_12267,17.1,86.0,56.2,9.0,0,Bachelor's,Yes,No,Yes,7,92.9,Distinction
+STU_12268,11.7,51.1,78.0,8.3,0,Bachelor's,Yes,No,Yes,6,80.8,Merit
+STU_12269,14.5,81.1,75.3,7.3,0,Some College,Yes,Yes,Yes,10,87.7,Distinction
+STU_12270,17.3,96.9,72.3,5.2,0,Some College,Yes,Yes,Yes,6,88.9,Distinction
+STU_12271,11.8,79.5,84.3,7.6,4,Bachelor's,Yes,Yes,No,5,100.0,Distinction
+STU_12272,10.6,54.6,57.5,8.0,2,Some College,Yes,No,No,2,75.3,Merit
+STU_12273,15.2,57.4,91.6,4.0,1,Some College,No,Yes,No,4,67.1,Pass
+STU_12274,7.9,58.9,82.8,7.5,5,Doctorate,Yes,No,No,1,100.0,Distinction
+STU_12275,7.9,96.7,71.2,6.7,0,High School,Yes,Yes,No,9,81.4,Merit
+STU_12276,19.4,98.1,70.2,6.9,1,Bachelor's,Yes,No,No,9,100.0,Distinction
+STU_12277,7.5,73.7,77.8,6.1,2,Master's,Yes,No,Yes,8,83.2,Merit
+STU_12278,19.3,66.6,90.3,7.0,0,Bachelor's,Yes,No,No,4,90.7,Distinction
+STU_12279,18.0,63.1,73.2,8.9,2,Master's,Yes,No,Yes,5,94.6,Distinction
+STU_12280,3.8,76.3,73.7,6.7,0,Some College,Yes,Yes,No,1,88.4,Distinction
+STU_12281,10.6,81.2,72.2,8.4,0,Some College,Yes,Yes,No,4,93.4,Distinction
+STU_12282,22.8,96.9,93.4,6.2,0,Master's,Yes,No,Yes,4,100.0,Distinction
+STU_12283,8.6,72.7,67.6,8.1,4,Some College,Yes,Yes,Yes,5,89.0,Distinction
+STU_12284,12.0,88.6,71.6,7.2,2,Bachelor's,Yes,No,Yes,2,100.0,Distinction
+STU_12285,18.0,72.3,89.6,7.6,2,High School,Yes,No,Yes,2,98.6,Distinction
+STU_12286,20.1,82.7,73.8,7.2,1,Bachelor's,Yes,No,No,2,100.0,Distinction
+STU_12287,13.4,64.3,85.6,8.0,0,Some College,Yes,Yes,No,8,87.3,Distinction
+STU_12288,11.1,77.6,61.1,4.1,2,Some College,Yes,Yes,No,2,69.3,Pass
+STU_12289,24.2,83.3,69.5,5.5,1,Some College,No,No,No,6,88.2,Distinction
+STU_12290,26.3,86.8,89.8,7.7,0,Bachelor's,Yes,Yes,Yes,2,100.0,Distinction
+STU_12291,21.4,88.0,63.9,4.7,2,High School,Yes,No,Yes,8,81.4,Merit
+STU_12292,15.6,86.4,70.2,6.6,0,Bachelor's,No,Yes,No,1,91.5,Distinction
+STU_12293,9.7,77.8,75.1,7.1,0,Some College,Yes,Yes,No,2,94.2,Distinction
+STU_12294,9.6,84.7,60.1,6.2,3,High School,No,Yes,No,5,81.8,Merit
+STU_12295,18.4,75.8,67.0,6.4,2,Bachelor's,Yes,No,Yes,6,100.0,Distinction
+STU_12296,17.7,84.1,73.4,7.5,2,Some College,Yes,Yes,No,9,94.0,Distinction
+STU_12297,24.1,79.6,72.6,8.4,1,Some College,Yes,No,No,6,97.6,Distinction
+STU_12298,19.2,84.4,87.4,6.0,1,Some College,Yes,No,No,8,99.4,Distinction
+STU_12299,5.2,84.1,90.5,6.5,2,Bachelor's,No,No,No,7,90.3,Distinction
+STU_12300,21.8,65.0,61.7,6.3,2,Master's,Yes,No,No,1,88.1,Distinction
+STU_12301,8.5,80.2,73.3,4.3,1,High School,Yes,Yes,Yes,2,75.9,Merit
+STU_12302,12.5,85.9,80.1,7.4,4,Some College,Yes,No,No,4,100.0,Distinction
+STU_12303,16.6,63.1,90.2,8.3,4,High School,Yes,Yes,Yes,1,100.0,Distinction
+STU_12304,28.0,84.8,80.6,8.4,1,Bachelor's,Yes,No,No,8,100.0,Distinction
+STU_12305,35.2,90.0,75.5,6.2,3,Some College,Yes,No,No,4,100.0,Distinction
+STU_12306,18.9,83.9,80.0,5.7,1,Bachelor's,Yes,Yes,No,7,93.9,Distinction
+STU_12307,13.8,59.9,80.1,7.2,1,Some College,Yes,Yes,Yes,7,88.6,Distinction
+STU_12308,18.5,66.1,60.9,8.2,0,Master's,Yes,No,Yes,8,79.7,Merit
+STU_12309,20.8,76.9,74.3,7.4,1,Some College,Yes,Yes,No,9,90.8,Distinction
+STU_12310,12.9,98.2,89.5,7.5,3,Master's,Yes,No,Yes,9,100.0,Distinction
+STU_12311,26.7,83.1,69.5,8.6,2,High School,No,Yes,No,7,100.0,Distinction
+STU_12312,16.5,73.3,73.6,6.3,2,Some College,Yes,No,Yes,9,82.4,Merit
+STU_12313,18.2,85.6,69.1,6.9,0,Bachelor's,Yes,Yes,No,5,100.0,Distinction
+STU_12314,19.3,74.5,44.2,9.2,1,Bachelor's,Yes,No,Yes,10,66.0,Pass
+STU_12315,17.7,73.0,72.2,7.0,0,High School,No,Yes,No,4,89.9,Distinction
+STU_12316,20.5,79.0,75.6,5.7,0,Doctorate,Yes,Yes,Yes,3,100.0,Distinction
+STU_12317,11.0,81.0,65.9,6.4,1,Some College,Yes,Yes,No,6,95.3,Distinction
+STU_12318,11.4,95.7,58.1,6.1,1,High School,No,Yes,Yes,10,70.3,Merit
+STU_12319,7.8,85.4,61.4,7.6,1,Some College,Yes,Yes,No,9,87.0,Distinction
+STU_12320,17.9,59.2,81.2,6.1,1,Some College,Yes,No,No,4,86.6,Distinction
+STU_12321,20.1,86.0,95.7,7.5,0,Bachelor's,Yes,Yes,Yes,2,100.0,Distinction
+STU_12322,18.0,96.3,88.6,6.3,0,Some College,Yes,No,No,3,100.0,Distinction
+STU_12323,25.9,89.9,55.9,4.7,3,Some College,Yes,Yes,No,3,87.2,Distinction
+STU_12324,15.0,81.6,82.3,7.6,0,Some College,Yes,Yes,Yes,2,100.0,Distinction
+STU_12325,19.3,51.3,64.0,7.4,0,Some College,Yes,Yes,No,9,71.0,Merit
+STU_12326,7.9,92.1,65.0,7.8,3,Master's,Yes,No,No,4,100.0,Distinction
+STU_12327,12.5,87.7,66.5,6.4,5,Master's,No,Yes,Yes,3,100.0,Distinction
+STU_12328,19.5,45.0,80.5,6.3,2,Some College,Yes,Yes,Yes,10,73.1,Merit
+STU_12329,20.5,87.3,83.5,7.7,0,High School,Yes,Yes,No,6,100.0,Distinction
+STU_12330,13.1,63.8,70.8,9.0,0,Master's,No,Yes,No,8,76.7,Merit
+STU_12331,14.5,59.9,71.0,7.2,5,High School,Yes,Yes,No,8,84.4,Merit
+STU_12332,5.1,77.5,77.6,7.7,3,High School,Yes,Yes,No,10,84.0,Merit
+STU_12333,12.7,80.5,78.8,6.8,1,High School,Yes,Yes,Yes,6,100.0,Distinction
+STU_12334,20.8,70.3,86.1,5.3,0,High School,Yes,No,Yes,5,87.1,Distinction
+STU_12335,18.7,92.7,56.6,8.4,0,Bachelor's,Yes,Yes,No,7,94.4,Distinction
+STU_12336,18.3,84.2,72.2,8.3,0,Bachelor's,Yes,Yes,No,3,92.4,Distinction
+STU_12337,15.3,69.0,59.2,8.1,2,Master's,Yes,Yes,Yes,10,85.9,Distinction
+STU_12338,15.0,89.6,71.4,7.0,0,High School,Yes,No,No,2,95.0,Distinction
+STU_12339,10.7,52.1,69.3,7.9,5,Some College,Yes,Yes,No,8,88.3,Distinction
+STU_12340,19.5,69.7,71.4,8.3,0,Doctorate,Yes,No,No,9,82.5,Merit
+STU_12341,17.7,83.0,62.4,9.1,2,Bachelor's,Yes,No,Yes,6,98.2,Distinction
+STU_12342,18.2,74.1,54.2,8.4,0,Bachelor's,Yes,No,Yes,4,88.9,Distinction
+STU_12343,11.6,81.7,46.9,7.3,1,High School,Yes,Yes,No,6,84.8,Merit
+STU_12344,2.0,67.1,70.4,5.6,0,Bachelor's,No,Yes,No,7,54.8,Pass
+STU_12345,22.1,64.0,66.8,7.4,2,Some College,No,Yes,Yes,8,84.2,Merit
+STU_12346,11.9,87.5,63.9,7.5,1,Some College,Yes,No,No,3,90.4,Distinction
+STU_12347,9.4,80.6,87.9,8.1,0,Bachelor's,No,No,Yes,6,93.3,Distinction
+STU_12348,19.5,88.1,61.7,8.8,3,Bachelor's,No,Yes,Yes,10,84.2,Merit
+STU_12349,12.5,87.7,89.0,7.1,1,Bachelor's,Yes,No,Yes,6,100.0,Distinction
+STU_12350,21.9,96.2,91.5,9.7,4,Bachelor's,Yes,Yes,Yes,10,100.0,Distinction
+STU_12351,19.0,73.6,48.6,5.1,3,High School,No,Yes,No,7,66.7,Pass
+STU_12352,19.4,59.8,73.1,7.7,4,Some College,Yes,Yes,No,4,98.2,Distinction
+STU_12353,6.1,79.3,67.2,6.2,0,Bachelor's,Yes,Yes,Yes,6,89.8,Distinction
+STU_12354,22.9,49.4,38.0,4.9,0,Some College,Yes,No,No,2,54.7,Pass
+STU_12355,16.7,87.1,54.7,7.0,5,Some College,Yes,No,No,8,97.1,Distinction
+STU_12356,12.6,89.0,81.3,5.5,1,High School,Yes,No,Yes,3,96.8,Distinction
+STU_12357,15.9,63.7,96.2,7.0,0,Some College,Yes,Yes,No,9,87.6,Distinction
+STU_12358,3.5,91.7,82.8,7.2,2,Doctorate,Yes,No,No,8,90.0,Distinction
+STU_12359,17.7,49.4,75.9,8.5,0,Some College,Yes,No,No,6,83.4,Merit
+STU_12360,8.3,78.9,71.7,5.4,2,Some College,No,Yes,No,10,68.5,Pass
+STU_12361,6.2,82.7,92.2,8.3,3,Bachelor's,Yes,Yes,Yes,2,100.0,Distinction
+STU_12362,5.1,97.2,97.8,7.3,2,High School,Yes,No,Yes,8,100.0,Distinction
+STU_12363,22.2,71.1,65.0,8.4,0,Master's,Yes,No,No,6,85.3,Distinction
+STU_12364,10.9,57.2,48.0,6.7,1,Some College,Yes,No,No,1,72.2,Merit
+STU_12365,25.0,92.8,46.8,5.6,1,Master's,No,Yes,Yes,6,93.3,Distinction
+STU_12366,11.5,87.8,87.9,5.7,1,High School,Yes,Yes,Yes,5,100.0,Distinction
+STU_12367,3.9,92.7,71.4,5.6,0,High School,Yes,No,No,6,82.7,Merit
+STU_12368,7.7,82.4,74.2,7.8,1,Some College,Yes,No,Yes,1,95.7,Distinction
+STU_12369,23.0,74.1,50.5,9.0,1,Some College,Yes,Yes,Yes,4,89.6,Distinction
+STU_12370,14.0,58.2,63.0,6.5,1,Master's,Yes,No,Yes,7,85.1,Distinction
+STU_12371,11.4,77.5,68.5,8.0,3,High School,Yes,No,Yes,5,97.6,Distinction
+STU_12372,16.0,66.6,74.5,5.4,1,Bachelor's,Yes,No,Yes,6,89.3,Distinction
+STU_12373,18.3,91.8,67.2,7.4,0,High School,Yes,No,No,2,95.2,Distinction
+STU_12374,22.3,97.4,59.6,8.0,2,Bachelor's,No,Yes,Yes,8,97.0,Distinction
+STU_12375,24.4,93.0,62.6,5.5,2,Bachelor's,Yes,No,No,10,87.1,Distinction
+STU_12376,12.7,84.7,86.5,7.0,0,Some College,Yes,Yes,No,4,98.7,Distinction
+STU_12377,6.4,83.4,74.9,8.1,2,High School,Yes,No,No,6,88.9,Distinction
+STU_12378,12.3,81.8,79.3,4.0,0,Bachelor's,Yes,Yes,No,3,73.9,Merit
+STU_12379,16.7,75.9,61.2,8.8,0,High School,Yes,No,No,9,79.8,Merit
+STU_12380,8.7,60.5,38.0,7.6,3,High School,No,No,Yes,8,71.0,Merit
+STU_12381,8.8,67.6,65.7,8.1,3,Bachelor's,Yes,No,Yes,6,94.2,Distinction
+STU_12382,17.2,88.9,61.6,6.7,1,Doctorate,Yes,No,Yes,9,95.3,Distinction
+STU_12383,14.7,48.3,76.2,5.1,2,Master's,Yes,Yes,Yes,10,73.4,Merit
+STU_12384,15.2,76.6,99.0,7.8,3,Bachelor's,Yes,No,No,9,100.0,Distinction
+STU_12385,10.1,55.3,80.3,7.1,4,Some College,Yes,Yes,No,2,90.6,Distinction
+STU_12386,13.5,98.1,99.0,7.2,1,Doctorate,Yes,Yes,No,9,100.0,Distinction
+STU_12387,9.0,79.6,78.8,8.5,1,Some College,Yes,No,No,8,88.5,Distinction
+STU_12388,20.8,93.9,64.4,8.1,1,Some College,Yes,No,No,2,98.1,Distinction
+STU_12389,21.7,88.2,76.2,9.5,0,Master's,Yes,No,Yes,9,91.6,Distinction
+STU_12390,3.0,80.7,93.4,7.4,1,High School,Yes,Yes,No,5,88.1,Distinction
+STU_12391,9.0,76.0,94.0,6.4,2,High School,Yes,No,No,9,88.7,Distinction
+STU_12392,5.3,69.8,65.1,7.0,3,Bachelor's,Yes,No,Yes,3,86.1,Distinction
+STU_12393,10.8,75.2,75.0,7.7,3,High School,Yes,No,No,4,97.6,Distinction
+STU_12394,14.5,87.9,54.8,8.4,0,Some College,Yes,No,No,1,95.3,Distinction
+STU_12395,5.6,79.5,81.9,5.4,1,Some College,Yes,Yes,No,5,86.9,Distinction
+STU_12396,9.0,97.0,90.6,7.2,0,Some College,Yes,No,No,7,100.0,Distinction
+STU_12397,8.5,85.8,72.5,9.1,0,Doctorate,Yes,No,No,7,85.9,Distinction
+STU_12398,16.3,47.6,64.0,6.9,3,High School,Yes,Yes,Yes,6,88.4,Distinction
+STU_12399,15.5,46.4,76.3,8.3,1,Some College,Yes,Yes,No,6,85.3,Distinction
+STU_12400,10.3,73.9,77.0,7.8,2,High School,Yes,No,No,8,85.6,Distinction
+STU_12401,16.1,61.4,73.0,8.3,0,Bachelor's,No,Yes,No,10,65.3,Pass
+STU_12402,11.4,72.8,74.1,6.2,1,Bachelor's,Yes,Yes,No,9,81.4,Merit
+STU_12403,13.2,79.1,69.9,6.2,2,Some College,No,Yes,No,4,98.2,Distinction
+STU_12404,25.9,78.5,84.0,7.2,0,High School,Yes,Yes,Yes,4,100.0,Distinction
+STU_12405,23.7,51.5,80.8,5.4,0,Bachelor's,Yes,No,No,8,76.6,Merit
+STU_12406,6.6,56.7,60.2,6.9,0,Some College,Yes,Yes,No,5,73.0,Merit
+STU_12407,20.4,76.2,59.9,7.5,2,High School,Yes,Yes,No,10,85.5,Distinction
+STU_12408,20.3,77.3,68.9,9.3,5,Some College,Yes,No,No,9,98.1,Distinction
+STU_12409,7.5,79.1,80.8,7.7,3,Some College,Yes,Yes,No,6,99.8,Distinction
+STU_12410,20.3,84.9,73.8,8.0,5,Doctorate,Yes,No,Yes,9,100.0,Distinction
+STU_12411,25.0,64.7,64.3,8.6,3,Master's,Yes,No,No,4,96.4,Distinction
+STU_12412,7.7,76.7,75.1,6.0,3,Bachelor's,No,No,No,1,87.9,Distinction
+STU_12413,9.0,62.6,68.0,7.0,1,Master's,Yes,No,No,4,85.5,Distinction
+STU_12414,21.6,88.5,82.6,10.0,1,Bachelor's,Yes,Yes,Yes,9,97.5,Distinction
+STU_12415,16.8,86.8,76.0,7.1,1,Master's,No,Yes,No,7,97.0,Distinction
+STU_12416,18.6,88.0,68.2,8.5,3,High School,Yes,Yes,No,6,100.0,Distinction
+STU_12417,17.2,72.7,74.8,8.4,0,Some College,Yes,Yes,No,2,93.2,Distinction
+STU_12418,17.5,64.4,87.8,5.4,0,Bachelor's,Yes,Yes,No,4,88.3,Distinction
+STU_12419,6.4,62.3,65.2,7.6,4,Bachelor's,Yes,Yes,No,1,89.0,Distinction
+STU_12420,21.8,85.8,76.8,7.4,0,High School,Yes,No,Yes,3,100.0,Distinction
+STU_12421,22.6,76.3,71.2,7.6,5,Some College,Yes,Yes,No,2,100.0,Distinction
+STU_12422,13.5,61.8,77.1,6.3,2,Some College,Yes,Yes,Yes,4,90.8,Distinction
+STU_12423,14.7,51.8,64.1,5.9,0,Some College,Yes,Yes,Yes,4,76.5,Merit
+STU_12424,5.0,85.8,73.3,6.6,2,Some College,Yes,Yes,Yes,9,81.9,Merit
+STU_12425,18.3,85.4,85.3,7.1,3,Some College,Yes,No,No,7,100.0,Distinction
+STU_12426,18.7,78.0,60.8,8.6,0,Master's,Yes,No,Yes,3,96.3,Distinction
+STU_12427,14.6,97.9,56.0,9.4,2,Bachelor's,Yes,No,Yes,7,100.0,Distinction
+STU_12428,22.3,75.2,56.5,8.9,3,Master's,Yes,No,Yes,8,93.2,Distinction
+STU_12429,12.8,73.9,58.0,8.2,0,Master's,Yes,No,No,7,86.8,Distinction
+STU_12430,18.7,90.8,79.1,6.0,0,Some College,Yes,No,No,8,94.9,Distinction
+STU_12431,8.4,79.6,55.1,6.7,0,Some College,Yes,Yes,Yes,9,80.1,Merit
+STU_12432,14.8,73.4,68.4,7.5,0,High School,No,Yes,No,1,80.1,Merit
+STU_12433,13.9,74.3,79.4,6.4,0,Master's,Yes,No,Yes,10,75.1,Merit
+STU_12434,16.5,59.9,77.0,7.9,2,High School,Yes,Yes,Yes,6,93.0,Distinction
+STU_12435,12.6,77.9,67.4,8.1,1,Bachelor's,No,Yes,Yes,4,95.9,Distinction
+STU_12436,14.1,78.7,74.3,7.8,3,Some College,Yes,Yes,Yes,1,100.0,Distinction
+STU_12437,20.4,83.5,73.3,8.4,0,Master's,Yes,Yes,No,2,100.0,Distinction
+STU_12438,12.2,79.9,69.3,6.1,1,Some College,Yes,No,Yes,10,85.8,Distinction
+STU_12439,4.6,94.7,69.5,8.3,2,Bachelor's,Yes,Yes,No,4,92.8,Distinction
+STU_12440,26.4,69.2,98.8,6.4,3,Some College,Yes,Yes,No,1,100.0,Distinction
+STU_12441,24.0,76.0,81.7,6.1,1,Some College,Yes,Yes,Yes,6,100.0,Distinction
+STU_12442,6.6,82.9,99.0,7.8,1,Bachelor's,Yes,No,Yes,1,100.0,Distinction
+STU_12443,19.5,83.4,66.0,8.7,3,Doctorate,Yes,No,No,9,96.0,Distinction
+STU_12444,11.7,95.9,71.0,7.8,0,Some College,Yes,Yes,Yes,10,88.2,Distinction
+STU_12445,16.7,74.4,56.0,7.2,0,Master's,Yes,No,Yes,3,87.7,Distinction
+STU_12446,16.9,86.4,62.3,7.6,1,Bachelor's,Yes,Yes,Yes,1,100.0,Distinction
+STU_12447,13.5,67.6,94.8,7.4,2,Bachelor's,Yes,No,No,6,100.0,Distinction
+STU_12448,9.9,87.0,65.7,5.8,0,Some College,Yes,No,No,6,81.7,Merit
+STU_12449,10.5,83.3,95.0,5.7,1,Some College,No,No,Yes,7,91.1,Distinction
+STU_12450,9.0,94.5,57.1,7.1,1,High School,Yes,Yes,Yes,7,91.5,Distinction
+STU_12451,9.6,84.0,59.4,7.3,4,Doctorate,Yes,Yes,Yes,10,87.8,Distinction
+STU_12452,14.6,78.5,67.9,7.2,0,Master's,Yes,Yes,Yes,4,100.0,Distinction
+STU_12453,10.3,80.1,71.2,8.0,0,Bachelor's,Yes,Yes,No,5,94.5,Distinction
+STU_12454,19.4,82.3,83.1,6.9,1,Some College,Yes,Yes,No,3,100.0,Distinction
+STU_12455,24.7,70.8,77.4,7.9,1,High School,Yes,Yes,Yes,6,98.3,Distinction
+STU_12456,11.2,71.0,67.0,7.0,2,Doctorate,Yes,Yes,Yes,7,100.0,Distinction
+STU_12457,16.6,83.7,70.4,9.4,2,High School,Yes,No,Yes,9,80.5,Merit
+STU_12458,18.2,82.3,68.2,7.3,2,Master's,No,Yes,Yes,9,90.4,Distinction
+STU_12459,18.1,89.2,61.0,10.0,3,Some College,Yes,No,No,5,94.1,Distinction
+STU_12460,15.5,52.0,61.3,7.6,4,Some College,Yes,No,Yes,4,89.6,Distinction
+STU_12461,19.8,75.0,84.3,6.9,1,Master's,Yes,No,Yes,7,100.0,Distinction
+STU_12462,18.1,79.7,50.1,6.1,5,High School,Yes,No,Yes,3,86.4,Distinction
+STU_12463,7.0,86.8,91.4,5.5,0,Some College,Yes,No,No,4,89.7,Distinction
+STU_12464,20.6,85.2,67.9,6.0,2,Master's,Yes,No,No,9,92.5,Distinction
+STU_12465,20.8,73.5,62.7,6.1,1,Bachelor's,Yes,Yes,Yes,5,94.1,Distinction
+STU_12466,10.0,85.5,80.9,7.7,3,Bachelor's,Yes,Yes,No,10,94.2,Distinction
+STU_12467,15.2,81.9,89.8,6.6,1,Bachelor's,Yes,No,Yes,7,100.0,Distinction
+STU_12468,19.4,70.1,85.4,7.4,2,High School,Yes,Yes,No,2,99.6,Distinction
+STU_12469,13.6,65.8,78.0,8.7,4,High School,Yes,Yes,No,9,81.3,Merit
+STU_12470,22.0,87.0,85.0,7.1,2,Some College,Yes,No,No,5,100.0,Distinction
+STU_12471,30.4,85.4,51.4,9.7,2,Some College,No,No,No,5,86.8,Distinction
+STU_12472,9.9,80.1,65.7,5.8,0,Some College,Yes,No,No,4,82.7,Merit
+STU_12473,6.0,93.3,61.1,7.0,0,Bachelor's,Yes,Yes,Yes,8,86.1,Distinction
+STU_12474,17.0,76.3,86.7,6.6,5,High School,Yes,No,No,4,100.0,Distinction
+STU_12475,19.7,87.5,67.4,8.3,2,Bachelor's,Yes,Yes,No,2,100.0,Distinction
+STU_12476,13.5,56.5,82.1,4.5,1,High School,Yes,No,No,5,72.3,Merit
+STU_12477,24.4,84.9,78.4,5.5,1,High School,Yes,Yes,Yes,3,100.0,Distinction
+STU_12478,6.3,75.8,61.7,7.1,0,Some College,Yes,No,Yes,4,85.8,Distinction
+STU_12479,19.5,76.2,65.0,9.1,1,Master's,Yes,Yes,Yes,3,100.0,Distinction
+STU_12480,11.1,57.9,87.5,7.5,1,High School,No,Yes,No,7,86.8,Distinction
+STU_12481,26.2,71.4,62.7,5.6,0,Bachelor's,Yes,Yes,No,6,92.1,Distinction
+STU_12482,28.0,64.7,73.5,5.8,0,Bachelor's,Yes,Yes,Yes,2,90.8,Distinction
+STU_12483,10.0,85.3,62.6,9.2,1,High School,Yes,No,No,8,78.6,Merit
+STU_12484,11.4,78.3,68.2,6.5,1,Some College,Yes,Yes,No,5,94.2,Distinction
+STU_12485,20.6,87.4,71.4,6.1,0,Master's,Yes,Yes,Yes,6,100.0,Distinction
+STU_12486,12.5,74.8,62.6,9.0,1,Some College,Yes,Yes,Yes,8,84.5,Merit
+STU_12487,14.7,92.1,60.5,8.4,3,High School,Yes,No,No,7,96.3,Distinction
+STU_12488,15.2,67.0,75.4,8.7,1,Bachelor's,Yes,Yes,No,3,91.9,Distinction
+STU_12489,2.5,99.8,61.9,6.1,3,Bachelor's,Yes,Yes,Yes,2,86.9,Distinction
+STU_12490,14.9,69.0,62.3,5.4,4,High School,Yes,No,Yes,3,87.8,Distinction
+STU_12491,10.5,92.1,60.7,7.4,0,High School,Yes,No,No,8,82.6,Merit
+STU_12492,11.8,93.7,71.1,7.6,0,High School,Yes,No,No,4,91.6,Distinction
+STU_12493,24.4,85.7,83.3,7.6,1,High School,Yes,No,No,8,92.9,Distinction
+STU_12494,6.8,59.2,90.1,9.0,1,Some College,Yes,Yes,No,4,84.5,Merit
+STU_12495,20.3,64.4,63.3,5.1,1,Some College,Yes,No,No,7,72.6,Merit
+STU_12496,13.2,94.0,97.8,8.2,0,Some College,Yes,No,Yes,6,100.0,Distinction
+STU_12497,13.2,73.9,59.9,5.9,2,Master's,Yes,No,No,10,71.3,Merit
+STU_12498,20.1,76.5,85.0,8.2,0,Bachelor's,Yes,Yes,No,1,100.0,Distinction
+STU_12499,17.2,92.1,63.3,6.6,4,Master's,Yes,No,Yes,8,100.0,Distinction

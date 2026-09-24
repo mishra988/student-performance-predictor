@@ -1,0 +1,72 @@
+{
+  "best_model_name": "Gradient Boosting",
+  "feature_names": [
+    "hours_studied",
+    "attendance_rate",
+    "previous_score",
+    "sleep_hours",
+    "tutoring_sessions",
+    "stress_level",
+    "study_efficiency",
+    "attendance_risk",
+    "academic_momentum",
+    "wellbeing_ratio",
+    "parental_education",
+    "internet_access_Yes",
+    "extracurricular_activities_Yes",
+    "peer_study_group_Yes"
+  ],
+  "metrics": {
+    "cv_r2_mean": 0.8565067153682934,
+    "cv_r2_std": 0.007950471882522429,
+    "test_r2": 0.8897516461459416,
+    "rmse": 3.3602927097512643,
+    "mae": 2.538195821459215,
+    "mape": 0.030073465879196747
+  },
+  "all_benchmarks": {
+    "Random Forest": {
+      "cv_r2_mean": 0.7944114337532651,
+      "cv_r2_std": 0.00911755740612884,
+      "test_r2": 0.831560711071581,
+      "rmse": 4.153486015911703,
+      "mae": 2.987087992151598,
+      "mape": 0.036201264391719425
+    },
+    "Gradient Boosting": {
+      "cv_r2_mean": 0.8565067153682934,
+      "cv_r2_std": 0.007950471882522429,
+      "test_r2": 0.8897516461459416,
+      "rmse": 3.3602927097512643,
+      "mae": 2.538195821459215,
+      "mape": 0.030073465879196747
+    },
+    "Ridge Regression": {
+      "cv_r2_mean": 0.7354809719402263,
+      "cv_r2_std": 0.01631804115770342,
+      "test_r2": 0.7565970201177756,
+      "rmse": 4.992912996106395,
+      "mae": 3.819678133915265,
+      "mape": 0.04506575672285936
+    },
+    "Linear Regression": {
+      "cv_r2_mean": 0.7355137134636119,
+      "cv_r2_std": 0.017002175668538223,
+      "test_r2": 0.7565968985154187,
+      "rmse": 4.992914243317735,
+      "mae": 3.816896352115179,
+      "mape": 0.045014292228595564
+    },
+    "Support Vector Regressor": {
+      "cv_r2_mean": 0.8494844416243217,
+      "cv_r2_std": 0.005741735353638932,
+      "test_r2": 0.8732008795658474,
+      "rmse": 3.603704511175527,
+      "mae": 2.6571547107066547,
+      "mape": 0.03202202616404755
+    }
+  },
+  "n_samples": 2500,
+  "train_samples": 2000,
+  "test_samples": 500
+}
