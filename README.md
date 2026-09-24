@@ -1,5 +1,9 @@
 # 🎓 Student Academic Performance Prediction Engine
 
+> 🚀 **Live Web App:** **[https://student-performance-predictor-88bc.onrender.com](https://student-performance-predictor-88bc.onrender.com)**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-student--performance--predictor-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://student-performance-predictor-88bc.onrender.com)
+
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?logo=python&logoColor=white)](#)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9.1-F7931E?logo=scikit-learn&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-3.0.6-150458?logo=pandas&logoColor=white)](#)
